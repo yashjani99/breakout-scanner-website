@@ -1,6 +1,5 @@
 import Link from "next/link";
 import {
-  APP_REPO_URL,
   AUTHOR_NAME,
   AUTHOR_URL,
   LEGAL_LINKS,
@@ -35,16 +34,6 @@ export default function Footer() {
                   </Link>
                 </li>
               ))}
-              <li>
-                <a
-                  href={APP_REPO_URL}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-muted hover:text-foreground"
-                >
-                  Source on GitHub
-                </a>
-              </li>
             </ul>
           </div>
 

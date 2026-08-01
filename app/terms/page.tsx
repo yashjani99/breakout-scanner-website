@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import LegalLayout from "@/components/LegalLayout";
-import { APP_REPO_URL, AUTHOR_URL, SITE_NAME } from "@/lib/constants";
+import { AUTHOR_URL, SITE_NAME } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title: "Terms of Service",
@@ -20,12 +20,8 @@ export default function TermsPage() {
       <h2>License</h2>
       <p>
         The Software is provided free of charge for personal, non-commercial and educational use.
-        Its source code is published at{" "}
-        <a href={APP_REPO_URL} target="_blank" rel="noreferrer" className="text-accent underline">
-          {APP_REPO_URL.replace("https://", "")}
-        </a>
-        . You may inspect it, and you may redistribute or modify it in accordance with whatever
-        license accompanies that repository.
+        No rights to redistribute, sell, or sublicense the Software are granted. All other rights
+        not expressly granted here are reserved.
       </p>
 
       <h2>No Investment Advice</h2>

@@ -18,7 +18,7 @@ const STEPS = [
   },
   {
     title: "Windows SmartScreen warning (expected)",
-    body: "Because the installer isn't code-signed with a paid certificate yet, Windows may show a \"Windows protected your PC\" SmartScreen prompt. Click \"More info\", then \"Run anyway\" to continue. This is normal for small independent tools and does not mean the file is unsafe — you can verify what you're installing any time by reading the source code on GitHub.",
+    body: "Because the installer isn't code-signed with a paid certificate yet, Windows may show a \"Windows protected your PC\" SmartScreen prompt. Click \"More info\", then \"Run anyway\" to continue. This is normal for small independent tools and does not mean the file is unsafe.",
   },
   {
     title: "Finish the install",
@@ -77,17 +77,7 @@ export default function SetupPage() {
       <div className="mt-8 rounded-xl border border-border bg-surface p-6">
         <h2 className="font-semibold text-foreground">Current version</h2>
         <p className="mt-3 text-sm leading-relaxed text-muted">
-          You&apos;re looking at the installer for v{APP_VERSION}. Every release, including
-          release notes, is published on{" "}
-          <a
-            href="https://github.com/yashjani99/breakout-scanner-global-markets/releases"
-            target="_blank"
-            rel="noreferrer"
-            className="text-accent hover:underline"
-          >
-            GitHub Releases
-          </a>
-          .
+          You&apos;re looking at the installer for v{APP_VERSION}.
         </p>
       </div>
     </div>

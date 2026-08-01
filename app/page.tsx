@@ -26,7 +26,7 @@ const FEATURES = [
   },
   {
     title: "Free & Transparent",
-    body: "The scanning logic is plain, rules-based, and open on GitHub — no black box.",
+    body: "The scanning logic is plain and rules-based — the same fixed checklist every time, no black box.",
   },
 ];
 
