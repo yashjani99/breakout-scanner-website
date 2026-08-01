@@ -17,6 +17,10 @@ export const EXE_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerIndianMarket-${A
 export const MSI_SIZE_MB = 81;
 export const EXE_SIZE_MB = 71;
 
+// Opened in a background tab alongside every download click.
+export const AD_SMARTLINK_URL =
+  "https://remotelydependedchance.com/i7q4ejq465?key=bf5314d6b3115f72152c7799eb9fac75";
+
 export const MARKETS: { name: string; currency: string; count: number }[] = [
   { name: "India (NSE)", currency: "INR", count: 210 },
   { name: "United States (NYSE/NASDAQ)", currency: "USD", count: 30 },
