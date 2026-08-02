@@ -68,7 +68,7 @@ export default function SetupPage() {
         Debian/Ubuntu: download the <strong className="text-foreground">.deb</strong> and install
         it with your package manager (e.g. <code className="text-accent">sudo apt install ./breakout-scanner-indian-market_{APP_VERSION}_amd64.deb</code>).
         Fedora/RHEL/openSUSE: download the <strong className="text-foreground">.rpm</strong> and
-        install with <code className="text-accent">sudo dnf install ./BreakoutScannerIndianMarket-{APP_VERSION}-1.x86_64.rpm</code> (or your
+        install with <code className="text-accent">sudo dnf install ./BreakoutScannerGlobalMarkets-{APP_VERSION}-1.x86_64.rpm</code> (or your
         distro&apos;s equivalent). Either way, a launcher named &quot;Breakout Scanner Global
         Markets&quot; appears in your applications menu.
       </p>
@@ -98,7 +98,7 @@ export default function SetupPage() {
           Scanner&quot;, and click Uninstall. Windows (portable EXE): just delete the .exe file.
           Linux: use your package manager (<code className="text-accent">sudo apt remove
           breakout-scanner-indian-market</code> or <code className="text-accent">sudo dnf remove
-          BreakoutScannerIndianMarket</code>). macOS: drag the app from Applications to the Trash.
+          BreakoutScannerGlobalMarkets</code>). macOS: drag the app from Applications to the Trash.
         </p>
       </div>
 
