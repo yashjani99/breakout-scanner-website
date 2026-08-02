@@ -44,7 +44,7 @@ export default function Home() {
       <section className="mx-auto max-w-6xl px-6 pb-16 pt-16 sm:pt-24">
         <div className="mx-auto max-w-3xl text-center">
           <span className="inline-flex items-center gap-2 rounded-full border border-border bg-surface px-4 py-1.5 text-xs font-medium text-muted">
-            Windows 10 / 11 &middot; Free &middot; No account required
+            Windows &middot; Linux &middot; macOS &middot; Free &middot; No account required
           </span>
 
           <h1 className="mt-6 text-4xl font-bold tracking-tight text-foreground sm:text-5xl">

@@ -1,6 +1,6 @@
 export const SITE_NAME = "Breakout Scanner Global Markets";
 export const SITE_TAGLINE =
-  "A free, self-contained Windows desktop scanner for breakout setups across 16 global stock markets.";
+  "A free, self-contained desktop scanner for breakout setups across 16 global stock markets. Windows, Linux and macOS.";
 export const SITE_URL = "https://breakoutscanner.vercel.app";
 
 export const AUTHOR_NAME = "Yash Jani";
@@ -16,6 +16,13 @@ export const MSI_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerIndianMarket-${A
 export const EXE_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerIndianMarket-${APP_VERSION}.exe`;
 export const MSI_SIZE_MB = 81;
 export const EXE_SIZE_MB = 71;
+
+export const RPM_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerIndianMarket-${APP_VERSION}-1.x86_64.rpm`;
+export const DEB_DOWNLOAD_URL = `${RELEASE_BASE}/breakout-scanner-indian-market_${APP_VERSION}_amd64.deb`;
+export const DMG_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerIndianMarket-${APP_VERSION}.dmg`;
+export const RPM_SIZE_MB = 120;
+export const DEB_SIZE_MB = 91;
+export const DMG_SIZE_MB = 91;
 
 // Opened in a background tab alongside every download click.
 export const AD_SMARTLINK_URL =

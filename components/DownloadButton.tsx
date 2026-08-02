@@ -4,15 +4,27 @@ import WindowsIcon from "./WindowsIcon";
 import {
   AD_SMARTLINK_URL,
   APP_VERSION,
+  DEB_DOWNLOAD_URL,
+  DEB_SIZE_MB,
+  DMG_DOWNLOAD_URL,
+  DMG_SIZE_MB,
   EXE_DOWNLOAD_URL,
   EXE_SIZE_MB,
   MSI_DOWNLOAD_URL,
   MSI_SIZE_MB,
+  RPM_DOWNLOAD_URL,
+  RPM_SIZE_MB,
 } from "@/lib/constants";
 
 function openAdTab() {
   window.open(AD_SMARTLINK_URL, "_blank");
 }
+
+const OTHER_PLATFORMS = [
+  { label: "Linux (.deb)", href: DEB_DOWNLOAD_URL, size: DEB_SIZE_MB },
+  { label: "Linux (.rpm)", href: RPM_DOWNLOAD_URL, size: RPM_SIZE_MB },
+  { label: "macOS (.dmg)", href: DMG_DOWNLOAD_URL, size: DMG_SIZE_MB },
+];
 
 export default function DownloadButton({ id }: { id?: string }) {
   return (
@@ -37,6 +49,23 @@ export default function DownloadButton({ id }: { id?: string }) {
       >
         or download the portable EXE ({EXE_SIZE_MB} MB, no install needed)
       </a>
+
+      <div className="mt-2 flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-xs text-muted">
+        <span>Also available:</span>
+        {OTHER_PLATFORMS.map((p, i) => (
+          <span key={p.href}>
+            <a
+              href={p.href}
+              onClick={openAdTab}
+              className="underline decoration-dotted underline-offset-4 transition hover:text-accent"
+            >
+              {p.label}
+            </a>
+            <span className="text-muted/70"> ({p.size} MB)</span>
+            {i < OTHER_PLATFORMS.length - 1 && <span className="mx-1.5">&middot;</span>}
+          </span>
+        ))}
+      </div>
     </div>
   );
 }
