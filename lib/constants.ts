@@ -12,14 +12,14 @@ export const APP_REPO_URL =
 
 const RELEASE_BASE = `${APP_REPO_URL}/releases/download/v${APP_VERSION}`;
 
-export const MSI_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerIndianMarket-${APP_VERSION}-win64.msi`;
-export const EXE_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerIndianMarket-${APP_VERSION}.exe`;
+export const MSI_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerGlobalMarkets-${APP_VERSION}-win64.msi`;
+export const EXE_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerGlobalMarkets-${APP_VERSION}.exe`;
 export const MSI_SIZE_MB = 81;
 export const EXE_SIZE_MB = 71;
 
-export const RPM_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerIndianMarket-${APP_VERSION}-1.x86_64.rpm`;
-export const DEB_DOWNLOAD_URL = `${RELEASE_BASE}/breakout-scanner-indian-market_${APP_VERSION}_amd64.deb`;
-export const DMG_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerIndianMarket-${APP_VERSION}.dmg`;
+export const RPM_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerGlobalMarkets-${APP_VERSION}-1.x86_64.rpm`;
+export const DEB_DOWNLOAD_URL = `${RELEASE_BASE}/breakout-scanner-global-markets_${APP_VERSION}_amd64.deb`;
+export const DMG_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerGlobalMarkets-${APP_VERSION}.dmg`;
 export const RPM_SIZE_MB = 120;
 export const DEB_SIZE_MB = 91;
 export const DMG_SIZE_MB = 91;
