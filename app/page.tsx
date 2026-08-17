@@ -148,6 +148,26 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Daily Scans teaser */}
+      <section className="border-t border-border py-20">
+        <div className="mx-auto max-w-3xl px-6 text-center">
+          <h2 className="text-2xl font-bold text-foreground sm:text-3xl">
+            Don&apos;t want to install anything yet?
+          </h2>
+          <p className="mt-4 text-muted">
+            Every market here is scanned automatically once a day, about 30 minutes after that
+            market&apos;s own close, across all three strategies. Browse the results right in
+            your browser — no download required.
+          </p>
+          <Link
+            href="/scans"
+            className="mt-6 inline-flex items-center gap-1 text-sm font-medium text-accent hover:underline"
+          >
+            Browse today&apos;s scans →
+          </Link>
+        </div>
+      </section>
+
       {/* How it works teaser */}
       <section className="border-t border-border bg-surface/30 py-20">
         <div className="mx-auto max-w-3xl px-6 text-center">

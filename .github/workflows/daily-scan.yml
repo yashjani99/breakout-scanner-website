@@ -1,0 +1,100 @@
+name: Daily Market Scan
+
+# One schedule entry per market, each set to that market's local close + 30
+# minutes, converted to UTC using its STANDARD (non-DST) offset. That choice
+# means during a market's DST season the job fires with a bigger safety
+# buffer (up to ~90 min after close) rather than ever firing early - simpler
+# than seasonal cron adjustments, and the buffer direction is always safe.
+#
+# A few markets share the same close time across timezones (e.g. the six
+# Europe/Euronext markets, and US/Canada), so those are offset by 1 minute
+# each purely so every cron string here is unique - scripts/run_scan.py's
+# MARKET_CRON map relies on github.event.schedule matching one of these
+# strings exactly to know which market to scan.
+on:
+  schedule:
+    - cron: "30 6 * * *"  # Australia (ASX)          - close 16:00 AEST + 30m
+    - cron: "0 7 * * *"   # Japan (Tokyo)             - close 15:30 JST + 30m
+    - cron: "1 7 * * *"   # South Korea (KOSPI)       - close 15:30 KST + 30m (+1m vs Japan)
+    - cron: "30 7 * * *"  # China A-Shares            - close 15:00 CST + 30m
+    - cron: "30 8 * * *"  # Hong Kong (HKEX)          - close 16:00 HKT + 30m
+    - cron: "30 9 * * *"  # Singapore (SGX)           - close 17:00 SGT + 30m
+    - cron: "30 10 * * *" # India (NSE)               - close 15:30 IST + 30m
+    - cron: "0 17 * * *"  # United Kingdom (LSE)      - close 16:30 GMT + 30m
+    - cron: "1 17 * * *"  # Germany (XETRA)           - close 17:30 CET + 30m (+1m)
+    - cron: "2 17 * * *"  # France (Euronext Paris)   - close 17:30 CET + 30m (+2m)
+    - cron: "3 17 * * *"  # Netherlands (Euronext)    - close 17:30 CET + 30m (+3m)
+    - cron: "4 17 * * *"  # Switzerland (SIX)         - close 17:30 CET + 30m (+4m)
+    - cron: "5 17 * * *"  # Italy (Borsa Italiana)    - close 17:30 CET + 30m (+5m)
+    - cron: "30 20 * * *" # Brazil (B3)               - close 17:00 BRT + 30m
+    - cron: "30 21 * * *" # United States (NYSE/NASDAQ) - close 16:00 EST + 30m
+    - cron: "31 21 * * *" # Canada (TSX)              - close 16:00 EST + 30m (+1m vs US)
+  workflow_dispatch:
+    inputs:
+      market:
+        description: "Market to scan (leave default for schedule-based runs)"
+        type: choice
+        default: "India (NSE)"
+        options:
+          - "India (NSE)"
+          - "United States (NYSE/NASDAQ)"
+          - "Canada (TSX)"
+          - "United Kingdom (LSE)"
+          - "Germany (XETRA)"
+          - "France (Euronext Paris)"
+          - "Netherlands (Euronext Amsterdam)"
+          - "Switzerland (SIX)"
+          - "Italy (Borsa Italiana)"
+          - "Japan (Tokyo)"
+          - "Hong Kong (HKEX)"
+          - "China A-Shares (Shanghai/Shenzhen)"
+          - "South Korea (KOSPI)"
+          - "Singapore (SGX)"
+          - "Australia (ASX)"
+          - "Brazil (B3)"
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout website repo
+        uses: actions/checkout@v4
+
+      - name: Checkout app repo (public, read-only, for scanner_core.py)
+        uses: actions/checkout@v4
+        with:
+          repository: yashjani99/breakout-scanner-global-markets
+          path: app-repo
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install headless scan dependencies
+        run: python -m pip install -r app-repo/BreakoutScannerApp/requirements-headless.txt
+
+      - name: Run scan
+        env:
+          SCHEDULE_CRON: ${{ github.event.schedule }}
+          DISPATCH_MARKET: ${{ github.event.inputs.market }}
+        run: |
+          if [ -n "$DISPATCH_MARKET" ]; then
+            python scripts/run_scan.py --market "$DISPATCH_MARKET" --app-repo-path app-repo
+          else
+            python scripts/run_scan.py --schedule "$SCHEDULE_CRON" --app-repo-path app-repo
+          fi
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/scans/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update daily scan data [skip ci]"
+            git push
+          fi

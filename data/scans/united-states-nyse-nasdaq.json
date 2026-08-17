@@ -1,0 +1,172 @@
+{
+  "market": "United States (NYSE/NASDAQ)",
+  "currency": "USD",
+  "generated_at": "2026-08-17T17:11:35.954304+00:00",
+  "strategies": {
+    "breakout": {
+      "label": "Breakout (DMA + CAR)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "MA",
+          "CMP": 563.35,
+          "30 DMA": 551.9,
+          "50 DMA": 530.51,
+          "200 DMA": 526.47,
+          "200 DMA Dist %": 7.0,
+          "SL": 556.06,
+          "T1": 577.93,
+          "T2": 585.22,
+          "T3": 599.8,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "MSFT",
+          "CMP": 479.55,
+          "30 DMA": 433.08,
+          "50 DMA": 413.81,
+          "200 DMA": 431.02,
+          "200 DMA Dist %": 11.26,
+          "SL": 479.17,
+          "T1": 480.31,
+          "T2": 480.69,
+          "T3": 481.45,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "XOM",
+          "CMP": 161.24,
+          "30 DMA": 151.99,
+          "50 DMA": 147.75,
+          "200 DMA": 140.56,
+          "200 DMA Dist %": 14.71,
+          "SL": 149.09,
+          "T1": 185.54,
+          "T2": 197.69,
+          "T3": 221.99,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "CVX",
+          "CMP": 202.44,
+          "30 DMA": 189.1,
+          "50 DMA": 184.28,
+          "200 DMA": 175.8,
+          "200 DMA Dist %": 15.15,
+          "SL": 185.87,
+          "T1": 235.58,
+          "T2": 252.15,
+          "T3": 285.29,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "NVDA",
+          "CMP": 226.57,
+          "30 DMA": 209.58,
+          "50 DMA": 206.68,
+          "200 DMA": 194.88,
+          "200 DMA Dist %": 16.26,
+          "SL": 209.05,
+          "T1": 261.6,
+          "T2": 279.12,
+          "T3": 314.16,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
+    },
+    "rsi": {
+      "label": "RSI 5-Star",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "Entry",
+        "SL",
+        "T1 (RSI 60 Est.)",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "NVDA",
+          "CMP": 226.57,
+          "Monthly RSI": 71.5,
+          "Weekly RSI": 61.9,
+          "Signal Date": "30-07-2026",
+          "Entry": 197.25,
+          "SL": 190.01,
+          "T1 (RSI 60 Est.)": 233.81,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
+    },
+    "confluence": {
+      "label": "Confluence (Both)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "NVDA",
+          "CMP": 226.55,
+          "30 DMA": 209.58,
+          "50 DMA": 206.68,
+          "200 DMA": 194.88,
+          "200 DMA Dist %": 16.25,
+          "Monthly RSI": 71.5,
+          "Weekly RSI": 61.9,
+          "Signal Date": "30-07-2026",
+          "SL": 209.05,
+          "T1": 261.55,
+          "T2": 279.05,
+          "T3": 314.05,
+          "CAR Status": "Positive",
+          "Action": "Breakout + RSI 5-Star"
+        }
+      ]
+    }
+  }
+}

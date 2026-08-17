@@ -6,7 +6,7 @@ export const SITE_URL = "https://breakoutscanner.vercel.app";
 export const AUTHOR_NAME = "Yash Jani";
 export const AUTHOR_URL = "https://yashjani.biz";
 
-export const APP_VERSION = "2.0.3";
+export const APP_VERSION = "2.0.4";
 export const APP_REPO_URL =
   "https://github.com/yashjani99/breakout-scanner-global-markets";
 
@@ -30,6 +30,9 @@ export const DMG_SIZE_MB = 100;
 export const AD_SMARTLINK_URL =
   "https://remotelydependedchance.com/i7q4ejq465?key=bf5314d6b3115f72152c7799eb9fac75";
 
+// Names must match scanner_core.py's MARKETS dict keys exactly - the daily
+// scan workflow slugifies these same strings to name each data/scans/*.json
+// file, so a mismatch here silently breaks the lookup on the /scans page.
 export const MARKETS: { name: string; currency: string; count: number }[] = [
   { name: "India (NSE)", currency: "INR", count: 210 },
   { name: "United States (NYSE/NASDAQ)", currency: "USD", count: 30 },
@@ -42,14 +45,28 @@ export const MARKETS: { name: string; currency: string; count: number }[] = [
   { name: "Italy (Borsa Italiana)", currency: "EUR", count: 10 },
   { name: "Japan (Tokyo)", currency: "JPY", count: 25 },
   { name: "Hong Kong (HKEX)", currency: "HKD", count: 20 },
-  { name: "China A-Shares", currency: "CNY", count: 15 },
+  { name: "China A-Shares (Shanghai/Shenzhen)", currency: "CNY", count: 15 },
   { name: "South Korea (KOSPI)", currency: "KRW", count: 15 },
   { name: "Singapore (SGX)", currency: "SGD", count: 10 },
   { name: "Australia (ASX)", currency: "AUD", count: 20 },
   { name: "Brazil (B3)", currency: "BRL", count: 15 },
 ];
 
+// Mirrors scripts/run_scan.py's slugify() exactly - must stay in sync.
+export function slugifyMarket(name: string): string {
+  let out = name
+    .toLowerCase()
+    .split("")
+    .map((ch) => (/[a-z0-9]/.test(ch) ? ch : "-"))
+    .join("");
+  while (out.includes("--")) {
+    out = out.replaceAll("--", "-");
+  }
+  return out.replace(/^-+|-+$/g, "");
+}
+
 export const NAV_LINKS = [
+  { href: "/scans", label: "Daily Scans" },
   { href: "/how-it-works", label: "How It Works" },
   { href: "/how-to-use", label: "How To Use" },
   { href: "/setup", label: "Setup" },
