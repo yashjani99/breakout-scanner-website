@@ -1,0 +1,120 @@
+{
+  "market": "Italy (Borsa Italiana)",
+  "currency": "EUR",
+  "generated_at": "2026-08-17T17:25:04.094483+00:00",
+  "strategies": {
+    "breakout": {
+      "label": "Breakout (DMA + CAR)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "RACE",
+          "CMP": 361.65,
+          "30 DMA": 339.04,
+          "50 DMA": 330.06,
+          "200 DMA": 311.63,
+          "200 DMA Dist %": 16.05,
+          "SL": 344.75,
+          "T1": 395.45,
+          "T2": 412.35,
+          "T3": 446.15,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "ENI",
+          "CMP": 23.77,
+          "30 DMA": 22.59,
+          "50 DMA": 22.14,
+          "200 DMA": 19.96,
+          "200 DMA Dist %": 19.13,
+          "SL": 22.99,
+          "T1": 25.35,
+          "T2": 26.14,
+          "T3": 27.72,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
+    },
+    "rsi": {
+      "label": "RSI 5-Star",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "Entry",
+        "SL",
+        "T1 (RSI 60 Est.)",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "TIT",
+          "CMP": 7.69,
+          "Monthly RSI": 79.8,
+          "Weekly RSI": 65.0,
+          "Signal Date": "11-08-2026",
+          "Entry": 7.55,
+          "SL": 7.27,
+          "T1 (RSI 60 Est.)": 8.12,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "PST",
+          "CMP": 27.39,
+          "Monthly RSI": 75.9,
+          "Weekly RSI": 65.0,
+          "Signal Date": "11-08-2026",
+          "Entry": 26.98,
+          "SL": 25.81,
+          "T1 (RSI 60 Est.)": 29.32,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
+    },
+    "confluence": {
+      "label": "Confluence (Both)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": []
+    }
+  }
+}
