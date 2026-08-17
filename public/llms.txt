@@ -1,0 +1,26 @@
+# Breakout Scanner Global Markets
+
+> A free, rules-based stock breakout scanner covering 16 global stock exchanges (India NSE, US NYSE/NASDAQ, Canada TSX, UK LSE, Germany XETRA, France Euronext Paris, Netherlands Euronext Amsterdam, Switzerland SIX, Italy Borsa Italiana, Japan Tokyo, Hong Kong HKEX, China A-Shares, South Korea KOSPI, Singapore SGX, Australia ASX, Brazil B3), with three mechanical strategies: Breakout (price above 30/50/200-day moving averages plus a strengthening Cumulative Average Return), RSI 5-Star (a multi-timeframe RSI pullback setup), and Confluence (stocks passing both at once). Live scan results are free to browse on the website, refreshed automatically about 30 minutes after each market's own close. A free desktop app (Windows, Linux, macOS) is also available. This is an educational tool, not financial advice - it is not a registered financial advisor and its output can be wrong.
+
+## Live Data
+
+- [Daily Scans](https://www.breakoutscanner.site/scans): today's scan results for all 16 markets and all 3 strategies, updated automatically once a day per market.
+
+## How It Works
+
+- [How It Works](https://www.breakoutscanner.site/how-it-works): the exact rules and formulas behind each strategy.
+- [Guides](https://www.breakoutscanner.site/guides): in-depth explainers on breakout trading, RSI, moving averages, multi-timeframe RSI analysis, and stop-loss/risk-reward.
+- [Glossary](https://www.breakoutscanner.site/glossary): plain-English definitions of the trading terms used across the site.
+- [FAQ](https://www.breakoutscanner.site/faq): frequently asked questions with direct answers.
+
+## Using the Desktop App
+
+- [How To Use](https://www.breakoutscanner.site/how-to-use): using the desktop app's interface (market picker, strategy picker, scan, Excel/PDF export).
+- [Setup](https://www.breakoutscanner.site/setup): downloading and installing the app on Windows, Linux, or macOS.
+
+## About
+
+- [About](https://www.breakoutscanner.site/about): who built this project and why.
+- [Disclaimer](https://www.breakoutscanner.site/disclaimer): not financial advice - read before using any results.
+- [Privacy Policy](https://www.breakoutscanner.site/privacy)
+- [Terms of Service](https://www.breakoutscanner.site/terms)

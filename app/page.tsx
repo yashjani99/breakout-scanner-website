@@ -1,9 +1,10 @@
 import Link from "next/link";
 import DownloadButton from "@/components/DownloadButton";
 import HomeScansSection from "@/components/HomeScansSection";
+import JsonLd from "@/components/JsonLd";
 import RiskCallout from "@/components/RiskCallout";
 import { loadAllScanData } from "@/lib/scanData";
-import { MARKETS, SITE_NAME } from "@/lib/constants";
+import { AUTHOR_NAME, MARKETS, SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/constants";
 
 const FEATURES = [
   {
@@ -37,6 +38,27 @@ export default function Home() {
 
   return (
     <div>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "SoftwareApplication",
+          name: SITE_NAME,
+          description: SITE_TAGLINE,
+          url: SITE_URL,
+          applicationCategory: "FinanceApplication",
+          operatingSystem: "Windows, Linux, macOS, Web",
+          offers: {
+            "@type": "Offer",
+            price: "0",
+            priceCurrency: "USD",
+          },
+          author: {
+            "@type": "Person",
+            name: AUTHOR_NAME,
+          },
+        }}
+      />
+
       {/* Hero */}
       <section className="mx-auto max-w-6xl px-6 pb-16 pt-16 sm:pt-24">
         <div className="mx-auto max-w-3xl text-center">

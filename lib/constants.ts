@@ -1,7 +1,7 @@
 export const SITE_NAME = "Breakout Scanner Global Markets";
 export const SITE_TAGLINE =
-  "A free, self-contained desktop scanner for breakout setups across 16 global stock markets. Windows, Linux and macOS.";
-export const SITE_URL = "https://breakoutscanner.vercel.app";
+  "Free daily breakout, RSI 5-Star and Confluence stock scans across 16 global markets. Browse results on the web, or download the free Windows, Linux and macOS app.";
+export const SITE_URL = "https://www.breakoutscanner.site";
 
 export const AUTHOR_NAME = "Yash Jani";
 export const AUTHOR_URL = "https://yashjani.biz";
@@ -67,8 +67,8 @@ export function slugifyMarket(name: string): string {
 
 export const NAV_LINKS = [
   { href: "/scans", label: "Daily Scans" },
+  { href: "/guides", label: "Guides" },
   { href: "/how-it-works", label: "How It Works" },
-  { href: "/how-to-use", label: "How To Use" },
   { href: "/setup", label: "Setup" },
 ];
 
@@ -76,4 +76,46 @@ export const LEGAL_LINKS = [
   { href: "/disclaimer", label: "Disclaimer" },
   { href: "/privacy", label: "Privacy Policy" },
   { href: "/terms", label: "Terms of Service" },
+];
+
+export const RESOURCE_LINKS = [
+  { href: "/guides", label: "Guides" },
+  { href: "/glossary", label: "Glossary" },
+  { href: "/faq", label: "FAQ" },
+  { href: "/about", label: "About" },
+];
+
+// Single source of truth for the guides index, the sitemap, and internal
+// cross-links between guides - add a guide by adding one entry here.
+export const GUIDES: { slug: string; title: string; description: string }[] = [
+  {
+    slug: "what-is-a-breakout-strategy",
+    title: "What Is a Breakout Trading Strategy?",
+    description:
+      "How breakout trading works, why moving averages are used to confirm one, and the difference between a real breakout and a false one.",
+  },
+  {
+    slug: "rsi-explained",
+    title: "RSI Explained: How the Relative Strength Index Works",
+    description:
+      "What RSI actually measures, how it's calculated (Wilder's smoothing), and how to read overbought/oversold and pullback levels.",
+  },
+  {
+    slug: "moving-averages-explained",
+    title: "Moving Averages Explained: 30/50/200-Day Trend Analysis",
+    description:
+      "What a moving average is, why 30/50/200-day periods are common trend filters, and what it means when price and MAs align.",
+  },
+  {
+    slug: "multi-timeframe-rsi-strategy",
+    title: "Multi-Timeframe RSI Analysis: The RSI 5-Star Approach",
+    description:
+      "Why checking RSI on the monthly, weekly and daily chart together — instead of just one — filters out weaker setups.",
+  },
+  {
+    slug: "stop-loss-and-risk-reward",
+    title: "Stop-Loss, Risk-Reward and Position Sizing Explained",
+    description:
+      "How to set a stop-loss from a swing low, calculate risk-reward ratios, and size a position around a fixed risk amount.",
+  },
 ];

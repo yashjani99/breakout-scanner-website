@@ -41,19 +41,56 @@ body {
   margin-bottom: 0.75rem;
 }
 
+.prose-legal h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--foreground);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
 .prose-legal p,
 .prose-legal li {
   color: var(--muted);
   line-height: 1.75;
 }
 
-.prose-legal ul {
-  list-style: disc;
+.prose-legal ul,
+.prose-legal ol {
   padding-left: 1.5rem;
   margin-top: 0.5rem;
   margin-bottom: 1rem;
 }
 
+.prose-legal ul {
+  list-style: disc;
+}
+
+.prose-legal ol {
+  list-style: decimal;
+}
+
 .prose-legal p {
   margin-bottom: 1rem;
+}
+
+.prose-legal strong {
+  color: var(--foreground);
+  font-weight: 600;
+}
+
+.prose-legal blockquote {
+  border-left: 3px solid var(--accent);
+  padding-left: 1rem;
+  margin: 1.25rem 0;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.prose-legal code {
+  background: var(--surface-2);
+  border-radius: 4px;
+  padding: 0.15rem 0.4rem;
+  font-size: 0.85em;
+  color: var(--accent);
 }

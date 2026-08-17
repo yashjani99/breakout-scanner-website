@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import JsonLd from "@/components/JsonLd";
 import { SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/constants";
 import "./globals.css";
 
@@ -15,15 +16,20 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const TITLE_DEFAULT = `${SITE_NAME} — Free Daily Breakout & RSI Stock Scans`;
+
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: `${SITE_NAME} — Free Windows Breakout Scanner`,
+    default: TITLE_DEFAULT,
     template: `%s — ${SITE_NAME}`,
   },
   description: SITE_TAGLINE,
+  alternates: {
+    canonical: "/",
+  },
   openGraph: {
-    title: `${SITE_NAME} — Free Windows Breakout Scanner`,
+    title: TITLE_DEFAULT,
     description: SITE_TAGLINE,
     url: SITE_URL,
     siteName: SITE_NAME,
@@ -31,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary",
-    title: `${SITE_NAME} — Free Windows Breakout Scanner`,
+    title: TITLE_DEFAULT,
     description: SITE_TAGLINE,
   },
 };
@@ -44,6 +50,15 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col">
+        <JsonLd
+          data={{
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: SITE_NAME,
+            url: SITE_URL,
+            description: SITE_TAGLINE,
+          }}
+        />
         <Navbar />
         <main className="flex-1">{children}</main>
         <Footer />

@@ -4,6 +4,7 @@ import {
   AUTHOR_URL,
   LEGAL_LINKS,
   NAV_LINKS,
+  RESOURCE_LINKS,
   SITE_NAME,
 } from "@/lib/constants";
 
@@ -13,8 +14,8 @@ export default function Footer() {
   return (
     <footer className="border-t border-border bg-surface/40">
       <div className="mx-auto max-w-6xl px-6 py-12">
-        <div className="grid grid-cols-1 gap-10 sm:grid-cols-3">
-          <div>
+        <div className="grid grid-cols-2 gap-10 sm:grid-cols-4">
+          <div className="col-span-2 sm:col-span-1">
             <p className="text-sm font-semibold text-foreground">{SITE_NAME}</p>
             <p className="mt-2 text-sm leading-relaxed text-muted">
               A free, educational breakout scanner covering 16 global stock markets.
@@ -28,6 +29,21 @@ export default function Footer() {
             </p>
             <ul className="mt-3 space-y-2 text-sm">
               {NAV_LINKS.map((l) => (
+                <li key={l.href}>
+                  <Link href={l.href} className="text-muted hover:text-foreground">
+                    {l.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-wide text-muted">
+              Resources
+            </p>
+            <ul className="mt-3 space-y-2 text-sm">
+              {RESOURCE_LINKS.map((l) => (
                 <li key={l.href}>
                   <Link href={l.href} className="text-muted hover:text-foreground">
                     {l.label}
