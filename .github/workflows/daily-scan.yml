@@ -59,15 +59,12 @@ permissions:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    # All 16 markets commit to the same data/ directory on main. Scheduled
-    # runs are staggered by design and rarely overlap, but manual
-    # workflow_dispatch bursts (e.g. backfilling several markets at once)
-    # can land two runs' git push at the same moment - queue instead of
-    # racing, since cancel-in-progress:false makes concurrent runs wait
-    # their turn rather than cancelling each other.
-    concurrency:
-      group: daily-scan-data-commit
-      cancel-in-progress: false
+    # NOTE: deliberately no job-level `concurrency:` here. GitHub only keeps
+    # one PENDING run per concurrency group - cancel-in-progress:false only
+    # protects a run that's already RUNNING, so a burst of several dispatches
+    # (e.g. backfilling many markets close together) cancels all but the
+    # newest queued one even with that flag set. The push-retry loop below
+    # is what actually handles concurrent runs landing on main together.
     steps:
       - name: Checkout website repo
         uses: actions/checkout@v4
