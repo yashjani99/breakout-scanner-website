@@ -1,0 +1,147 @@
+{
+  "market": "Canada (TSX)",
+  "currency": "CAD",
+  "generated_at": "2026-08-17T17:34:53.102626+00:00",
+  "strategies": {
+    "breakout": {
+      "label": "Breakout (DMA + CAR)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "CSU",
+          "CMP": 3052.5,
+          "30 DMA": 2926.41,
+          "50 DMA": 2899.31,
+          "200 DMA": 2845.22,
+          "200 DMA Dist %": 7.29,
+          "SL": 2949.7,
+          "T1": 3258.1,
+          "T2": 3360.9,
+          "T3": 3566.5,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "BAM",
+          "CMP": 73.72,
+          "30 DMA": 68.95,
+          "50 DMA": 67.48,
+          "200 DMA": 67.33,
+          "200 DMA Dist %": 9.49,
+          "SL": 66.61,
+          "T1": 87.94,
+          "T2": 95.05,
+          "T3": 109.27,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "CNQ",
+          "CMP": 68.0,
+          "30 DMA": 63.15,
+          "50 DMA": 61.55,
+          "200 DMA": 56.34,
+          "200 DMA Dist %": 20.7,
+          "SL": 62.37,
+          "T1": 79.26,
+          "T2": 84.89,
+          "T3": 96.15,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
+    },
+    "rsi": {
+      "label": "RSI 5-Star",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "Entry",
+        "SL",
+        "T1 (RSI 60 Est.)",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "TD",
+          "CMP": 173.16,
+          "Monthly RSI": 90.9,
+          "Weekly RSI": 80.8,
+          "Signal Date": "29-07-2026",
+          "Entry": 169.36,
+          "SL": 164.11,
+          "T1 (RSI 60 Est.)": 179.86,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "CP",
+          "CMP": 131.0,
+          "Monthly RSI": 72.2,
+          "Weekly RSI": 65.4,
+          "Signal Date": "31-07-2026",
+          "Entry": 125.36,
+          "SL": 122.05,
+          "T1 (RSI 60 Est.)": 134.31,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "SHOP",
+          "CMP": 206.11,
+          "Monthly RSI": 67.6,
+          "Weekly RSI": 60.4,
+          "Signal Date": "24-07-2026",
+          "Entry": 161.49,
+          "SL": 156.45,
+          "T1 (RSI 60 Est.)": 211.15,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
+    },
+    "confluence": {
+      "label": "Confluence (Both)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": []
+    }
+  }
+}
