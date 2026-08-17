@@ -1,6 +1,8 @@
 import Link from "next/link";
 import DownloadButton from "@/components/DownloadButton";
+import HomeScansSection from "@/components/HomeScansSection";
 import RiskCallout from "@/components/RiskCallout";
+import { loadAllScanData } from "@/lib/scanData";
 import { MARKETS, SITE_NAME } from "@/lib/constants";
 
 const FEATURES = [
@@ -17,12 +19,12 @@ const FEATURES = [
     body: "Automatic stop-loss (10-day swing low) plus T1 / T2 / T3 targets sized off your risk, not a guess.",
   },
   {
-    title: "One-Click Export",
-    body: "Send today's results straight to Excel or a formatted PDF for your own records.",
+    title: "Updated Daily, Automatically",
+    body: "Every market is rescanned about 30 minutes after its own close. Browse the results here, no install needed.",
   },
   {
-    title: "Fully Self-Contained",
-    body: "The installer bundles Python and every dependency. No separate downloads, no configuration.",
+    title: "Fully Self-Contained App",
+    body: "Prefer a desktop app? The installer bundles Python and every dependency — no separate downloads, no configuration.",
   },
   {
     title: "Free & Transparent",
@@ -30,21 +32,16 @@ const FEATURES = [
   },
 ];
 
-const RESULT_COLUMNS = ["Stock", "CMP", "200 DMA Dist %", "SL", "T1", "T2", "T3", "CAR Status"];
-const RESULT_ROWS = [
-  ["EXAMPLE_A", "2,850.00", "6.4", "2,610.00", "3,330.00", "3,570.00", "4,050.00", "Positive"],
-  ["EXAMPLE_B", "148.20", "4.1", "139.50", "165.60", "174.30", "191.70", "Positive"],
-  ["EXAMPLE_C", "61.35", "3.8", "58.10", "67.85", "71.10", "77.60", "Positive"],
-];
-
 export default function Home() {
+  const scanData = loadAllScanData();
+
   return (
     <div>
       {/* Hero */}
       <section className="mx-auto max-w-6xl px-6 pb-16 pt-16 sm:pt-24">
         <div className="mx-auto max-w-3xl text-center">
           <span className="inline-flex items-center gap-2 rounded-full border border-border bg-surface px-4 py-1.5 text-xs font-medium text-muted">
-            Windows &middot; Linux &middot; macOS &middot; Free &middot; No account required
+            16 Markets &middot; 3 Strategies &middot; Updated Daily &middot; Free
           </span>
 
           <h1 className="mt-6 text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
@@ -52,52 +49,18 @@ export default function Home() {
           </h1>
 
           <p className="mt-5 text-lg leading-relaxed text-muted">
-            A free desktop scanner that screens stocks across 16 markets for trend-strength
-            breakouts, then hands you a stop-loss and three profit targets for every match —
-            in a table you can export in one click.
+            Trend-strength breakout scans across 16 stock markets, refreshed automatically every
+            day. Browse today&apos;s results right here — a free desktop app is also available
+            below if you want it.
           </p>
+        </div>
 
-          <div className="mt-10">
-            <DownloadButton id="download" />
-          </div>
+        <div className="mx-auto mt-12 max-w-5xl">
+          <HomeScansSection data={scanData} />
         </div>
 
         <div className="mx-auto mt-14 max-w-3xl">
           <RiskCallout />
-        </div>
-      </section>
-
-      {/* Example output mockup */}
-      <section className="mx-auto max-w-5xl px-6 pb-20">
-        <p className="mb-3 text-center text-xs font-medium uppercase tracking-wide text-muted">
-          Illustrative example — not real market data
-        </p>
-        <div className="overflow-x-auto rounded-xl border border-border bg-surface shadow-2xl shadow-black/40">
-          <table className="w-full min-w-[640px] text-left text-sm">
-            <thead>
-              <tr className="border-b border-border bg-surface-2 text-xs uppercase tracking-wide text-muted">
-                {RESULT_COLUMNS.map((col) => (
-                  <th key={col} className="px-4 py-3 font-medium">
-                    {col}
-                  </th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {RESULT_ROWS.map((row) => (
-                <tr key={row[0]} className="border-b border-border/60 last:border-0">
-                  {row.map((cell, i) => (
-                    <td
-                      key={i}
-                      className={`px-4 py-3 ${i === 0 ? "font-medium text-foreground" : "text-muted"}`}
-                    >
-                      {cell}
-                    </td>
-                  ))}
-                </tr>
-              ))}
-            </tbody>
-          </table>
         </div>
       </section>
 
@@ -148,26 +111,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Daily Scans teaser */}
-      <section className="border-t border-border py-20">
-        <div className="mx-auto max-w-3xl px-6 text-center">
-          <h2 className="text-2xl font-bold text-foreground sm:text-3xl">
-            Don&apos;t want to install anything yet?
-          </h2>
-          <p className="mt-4 text-muted">
-            Every market here is scanned automatically once a day, about 30 minutes after that
-            market&apos;s own close, across all three strategies. Browse the results right in
-            your browser — no download required.
-          </p>
-          <Link
-            href="/scans"
-            className="mt-6 inline-flex items-center gap-1 text-sm font-medium text-accent hover:underline"
-          >
-            Browse today&apos;s scans →
-          </Link>
-        </div>
-      </section>
-
       {/* How it works teaser */}
       <section className="border-t border-border bg-surface/30 py-20">
         <div className="mx-auto max-w-3xl px-6 text-center">
@@ -187,18 +130,18 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Final CTA */}
-      <section className="py-20">
+      {/* Desktop app download */}
+      <section className="border-t border-border py-20">
         <div className="mx-auto max-w-2xl px-6 text-center">
-          <h2 className="text-2xl font-bold text-foreground sm:text-3xl">Ready to try it?</h2>
+          <h2 className="text-2xl font-bold text-foreground sm:text-3xl">
+            Want it as a desktop app instead?
+          </h2>
           <p className="mt-3 text-muted">
-            Install in under a minute. No sign-up, no subscription.
+            Same scans, running natively on your machine with Excel/PDF export. Install in under
+            a minute — no sign-up, no subscription.
           </p>
           <div className="mt-8">
-            <DownloadButton />
-          </div>
-          <div className="mt-10 text-left">
-            <RiskCallout compact />
+            <DownloadButton id="download" />
           </div>
         </div>
       </section>

@@ -1,9 +1,7 @@
-import fs from "node:fs";
-import path from "node:path";
 import type { Metadata } from "next";
 import RiskCallout from "@/components/RiskCallout";
-import ScanExplorer, { type MarketScanData } from "@/components/ScanExplorer";
-import { MARKETS, slugifyMarket } from "@/lib/constants";
+import ScanExplorer from "@/components/ScanExplorer";
+import { loadAllScanData } from "@/lib/scanData";
 
 export const metadata: Metadata = {
   title: "Daily Scans",
@@ -11,21 +9,8 @@ export const metadata: Metadata = {
     "Live daily breakout, RSI 5-Star and Confluence scan results across 16 global markets, auto-refreshed after each market closes.",
 };
 
-function loadMarketData(slug: string): MarketScanData | null {
-  const filePath = path.join(process.cwd(), "data", "scans", `${slug}.json`);
-  if (!fs.existsSync(filePath)) return null;
-  try {
-    return JSON.parse(fs.readFileSync(filePath, "utf-8")) as MarketScanData;
-  } catch {
-    return null;
-  }
-}
-
 export default function ScansPage() {
-  const data: Record<string, MarketScanData | null> = {};
-  for (const m of MARKETS) {
-    data[m.name] = loadMarketData(slugifyMarket(m.name));
-  }
+  const data = loadAllScanData();
 
   return (
     <div className="mx-auto max-w-6xl px-6 py-16">
