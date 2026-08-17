@@ -1,0 +1,93 @@
+{
+  "market": "Netherlands (Euronext Amsterdam)",
+  "currency": "EUR",
+  "generated_at": "2026-08-17T17:36:22.570406+00:00",
+  "strategies": {
+    "breakout": {
+      "label": "Breakout (DMA + CAR)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "AKZA",
+          "CMP": 61.14,
+          "30 DMA": 59.82,
+          "50 DMA": 59.53,
+          "200 DMA": 55.5,
+          "200 DMA Dist %": 10.17,
+          "SL": 61.04,
+          "T1": 61.34,
+          "T2": 61.44,
+          "T3": 61.64,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
+    },
+    "rsi": {
+      "label": "RSI 5-Star",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "Entry",
+        "SL",
+        "T1 (RSI 60 Est.)",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "ASML",
+          "CMP": 1621.2,
+          "Monthly RSI": 64.1,
+          "Weekly RSI": 65.2,
+          "Signal Date": "03-08-2026",
+          "Entry": 1443.8,
+          "SL": 1333.8,
+          "T1 (RSI 60 Est.)": 1731.2,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
+    },
+    "confluence": {
+      "label": "Confluence (Both)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": []
+    }
+  }
+}
