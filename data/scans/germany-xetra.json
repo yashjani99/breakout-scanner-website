@@ -1,0 +1,110 @@
+{
+  "market": "Germany (XETRA)",
+  "currency": "EUR",
+  "generated_at": "2026-08-17T17:42:11.379559+00:00",
+  "strategies": {
+    "breakout": {
+      "label": "Breakout (DMA + CAR)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "MUV2",
+          "CMP": 516.8,
+          "30 DMA": 512.79,
+          "50 DMA": 497.04,
+          "200 DMA": 504.43,
+          "200 DMA Dist %": 2.45,
+          "SL": 495.0,
+          "T1": 560.4,
+          "T2": 582.2,
+          "T3": 625.8,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "FRE",
+          "CMP": 46.74,
+          "30 DMA": 44.27,
+          "50 DMA": 42.3,
+          "200 DMA": 44.16,
+          "200 DMA Dist %": 5.84,
+          "SL": 44.16,
+          "T1": 51.89,
+          "T2": 54.46,
+          "T3": 59.61,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "BAS",
+          "CMP": 50.51,
+          "30 DMA": 49.45,
+          "50 DMA": 49.04,
+          "200 DMA": 47.01,
+          "200 DMA Dist %": 7.43,
+          "SL": 49.86,
+          "T1": 51.81,
+          "T2": 52.46,
+          "T3": 53.76,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
+    },
+    "rsi": {
+      "label": "RSI 5-Star",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "Entry",
+        "SL",
+        "T1 (RSI 60 Est.)",
+        "Action"
+      ],
+      "rows": []
+    },
+    "confluence": {
+      "label": "Confluence (Both)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": []
+    }
+  }
+}
