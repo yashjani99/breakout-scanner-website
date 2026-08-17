@@ -6,7 +6,7 @@ export const SITE_URL = "https://breakoutscanner.vercel.app";
 export const AUTHOR_NAME = "Yash Jani";
 export const AUTHOR_URL = "https://yashjani.biz";
 
-export const APP_VERSION = "2.0.2";
+export const APP_VERSION = "2.0.3";
 export const APP_REPO_URL =
   "https://github.com/yashjani99/breakout-scanner-global-markets";
 
