@@ -6,23 +6,25 @@ export const SITE_URL = "https://breakoutscanner.vercel.app";
 export const AUTHOR_NAME = "Yash Jani";
 export const AUTHOR_URL = "https://yashjani.biz";
 
-export const APP_VERSION = "2.0.1";
+export const APP_VERSION = "2.0.2";
 export const APP_REPO_URL =
   "https://github.com/yashjani99/breakout-scanner-global-markets";
 
 const RELEASE_BASE = `${APP_REPO_URL}/releases/download/v${APP_VERSION}`;
 
+// These filenames are exactly what the CI release job actually publishes -
+// verified against the live release, not guessed from a naming pattern.
 export const MSI_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerGlobalMarkets-${APP_VERSION}-win64.msi`;
-export const EXE_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerGlobalMarkets-${APP_VERSION}.exe`;
-export const MSI_SIZE_MB = 81;
-export const EXE_SIZE_MB = 71;
+export const EXE_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerGlobalMarkets.exe`;
+export const MSI_SIZE_MB = 87;
+export const EXE_SIZE_MB = 74;
 
 export const RPM_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerGlobalMarkets-${APP_VERSION}-1.x86_64.rpm`;
-export const DEB_DOWNLOAD_URL = `${RELEASE_BASE}/breakout-scanner-global-markets_${APP_VERSION}_amd64.deb`;
-export const DMG_DOWNLOAD_URL = `${RELEASE_BASE}/BreakoutScannerGlobalMarkets-${APP_VERSION}.dmg`;
-export const RPM_SIZE_MB = 120;
-export const DEB_SIZE_MB = 91;
-export const DMG_SIZE_MB = 91;
+export const DEB_DOWNLOAD_URL = `${RELEASE_BASE}/breakout-scanner-indian-market_${APP_VERSION}_amd64.deb`;
+export const DMG_DOWNLOAD_URL = `${RELEASE_BASE}/Breakout.Scanner.Global.Markets.dmg`;
+export const RPM_SIZE_MB = 114;
+export const DEB_SIZE_MB = 93;
+export const DMG_SIZE_MB = 100;
 
 // Opened in a background tab alongside every download click.
 export const AD_SMARTLINK_URL =
