@@ -1,0 +1,80 @@
+{
+  "market": "Brazil (B3)",
+  "currency": "BRL",
+  "generated_at": "2026-08-17T17:38:36.856173+00:00",
+  "strategies": {
+    "breakout": {
+      "label": "Breakout (DMA + CAR)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "WEGE3",
+          "CMP": 47.9,
+          "30 DMA": 46.21,
+          "50 DMA": 45.6,
+          "200 DMA": 46.31,
+          "200 DMA Dist %": 3.42,
+          "SL": 46.66,
+          "T1": 50.38,
+          "T2": 51.62,
+          "T3": 54.1,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
+    },
+    "rsi": {
+      "label": "RSI 5-Star",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "Entry",
+        "SL",
+        "T1 (RSI 60 Est.)",
+        "Action"
+      ],
+      "rows": []
+    },
+    "confluence": {
+      "label": "Confluence (Both)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": []
+    }
+  }
+}
