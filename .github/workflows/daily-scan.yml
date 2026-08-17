@@ -59,6 +59,15 @@ permissions:
 jobs:
   scan:
     runs-on: ubuntu-latest
+    # All 16 markets commit to the same data/ directory on main. Scheduled
+    # runs are staggered by design and rarely overlap, but manual
+    # workflow_dispatch bursts (e.g. backfilling several markets at once)
+    # can land two runs' git push at the same moment - queue instead of
+    # racing, since cancel-in-progress:false makes concurrent runs wait
+    # their turn rather than cancelling each other.
+    concurrency:
+      group: daily-scan-data-commit
+      cancel-in-progress: false
     steps:
       - name: Checkout website repo
         uses: actions/checkout@v4
@@ -96,5 +105,14 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update daily scan data [skip ci]"
-            git push
+            # Belt-and-suspenders on top of the concurrency queue above:
+            # retry with a rebase if main moved between checkout and push.
+            for attempt in 1 2 3 4 5; do
+              if git push; then
+                break
+              fi
+              echo "Push failed (attempt $attempt), pulling and retrying..."
+              git pull --rebase origin main
+              sleep 5
+            done
           fi
