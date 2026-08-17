@@ -1,0 +1,140 @@
+{
+  "market": "Australia (ASX)",
+  "currency": "AUD",
+  "generated_at": "2026-08-17T17:33:11.567247+00:00",
+  "strategies": {
+    "breakout": {
+      "label": "Breakout (DMA + CAR)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": [
+        {
+          "Date": "17-08-2026",
+          "Stock": "ANZ",
+          "CMP": 37.88,
+          "30 DMA": 36.83,
+          "50 DMA": 36.05,
+          "200 DMA": 35.94,
+          "200 DMA Dist %": 5.4,
+          "SL": 36.01,
+          "T1": 41.62,
+          "T2": 43.49,
+          "T3": 47.23,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "SUN",
+          "CMP": 18.7,
+          "30 DMA": 18.57,
+          "50 DMA": 18.4,
+          "200 DMA": 16.82,
+          "200 DMA Dist %": 11.19,
+          "SL": 17.77,
+          "T1": 20.56,
+          "T2": 21.48,
+          "T3": 23.34,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "WDS",
+          "CMP": 32.85,
+          "30 DMA": 31.38,
+          "50 DMA": 30.43,
+          "200 DMA": 28.51,
+          "200 DMA Dist %": 15.22,
+          "SL": 31.08,
+          "T1": 36.39,
+          "T2": 38.16,
+          "T3": 41.7,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "BHP",
+          "CMP": 62.2,
+          "30 DMA": 60.25,
+          "50 DMA": 60.61,
+          "200 DMA": 52.85,
+          "200 DMA Dist %": 17.7,
+          "SL": 59.52,
+          "T1": 67.56,
+          "T2": 70.24,
+          "T3": 75.6,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-08-2026",
+          "Stock": "ALL",
+          "CMP": 64.5,
+          "30 DMA": 63.42,
+          "50 DMA": 60.76,
+          "200 DMA": 54.05,
+          "200 DMA Dist %": 19.34,
+          "SL": 63.56,
+          "T1": 66.38,
+          "T2": 67.32,
+          "T3": 69.2,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
+    },
+    "rsi": {
+      "label": "RSI 5-Star",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "Entry",
+        "SL",
+        "T1 (RSI 60 Est.)",
+        "Action"
+      ],
+      "rows": []
+    },
+    "confluence": {
+      "label": "Confluence (Both)",
+      "columns": [
+        "Date",
+        "Stock",
+        "CMP",
+        "30 DMA",
+        "50 DMA",
+        "200 DMA",
+        "200 DMA Dist %",
+        "Monthly RSI",
+        "Weekly RSI",
+        "Signal Date",
+        "SL",
+        "T1",
+        "T2",
+        "T3",
+        "CAR Status",
+        "Action"
+      ],
+      "rows": []
+    }
+  }
+}
