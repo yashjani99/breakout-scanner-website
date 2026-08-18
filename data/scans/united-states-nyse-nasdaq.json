@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-08-17T21:52:16.401004+00:00",
+  "generated_at": "2026-08-18T21:49:58.602929+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,77 +22,77 @@
       ],
       "rows": [
         {
-          "Date": "17-08-2026",
+          "Date": "18-08-2026",
           "Stock": "MA",
-          "CMP": 562.26,
-          "30 DMA": 551.87,
-          "50 DMA": 530.49,
-          "200 DMA": 526.47,
-          "200 DMA Dist %": 6.8,
+          "CMP": 574.31,
+          "30 DMA": 553.32,
+          "50 DMA": 532.17,
+          "200 DMA": 526.58,
+          "200 DMA Dist %": 9.06,
           "SL": 556.06,
-          "T1": 574.66,
-          "T2": 580.86,
-          "T3": 593.26,
+          "T1": 610.81,
+          "T2": 629.06,
+          "T3": 665.56,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "17-08-2026",
+          "Date": "18-08-2026",
           "Stock": "MSFT",
-          "CMP": 480.35,
-          "30 DMA": 433.11,
-          "50 DMA": 413.82,
-          "200 DMA": 431.02,
-          "200 DMA Dist %": 11.44,
-          "SL": 478.41,
-          "T1": 484.23,
-          "T2": 486.17,
-          "T3": 490.05,
+          "CMP": 481.63,
+          "30 DMA": 436.2,
+          "50 DMA": 415.12,
+          "200 DMA": 430.74,
+          "200 DMA Dist %": 11.81,
+          "SL": 477.15,
+          "T1": 490.59,
+          "T2": 495.07,
+          "T3": 504.03,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "17-08-2026",
-          "Stock": "XOM",
-          "CMP": 161.46,
-          "30 DMA": 152.0,
-          "50 DMA": 147.76,
-          "200 DMA": 140.56,
-          "200 DMA Dist %": 14.87,
-          "SL": 149.09,
-          "T1": 186.2,
-          "T2": 198.57,
-          "T3": 223.31,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "17-08-2026",
-          "Stock": "CVX",
-          "CMP": 202.7,
-          "30 DMA": 189.1,
-          "50 DMA": 184.28,
-          "200 DMA": 175.8,
-          "200 DMA Dist %": 15.3,
-          "SL": 185.87,
-          "T1": 236.36,
-          "T2": 253.19,
-          "T3": 286.85,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "17-08-2026",
+          "Date": "18-08-2026",
           "Stock": "NVDA",
-          "CMP": 225.01,
-          "30 DMA": 209.52,
-          "50 DMA": 206.65,
-          "200 DMA": 194.87,
-          "200 DMA Dist %": 15.47,
-          "SL": 209.05,
-          "T1": 256.93,
-          "T2": 272.89,
-          "T3": 304.81,
+          "CMP": 219.74,
+          "30 DMA": 210.28,
+          "50 DMA": 206.94,
+          "200 DMA": 194.93,
+          "200 DMA Dist %": 12.73,
+          "SL": 216.2,
+          "T1": 226.82,
+          "T2": 230.36,
+          "T3": 237.44,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "18-08-2026",
+          "Stock": "CVX",
+          "CMP": 205.74,
+          "30 DMA": 190.16,
+          "50 DMA": 184.65,
+          "200 DMA": 176.08,
+          "200 DMA Dist %": 16.85,
+          "SL": 185.87,
+          "T1": 245.48,
+          "T2": 265.35,
+          "T3": 305.09,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "18-08-2026",
+          "Stock": "XOM",
+          "CMP": 165.56,
+          "30 DMA": 151.88,
+          "50 DMA": 147.16,
+          "200 DMA": 139.93,
+          "200 DMA Dist %": 18.32,
+          "SL": 150.18,
+          "T1": 196.32,
+          "T2": 211.71,
+          "T3": 242.47,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -112,20 +112,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "17-08-2026",
-          "Stock": "NVDA",
-          "CMP": 225.01,
-          "Monthly RSI": 71.2,
-          "Weekly RSI": 61.3,
-          "Signal Date": "30-07-2026",
-          "Entry": 197.25,
-          "SL": 190.01,
-          "T1 (RSI 60 Est.)": 232.25,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
@@ -147,26 +134,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "17-08-2026",
-          "Stock": "NVDA",
-          "CMP": 225.01,
-          "30 DMA": 209.52,
-          "50 DMA": 206.65,
-          "200 DMA": 194.87,
-          "200 DMA Dist %": 15.47,
-          "Monthly RSI": 71.2,
-          "Weekly RSI": 61.3,
-          "Signal Date": "30-07-2026",
-          "SL": 209.05,
-          "T1": 256.93,
-          "T2": 272.89,
-          "T3": 304.81,
-          "CAR Status": "Positive",
-          "Action": "Breakout + RSI 5-Star"
-        }
-      ]
+      "rows": []
     }
   }
 }
