@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-08-17T17:38:31.361588+00:00",
+  "generated_at": "2026-08-18T17:20:18.552737+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,47 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "17-08-2026",
-          "Stock": "SGO",
-          "CMP": 81.24,
-          "30 DMA": 78.73,
-          "50 DMA": 78.43,
-          "200 DMA": 78.34,
-          "200 DMA Dist %": 3.7,
-          "SL": 80.58,
-          "T1": 82.56,
-          "T2": 83.22,
-          "T3": 84.54,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "17-08-2026",
+          "Date": "18-08-2026",
           "Stock": "DSY",
-          "CMP": 21.37,
-          "30 DMA": 19.83,
-          "50 DMA": 19.09,
-          "200 DMA": 20.25,
-          "200 DMA Dist %": 5.56,
-          "SL": 20.53,
-          "T1": 23.05,
-          "T2": 23.89,
-          "T3": 25.57,
+          "CMP": 21.9,
+          "30 DMA": 19.99,
+          "50 DMA": 19.14,
+          "200 DMA": 20.21,
+          "200 DMA Dist %": 8.35,
+          "SL": 20.81,
+          "T1": 24.08,
+          "T2": 25.17,
+          "T3": 27.35,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "17-08-2026",
+          "Date": "18-08-2026",
           "Stock": "TTE",
-          "CMP": 75.93,
-          "30 DMA": 73.05,
-          "50 DMA": 72.16,
-          "200 DMA": 66.56,
-          "200 DMA Dist %": 14.07,
+          "CMP": 76.9,
+          "30 DMA": 73.67,
+          "50 DMA": 72.19,
+          "200 DMA": 66.81,
+          "200 DMA Dist %": 15.1,
           "SL": 73.57,
-          "T1": 80.65,
-          "T2": 83.01,
-          "T3": 87.73,
+          "T1": 83.56,
+          "T2": 86.89,
+          "T3": 93.55,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -84,15 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "17-08-2026",
+          "Date": "18-08-2026",
           "Stock": "SU",
-          "CMP": 308.75,
-          "Monthly RSI": 70.4,
-          "Weekly RSI": 67.4,
+          "CMP": 295.1,
+          "Monthly RSI": 68.4,
+          "Weekly RSI": 60.7,
           "Signal Date": "29-07-2026",
           "Entry": 262.55,
           "SL": 255.7,
-          "T1 (RSI 60 Est.)": 315.6,
+          "T1 (RSI 60 Est.)": 304.15,
           "Action": "RSI 5-Star Setup"
         }
       ]
