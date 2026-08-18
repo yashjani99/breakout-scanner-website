@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-08-17T17:36:22.570406+00:00",
+  "generated_at": "2026-08-18T17:36:26.015230+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "17-08-2026",
+          "Date": "18-08-2026",
           "Stock": "AKZA",
-          "CMP": 61.14,
-          "30 DMA": 59.82,
-          "50 DMA": 59.53,
-          "200 DMA": 55.5,
-          "200 DMA Dist %": 10.17,
-          "SL": 61.04,
-          "T1": 61.34,
-          "T2": 61.44,
-          "T3": 61.64,
+          "CMP": 60.2,
+          "30 DMA": 59.91,
+          "50 DMA": 59.59,
+          "200 DMA": 55.51,
+          "200 DMA Dist %": 8.45,
+          "SL": 60.04,
+          "T1": 60.52,
+          "T2": 60.68,
+          "T3": 61.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -54,15 +54,15 @@
       ],
       "rows": [
         {
-          "Date": "17-08-2026",
+          "Date": "18-08-2026",
           "Stock": "ASML",
-          "CMP": 1621.2,
-          "Monthly RSI": 64.1,
-          "Weekly RSI": 65.2,
+          "CMP": 1541.8,
+          "Monthly RSI": 62.3,
+          "Weekly RSI": 60.3,
           "Signal Date": "03-08-2026",
           "Entry": 1443.8,
           "SL": 1333.8,
-          "T1 (RSI 60 Est.)": 1731.2,
+          "T1 (RSI 60 Est.)": 1663.8,
           "Action": "RSI 5-Star Setup"
         }
       ]
