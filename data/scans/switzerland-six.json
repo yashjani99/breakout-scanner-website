@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-08-17T17:36:30.854245+00:00",
+  "generated_at": "2026-08-18T17:36:34.232953+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "17-08-2026",
+          "Date": "18-08-2026",
           "Stock": "SREN",
-          "CMP": 140.45,
-          "30 DMA": 135.47,
-          "50 DMA": 131.28,
-          "200 DMA": 126.28,
-          "200 DMA Dist %": 11.22,
+          "CMP": 141.4,
+          "30 DMA": 135.76,
+          "50 DMA": 131.73,
+          "200 DMA": 126.27,
+          "200 DMA Dist %": 11.98,
           "SL": 132.4,
-          "T1": 156.55,
-          "T2": 164.6,
-          "T3": 180.7,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "17-08-2026",
-          "Stock": "UBSG",
-          "CMP": 43.55,
-          "30 DMA": 42.86,
-          "50 DMA": 41.75,
-          "200 DMA": 34.95,
-          "200 DMA Dist %": 24.61,
-          "SL": 42.24,
-          "T1": 46.17,
-          "T2": 47.48,
-          "T3": 50.1,
+          "T1": 159.4,
+          "T2": 168.4,
+          "T3": 186.4,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,20 +52,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "17-08-2026",
-          "Stock": "ABBN",
-          "CMP": 83.0,
-          "Monthly RSI": 71.1,
-          "Weekly RSI": 61.6,
-          "Signal Date": "30-07-2026",
-          "Entry": 78.78,
-          "SL": 75.76,
-          "T1 (RSI 60 Est.)": 86.02,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
