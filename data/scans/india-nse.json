@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-08-21T11:00:07.918744+00:00",
+  "generated_at": "2026-08-22T10:53:26.050947+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "BHARTIARTL",
           "CMP": 1946.0,
           "30 DMA": 1933.28,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "SBIN",
           "CMP": 1048.7,
           "30 DMA": 1045.64,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "ASHOKLEY",
           "CMP": 173.0,
           "30 DMA": 165.47,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "MAZDOCK",
           "CMP": 2552.0,
           "30 DMA": 2427.61,
@@ -82,22 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
-          "Stock": "INDIANB",
-          "CMP": 876.9,
-          "30 DMA": 854.93,
-          "50 DMA": 845.3,
-          "200 DMA": 848.44,
-          "200 DMA Dist %": 3.35,
-          "SL": 865.0,
-          "T1": 900.7,
-          "T2": 912.6,
-          "T3": 936.4,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "PNB",
           "CMP": 116.55,
           "30 DMA": 112.65,
@@ -112,7 +97,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "LT",
           "CMP": 4093.0,
           "30 DMA": 3949.97,
@@ -127,7 +112,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "PERSISTENT",
           "CMP": 5667.5,
           "30 DMA": 5379.83,
@@ -142,7 +127,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "CONCOR",
           "CMP": 515.05,
           "30 DMA": 506.45,
@@ -157,7 +142,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "OIL",
           "CMP": 475.0,
           "30 DMA": 454.83,
@@ -172,37 +157,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
-          "Stock": "PETRONET",
-          "CMP": 293.0,
-          "30 DMA": 279.79,
-          "50 DMA": 280.76,
-          "200 DMA": 276.82,
-          "200 DMA Dist %": 5.84,
-          "SL": 273.0,
-          "T1": 333.0,
-          "T2": 353.0,
-          "T3": 393.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
-          "Stock": "BAJAJHLDNG",
-          "CMP": 11320.0,
-          "30 DMA": 11048.93,
-          "50 DMA": 10858.65,
-          "200 DMA": 10639.37,
-          "200 DMA Dist %": 6.4,
-          "SL": 11211.0,
-          "T1": 11538.0,
-          "T2": 11647.0,
-          "T3": 11865.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "BAJAJFINSV",
           "CMP": 2032.5,
           "30 DMA": 1966.45,
@@ -217,22 +172,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
-          "Stock": "HYUNDAI",
-          "CMP": 2218.8,
-          "30 DMA": 2092.18,
-          "50 DMA": 2032.75,
-          "200 DMA": 2065.77,
-          "200 DMA Dist %": 7.41,
-          "SL": 2160.1,
-          "T1": 2336.2,
-          "T2": 2394.9,
-          "T3": 2512.3,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "DLF",
           "CMP": 678.1,
           "30 DMA": 657.73,
@@ -247,37 +187,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
-          "Stock": "UNOMINDA",
-          "CMP": 1265.0,
-          "30 DMA": 1205.2,
-          "50 DMA": 1170.37,
-          "200 DMA": 1170.69,
-          "200 DMA Dist %": 8.06,
-          "SL": 1230.1,
-          "T1": 1334.8,
-          "T2": 1369.7,
-          "T3": 1439.5,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
-          "Stock": "HEROMOTOCO",
-          "CMP": 5735.0,
-          "30 DMA": 5369.61,
-          "50 DMA": 5164.36,
-          "200 DMA": 5301.82,
-          "200 DMA Dist %": 8.17,
-          "SL": 5642.0,
-          "T1": 5921.0,
-          "T2": 6014.0,
-          "T3": 6200.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "PRESTIGE",
           "CMP": 1631.0,
           "30 DMA": 1627.87,
@@ -292,52 +202,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
-          "Stock": "360ONE",
-          "CMP": 1199.0,
-          "30 DMA": 1145.73,
-          "50 DMA": 1132.01,
-          "200 DMA": 1103.46,
-          "200 DMA Dist %": 8.66,
-          "SL": 1140.0,
-          "T1": 1317.0,
-          "T2": 1376.0,
-          "T3": 1494.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
-          "Stock": "HINDALCO",
-          "CMP": 1034.0,
-          "30 DMA": 997.67,
-          "50 DMA": 987.11,
-          "200 DMA": 950.71,
-          "200 DMA Dist %": 8.76,
-          "SL": 1013.0,
-          "T1": 1076.0,
-          "T2": 1097.0,
-          "T3": 1139.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
-          "Stock": "POLICYBZR",
-          "CMP": 1795.2,
-          "30 DMA": 1636.63,
-          "50 DMA": 1628.54,
-          "200 DMA": 1649.76,
-          "200 DMA Dist %": 8.82,
-          "SL": 1590.2,
-          "T1": 2205.2,
-          "T2": 2410.2,
-          "T3": 2820.2,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "UNIONBANK",
           "CMP": 183.45,
           "30 DMA": 176.91,
@@ -352,7 +217,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "NATIONALUM",
           "CMP": 394.45,
           "30 DMA": 366.96,
@@ -367,7 +232,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "APLAPOLLO",
           "CMP": 2139.0,
           "30 DMA": 1930.73,
@@ -382,37 +247,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
-          "Stock": "MOTILALOFS",
-          "CMP": 990.0,
-          "30 DMA": 914.19,
-          "50 DMA": 927.64,
-          "200 DMA": 845.59,
-          "200 DMA Dist %": 17.08,
-          "SL": 862.0,
-          "T1": 1246.0,
-          "T2": 1374.0,
-          "T3": 1630.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
-          "Stock": "NAUKRI",
-          "CMP": 1350.1,
-          "30 DMA": 1257.21,
-          "50 DMA": 1167.86,
-          "200 DMA": 1147.73,
-          "200 DMA Dist %": 17.63,
-          "SL": 1236.7,
-          "T1": 1576.9,
-          "T2": 1690.3,
-          "T3": 1917.1,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "ETERNAL",
           "CMP": 328.0,
           "30 DMA": 304.88,
@@ -427,7 +262,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "DIXON",
           "CMP": 14850.0,
           "30 DMA": 14100.37,
@@ -442,7 +277,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "MCX",
           "CMP": 3185.0,
           "30 DMA": 2818.39,
@@ -457,7 +292,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "COFORGE",
           "CMP": 1891.7,
           "30 DMA": 1680.64,
@@ -472,7 +307,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "OFSS",
           "CMP": 11724.0,
           "30 DMA": 11530.63,
@@ -504,7 +339,7 @@
       ],
       "rows": [
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "MCX",
           "CMP": 3185.0,
           "Monthly RSI": 79.1,
@@ -516,7 +351,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "MANAPPURAM",
           "CMP": 357.5,
           "Monthly RSI": 60.6,
@@ -528,19 +363,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "21-08-2026",
-          "Stock": "MOTILALOFS",
-          "CMP": 990.0,
-          "Monthly RSI": 62.9,
-          "Weekly RSI": 62.4,
-          "Signal Date": "07-08-2026",
-          "Entry": 875.7,
-          "SL": 835.1,
-          "T1 (RSI 60 Est.)": 1030.6,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "OBEROIRLTY",
           "CMP": 1886.0,
           "Monthly RSI": 64.5,
@@ -575,7 +398,7 @@
       ],
       "rows": [
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "MCX",
           "CMP": 3185.0,
           "30 DMA": 2818.39,
@@ -589,24 +412,6 @@
           "T1": 4348.6,
           "T2": 4930.4,
           "T3": 6094.0,
-          "CAR Status": "Positive",
-          "Action": "Breakout + RSI 5-Star"
-        },
-        {
-          "Date": "21-08-2026",
-          "Stock": "MOTILALOFS",
-          "CMP": 990.0,
-          "30 DMA": 914.19,
-          "50 DMA": 927.64,
-          "200 DMA": 845.59,
-          "200 DMA Dist %": 17.08,
-          "Monthly RSI": 62.9,
-          "Weekly RSI": 62.4,
-          "Signal Date": "07-08-2026",
-          "SL": 862.0,
-          "T1": 1246.0,
-          "T2": 1374.0,
-          "T3": 1630.0,
           "CAR Status": "Positive",
           "Action": "Breakout + RSI 5-Star"
         }
