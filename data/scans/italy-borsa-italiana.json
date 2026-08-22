@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-08-21T17:39:14.280849+00:00",
+  "generated_at": "2026-08-22T17:31:49.827155+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,38 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "21-08-2026",
-          "Stock": "RACE",
-          "CMP": 371.1,
-          "30 DMA": 343.37,
-          "50 DMA": 334.57,
-          "200 DMA": 312.09,
-          "200 DMA Dist %": 18.91,
-          "SL": 350.35,
-          "T1": 412.6,
-          "T2": 433.35,
-          "T3": 474.85,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-08-2026",
-          "Stock": "ENI",
-          "CMP": 24.14,
-          "30 DMA": 23.03,
-          "50 DMA": 22.2,
-          "200 DMA": 20.13,
-          "200 DMA Dist %": 19.9,
-          "SL": 23.19,
-          "T1": 26.04,
-          "T2": 26.99,
-          "T3": 28.89,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -67,32 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "21-08-2026",
-          "Stock": "TIT",
-          "CMP": 7.65,
-          "Monthly RSI": 79.6,
-          "Weekly RSI": 64.4,
-          "Signal Date": "11-08-2026",
-          "Entry": 7.55,
-          "SL": 7.27,
-          "T1 (RSI 60 Est.)": 8.12,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "21-08-2026",
-          "Stock": "PST",
-          "CMP": 27.2,
-          "Monthly RSI": 75.7,
-          "Weekly RSI": 63.7,
-          "Signal Date": "11-08-2026",
-          "Entry": 26.98,
-          "SL": 25.81,
-          "T1 (RSI 60 Est.)": 29.32,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
