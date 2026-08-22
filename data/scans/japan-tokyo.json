@@ -1,7 +1,7 @@
 {
   "market": "Japan (Tokyo)",
   "currency": "JPY",
-  "generated_at": "2026-08-21T07:50:04.465185+00:00",
+  "generated_at": "2026-08-22T07:37:30.137561+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "6758",
           "CMP": 3785.0,
           "30 DMA": 3603.77,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "6501",
           "CMP": 5196.0,
           "30 DMA": 5161.6,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "8001",
           "CMP": 2080.0,
           "30 DMA": 1988.92,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "4661",
           "CMP": 3007.0,
           "30 DMA": 2855.58,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "4502",
           "CMP": 5764.0,
           "30 DMA": 5539.37,
@@ -114,7 +114,7 @@
       ],
       "rows": [
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "4502",
           "CMP": 5764.0,
           "Monthly RSI": 64.9,
@@ -126,7 +126,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "8306",
           "CMP": 3508.0,
           "Monthly RSI": 75.3,
@@ -138,7 +138,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "6178",
           "CMP": 2336.0,
           "Monthly RSI": 72.3,
@@ -173,7 +173,7 @@
       ],
       "rows": [
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "4502",
           "CMP": 5764.0,
           "30 DMA": 5539.37,
