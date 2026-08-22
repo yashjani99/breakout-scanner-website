@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-08-21T21:50:31.261723+00:00",
+  "generated_at": "2026-08-22T21:48:30.794802+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "CRM",
           "CMP": 209.17,
           "30 DMA": 184.27,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "NVDA",
           "CMP": 214.72,
           "30 DMA": 211.33,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "MA",
           "CMP": 580.63,
           "30 DMA": 558.63,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "MSFT",
           "CMP": 483.24,
           "30 DMA": 445.29,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "CVX",
           "CMP": 205.27,
           "30 DMA": 191.68,
@@ -97,7 +97,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-08-2026",
+          "Date": "22-08-2026",
           "Stock": "XOM",
           "CMP": 165.11,
           "30 DMA": 154.59,
