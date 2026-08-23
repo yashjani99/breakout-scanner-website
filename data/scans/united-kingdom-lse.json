@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-08-22T17:10:16.387476+00:00",
+  "generated_at": "2026-08-23T17:11:25.393094+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,68 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "23-08-2026",
+          "Stock": "DGE",
+          "CMP": 1719.0,
+          "30 DMA": 1652.18,
+          "50 DMA": 1603.7,
+          "200 DMA": 1601.1,
+          "200 DMA Dist %": 7.36,
+          "SL": 1657.5,
+          "T1": 1842.0,
+          "T2": 1903.5,
+          "T3": 2026.5,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "23-08-2026",
+          "Stock": "SHEL",
+          "CMP": 3409.5,
+          "30 DMA": 3296.59,
+          "50 DMA": 3167.83,
+          "200 DMA": 3059.86,
+          "200 DMA Dist %": 11.43,
+          "SL": 3253.0,
+          "T1": 3722.5,
+          "T2": 3879.0,
+          "T3": 4192.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "23-08-2026",
+          "Stock": "AAL",
+          "CMP": 4067.0,
+          "30 DMA": 3768.37,
+          "50 DMA": 3768.83,
+          "200 DMA": 3461.78,
+          "200 DMA Dist %": 17.48,
+          "SL": 3813.78,
+          "T1": 4573.44,
+          "T2": 4826.66,
+          "T3": 5333.09,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "23-08-2026",
+          "Stock": "GLEN",
+          "CMP": 596.8,
+          "30 DMA": 545.16,
+          "50 DMA": 539.7,
+          "200 DMA": 502.48,
+          "200 DMA Dist %": 18.77,
+          "SL": 543.8,
+          "T1": 702.8,
+          "T2": 755.8,
+          "T3": 861.8,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
