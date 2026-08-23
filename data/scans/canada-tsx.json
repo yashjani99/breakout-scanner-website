@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-08-22T21:49:13.898043+00:00",
+  "generated_at": "2026-08-23T21:48:53.793850+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "BAM",
           "CMP": 71.97,
           "30 DMA": 70.13,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "SHOP",
           "CMP": 205.63,
           "30 DMA": 188.42,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "FNV",
           "CMP": 365.83,
           "30 DMA": 311.63,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "AEM",
           "CMP": 297.82,
           "30 DMA": 227.75,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "SU",
           "CMP": 94.25,
           "30 DMA": 89.83,
@@ -114,7 +114,7 @@
       ],
       "rows": [
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "CNR",
           "CMP": 178.7,
           "Monthly RSI": 70.6,
@@ -126,7 +126,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "CP",
           "CMP": 133.08,
           "Monthly RSI": 73.1,
@@ -138,7 +138,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "QSR",
           "CMP": 111.11,
           "Monthly RSI": 70.8,
@@ -150,7 +150,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "AEM",
           "CMP": 297.82,
           "Monthly RSI": 64.5,
@@ -162,7 +162,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "SU",
           "CMP": 94.25,
           "Monthly RSI": 62.9,
@@ -174,7 +174,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "NTR",
           "CMP": 103.71,
           "Monthly RSI": 70.4,
@@ -209,7 +209,7 @@
       ],
       "rows": [
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "AEM",
           "CMP": 297.82,
           "30 DMA": 227.75,
@@ -227,7 +227,7 @@
           "Action": "Breakout + RSI 5-Star"
         },
         {
-          "Date": "22-08-2026",
+          "Date": "23-08-2026",
           "Stock": "SU",
           "CMP": 94.25,
           "30 DMA": 89.83,
