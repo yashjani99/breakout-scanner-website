@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-08-22T17:13:57.145510+00:00",
+  "generated_at": "2026-08-23T17:14:15.515410+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,83 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "23-08-2026",
+          "Stock": "MUV2",
+          "CMP": 516.4,
+          "30 DMA": 515.35,
+          "50 DMA": 503.12,
+          "200 DMA": 504.49,
+          "200 DMA Dist %": 2.36,
+          "SL": 507.8,
+          "T1": 533.6,
+          "T2": 542.2,
+          "T3": 559.4,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "23-08-2026",
+          "Stock": "FRE",
+          "CMP": 46.6,
+          "30 DMA": 44.83,
+          "50 DMA": 43.18,
+          "200 DMA": 44.1,
+          "200 DMA Dist %": 5.67,
+          "SL": 45.91,
+          "T1": 47.98,
+          "T2": 48.67,
+          "T3": 50.05,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "23-08-2026",
+          "Stock": "RWE",
+          "CMP": 57.32,
+          "30 DMA": 57.25,
+          "50 DMA": 56.69,
+          "200 DMA": 52.83,
+          "200 DMA Dist %": 8.49,
+          "SL": 56.18,
+          "T1": 59.6,
+          "T2": 60.74,
+          "T3": 63.02,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "23-08-2026",
+          "Stock": "BAS",
+          "CMP": 51.67,
+          "30 DMA": 50.08,
+          "50 DMA": 49.29,
+          "200 DMA": 47.27,
+          "200 DMA Dist %": 9.31,
+          "SL": 49.86,
+          "T1": 55.29,
+          "T2": 57.1,
+          "T3": 60.72,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "23-08-2026",
+          "Stock": "SAP",
+          "CMP": 188.12,
+          "30 DMA": 160.49,
+          "50 DMA": 151.4,
+          "200 DMA": 167.79,
+          "200 DMA Dist %": 12.11,
+          "SL": 174.8,
+          "T1": 214.76,
+          "T2": 228.08,
+          "T3": 254.72,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
