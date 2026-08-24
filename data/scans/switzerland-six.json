@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-08-23T17:29:31.789349+00:00",
+  "generated_at": "2026-08-24T17:39:15.926454+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "23-08-2026",
+          "Date": "24-08-2026",
           "Stock": "SREN",
-          "CMP": 139.3,
-          "30 DMA": 136.47,
-          "50 DMA": 132.85,
-          "200 DMA": 126.27,
-          "200 DMA Dist %": 10.32,
+          "CMP": 140.15,
+          "30 DMA": 136.65,
+          "50 DMA": 133.23,
+          "200 DMA": 126.28,
+          "200 DMA Dist %": 10.98,
           "SL": 135.85,
-          "T1": 146.2,
-          "T2": 149.65,
-          "T3": 156.55,
+          "T1": 148.75,
+          "T2": 153.05,
+          "T3": 161.65,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
