@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-08-23T07:09:39.636315+00:00",
+  "generated_at": "2026-08-24T07:35:12.694303+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,47 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "23-08-2026",
-          "Stock": "ANZ",
-          "CMP": 37.13,
-          "30 DMA": 37.04,
-          "50 DMA": 36.31,
-          "200 DMA": 35.98,
-          "200 DMA Dist %": 3.19,
-          "SL": 36.01,
-          "T1": 39.37,
-          "T2": 40.49,
-          "T3": 42.73,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "23-08-2026",
+          "Date": "24-08-2026",
           "Stock": "WDS",
-          "CMP": 33.78,
-          "30 DMA": 32.01,
-          "50 DMA": 30.62,
-          "200 DMA": 28.7,
-          "200 DMA Dist %": 17.72,
-          "SL": 31.6,
-          "T1": 38.14,
-          "T2": 40.32,
-          "T3": 44.68,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "23-08-2026",
-          "Stock": "BHP",
-          "CMP": 65.16,
-          "30 DMA": 61.15,
-          "50 DMA": 60.9,
-          "200 DMA": 53.29,
-          "200 DMA Dist %": 22.26,
-          "SL": 60.87,
-          "T1": 73.74,
-          "T2": 78.03,
-          "T3": 86.61,
+          "CMP": 33.48,
+          "30 DMA": 32.14,
+          "50 DMA": 30.7,
+          "200 DMA": 28.74,
+          "200 DMA Dist %": 16.5,
+          "SL": 32.15,
+          "T1": 36.14,
+          "T2": 37.47,
+          "T3": 40.13,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
