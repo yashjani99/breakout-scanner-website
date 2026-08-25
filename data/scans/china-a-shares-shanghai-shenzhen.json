@@ -1,7 +1,7 @@
 {
   "market": "China A-Shares (Shanghai/Shenzhen)",
   "currency": "CNY",
-  "generated_at": "2026-08-24T08:10:53.665136+00:00",
+  "generated_at": "2026-08-25T08:06:56.910938+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "24-08-2026",
+          "Date": "25-08-2026",
           "Stock": "000651",
-          "CMP": 41.45,
-          "30 DMA": 40.62,
-          "50 DMA": 39.47,
-          "200 DMA": 38.99,
-          "200 DMA Dist %": 6.3,
+          "CMP": 41.62,
+          "30 DMA": 40.7,
+          "50 DMA": 39.54,
+          "200 DMA": 39.0,
+          "200 DMA Dist %": 6.71,
           "SL": 39.61,
-          "T1": 45.13,
-          "T2": 46.97,
-          "T3": 50.65,
+          "T1": 45.64,
+          "T2": 47.65,
+          "T3": 51.67,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -54,15 +54,15 @@
       ],
       "rows": [
         {
-          "Date": "24-08-2026",
+          "Date": "25-08-2026",
           "Stock": "601988",
-          "CMP": 6.13,
-          "Monthly RSI": 72.3,
-          "Weekly RSI": 60.3,
+          "CMP": 6.14,
+          "Monthly RSI": 72.4,
+          "Weekly RSI": 60.5,
           "Signal Date": "07-08-2026",
           "Entry": 5.82,
           "SL": 5.7,
-          "T1 (RSI 60 Est.)": 6.25,
+          "T1 (RSI 60 Est.)": 6.26,
           "Action": "RSI 5-Star Setup"
         }
       ]
