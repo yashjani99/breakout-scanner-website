@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-08-24T17:38:48.174131+00:00",
+  "generated_at": "2026-08-25T17:39:22.444202+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "24-08-2026",
+          "Date": "25-08-2026",
           "Stock": "AKZA",
-          "CMP": 60.7,
-          "30 DMA": 60.29,
-          "50 DMA": 59.9,
-          "200 DMA": 55.65,
-          "200 DMA Dist %": 9.07,
+          "CMP": 60.6,
+          "30 DMA": 60.39,
+          "50 DMA": 59.94,
+          "200 DMA": 55.68,
+          "200 DMA Dist %": 8.84,
           "SL": 59.64,
-          "T1": 62.82,
-          "T2": 63.88,
-          "T3": 66.0,
+          "T1": 62.52,
+          "T2": 63.48,
+          "T3": 65.4,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,7 +52,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "25-08-2026",
+          "Stock": "NN",
+          "CMP": 77.4,
+          "Monthly RSI": 83.9,
+          "Weekly RSI": 65.9,
+          "Signal Date": "24-08-2026",
+          "Entry": 76.86,
+          "SL": 75.36,
+          "T1 (RSI 60 Est.)": 79.86,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
