@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-08-26T07:23:57.570131+00:00",
+  "generated_at": "2026-08-27T17:44:03.134193+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "26-08-2026",
+          "Date": "27-08-2026",
           "Stock": "SUN",
-          "CMP": 19.23,
-          "30 DMA": 18.61,
-          "50 DMA": 18.49,
+          "CMP": 18.85,
+          "30 DMA": 18.63,
+          "50 DMA": 18.51,
           "200 DMA": 16.81,
-          "200 DMA Dist %": 14.37,
+          "200 DMA Dist %": 12.11,
           "SL": 17.71,
-          "T1": 22.27,
-          "T2": 23.79,
-          "T3": 26.83,
+          "T1": 21.13,
+          "T2": 22.27,
+          "T3": 24.55,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,20 +52,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "26-08-2026",
-          "Stock": "WOW",
-          "CMP": 40.18,
-          "Monthly RSI": 60.3,
-          "Weekly RSI": 64.5,
-          "Signal Date": "25-08-2026",
-          "Entry": 39.09,
-          "SL": 38.06,
-          "T1 (RSI 60 Est.)": 41.21,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
