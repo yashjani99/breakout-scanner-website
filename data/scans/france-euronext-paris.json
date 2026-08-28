@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-08-26T18:52:39.369547+00:00",
+  "generated_at": "2026-08-28T01:14:11.902504+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,53 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "26-08-2026",
-          "Stock": "SGO",
-          "CMP": 82.3,
-          "30 DMA": 80.02,
-          "50 DMA": 79.21,
-          "200 DMA": 78.4,
-          "200 DMA Dist %": 4.98,
-          "SL": 79.5,
-          "T1": 87.9,
-          "T2": 90.7,
-          "T3": 96.3,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "26-08-2026",
-          "Stock": "TTE",
-          "CMP": 75.28,
-          "30 DMA": 75.05,
-          "50 DMA": 72.51,
-          "200 DMA": 67.55,
-          "200 DMA Dist %": 11.44,
-          "SL": 74.25,
-          "T1": 77.34,
-          "T2": 78.37,
-          "T3": 80.43,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "26-08-2026",
-          "Stock": "DSY",
-          "CMP": 22.54,
-          "30 DMA": 20.82,
-          "50 DMA": 19.69,
-          "200 DMA": 20.19,
-          "200 DMA Dist %": 11.66,
-          "SL": 20.81,
-          "T1": 26.0,
-          "T2": 27.73,
-          "T3": 31.19,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -82,20 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "26-08-2026",
-          "Stock": "ML",
-          "CMP": 35.14,
-          "Monthly RSI": 65.0,
-          "Weekly RSI": 66.3,
-          "Signal Date": "18-08-2026",
-          "Entry": 34.51,
-          "SL": 33.82,
-          "T1 (RSI 60 Est.)": 35.89,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
