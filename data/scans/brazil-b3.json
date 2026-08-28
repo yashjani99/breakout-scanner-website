@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-08-26T23:50:32.437434+00:00",
+  "generated_at": "2026-08-28T04:24:26.737201+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "26-08-2026",
+          "Date": "28-08-2026",
           "Stock": "WEGE3",
           "CMP": 50.42,
           "30 DMA": 47.2,
