@@ -1,7 +1,7 @@
 {
   "market": "Japan (Tokyo)",
   "currency": "JPY",
-  "generated_at": "2026-08-28T19:22:11.321393+00:00",
+  "generated_at": "2026-08-29T13:06:59.915193+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,83 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "29-08-2026",
+          "Stock": "8001",
+          "CMP": 2116.5,
+          "30 DMA": 2025.65,
+          "50 DMA": 1962.62,
+          "200 DMA": 1968.2,
+          "200 DMA Dist %": 7.54,
+          "SL": 1959.5,
+          "T1": 2430.5,
+          "T2": 2587.5,
+          "T3": 2901.5,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "29-08-2026",
+          "Stock": "6758",
+          "CMP": 3928.0,
+          "30 DMA": 3686.33,
+          "50 DMA": 3535.6,
+          "200 DMA": 3637.57,
+          "200 DMA Dist %": 7.98,
+          "SL": 3655.0,
+          "T1": 4474.0,
+          "T2": 4747.0,
+          "T3": 5293.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "29-08-2026",
+          "Stock": "6501",
+          "CMP": 5550.0,
+          "30 DMA": 5264.4,
+          "50 DMA": 5037.34,
+          "200 DMA": 4993.65,
+          "200 DMA Dist %": 11.14,
+          "SL": 5166.0,
+          "T1": 6318.0,
+          "T2": 6702.0,
+          "T3": 7470.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "29-08-2026",
+          "Stock": "4502",
+          "CMP": 5800.0,
+          "30 DMA": 5619.0,
+          "50 DMA": 5459.84,
+          "200 DMA": 5185.93,
+          "200 DMA Dist %": 11.84,
+          "SL": 5504.0,
+          "T1": 6392.0,
+          "T2": 6688.0,
+          "T3": 7280.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "29-08-2026",
+          "Stock": "4661",
+          "CMP": 3039.0,
+          "30 DMA": 2917.42,
+          "50 DMA": 2748.84,
+          "200 DMA": 2695.25,
+          "200 DMA Dist %": 12.75,
+          "SL": 2819.5,
+          "T1": 3478.0,
+          "T2": 3697.5,
+          "T3": 4136.5,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +112,44 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "29-08-2026",
+          "Stock": "8306",
+          "CMP": 3658.0,
+          "Monthly RSI": 78.5,
+          "Weekly RSI": 66.3,
+          "Signal Date": "20-08-2026",
+          "Entry": 3483.0,
+          "SL": 3415.0,
+          "T1 (RSI 60 Est.)": 3726.0,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "29-08-2026",
+          "Stock": "6178",
+          "CMP": 2432.5,
+          "Monthly RSI": 75.8,
+          "Weekly RSI": 66.3,
+          "Signal Date": "20-08-2026",
+          "Entry": 2328.5,
+          "SL": 2282.0,
+          "T1 (RSI 60 Est.)": 2479.0,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "29-08-2026",
+          "Stock": "8316",
+          "CMP": 6902.0,
+          "Monthly RSI": 76.5,
+          "Weekly RSI": 63.3,
+          "Signal Date": "24-08-2026",
+          "Entry": 6660.0,
+          "SL": 6467.0,
+          "T1 (RSI 60 Est.)": 7095.0,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
