@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-08-29T03:18:06.312979+00:00",
+  "generated_at": "2026-08-29T23:33:28.112112+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -53,21 +53,6 @@
         },
         {
           "Date": "29-08-2026",
-          "Stock": "ABX",
-          "CMP": 63.54,
-          "30 DMA": 57.33,
-          "50 DMA": 55.56,
-          "200 DMA": 58.36,
-          "200 DMA Dist %": 8.87,
-          "SL": 57.56,
-          "T1": 75.5,
-          "T2": 81.48,
-          "T3": 93.44,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "29-08-2026",
           "Stock": "NTR",
           "CMP": 102.28,
           "30 DMA": 96.72,
@@ -78,21 +63,6 @@
           "T1": 118.34,
           "T2": 126.37,
           "T3": 142.43,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "29-08-2026",
-          "Stock": "AEM",
-          "CMP": 286.76,
-          "30 DMA": 243.94,
-          "50 DMA": 233.02,
-          "200 DMA": 257.04,
-          "200 DMA Dist %": 11.56,
-          "SL": 256.55,
-          "T1": 347.18,
-          "T2": 377.39,
-          "T3": 437.81,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
