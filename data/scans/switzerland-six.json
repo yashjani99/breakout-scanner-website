@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-08-29T00:56:34.801079+00:00",
+  "generated_at": "2026-08-29T19:40:58.839120+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -36,7 +36,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "29-08-2026",
+          "Stock": "CFR",
+          "CMP": 194.55,
+          "Monthly RSI": 67.1,
+          "Weekly RSI": 63.0,
+          "Signal Date": "21-08-2026",
+          "Entry": 186.0,
+          "SL": 181.45,
+          "T1 (RSI 60 Est.)": 199.1,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
