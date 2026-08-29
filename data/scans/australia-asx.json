@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-08-28T18:53:05.509363+00:00",
+  "generated_at": "2026-08-29T12:46:57.365877+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "28-08-2026",
+          "Date": "29-08-2026",
           "Stock": "CSL",
           "CMP": 172.32,
           "30 DMA": 140.01,
