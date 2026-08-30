@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-08-29T19:34:57.716810+00:00",
+  "generated_at": "2026-08-30T19:35:34.506095+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
