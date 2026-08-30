@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-08-29T19:40:58.839120+00:00",
+  "generated_at": "2026-08-30T19:45:35.924490+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -38,7 +38,7 @@
       ],
       "rows": [
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "CFR",
           "CMP": 194.55,
           "Monthly RSI": 67.1,
