@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-08-29T23:31:38.407045+00:00",
+  "generated_at": "2026-08-30T23:43:36.491960+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "CVX",
           "CMP": 201.86,
           "30 DMA": 194.88,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "MSFT",
           "CMP": 513.53,
           "30 DMA": 462.99,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "CRM",
           "CMP": 256.0,
           "30 DMA": 193.57,
@@ -84,7 +84,7 @@
       ],
       "rows": [
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "BAC",
           "CMP": 62.32,
           "Monthly RSI": 69.2,
@@ -96,7 +96,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "AAPL",
           "CMP": 319.7,
           "Monthly RSI": 70.2,
