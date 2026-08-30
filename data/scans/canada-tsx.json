@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-08-29T23:33:28.112112+00:00",
+  "generated_at": "2026-08-30T23:45:04.356615+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "RCI-B",
           "CMP": 50.85,
           "30 DMA": 48.96,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "BAM",
           "CMP": 72.47,
           "30 DMA": 70.94,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "NTR",
           "CMP": 102.28,
           "30 DMA": 96.72,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "SU",
           "CMP": 91.09,
           "30 DMA": 90.87,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "FNV",
           "CMP": 369.97,
           "30 DMA": 326.41,
@@ -97,7 +97,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "SHOP",
           "CMP": 212.42,
           "30 DMA": 194.38,
@@ -129,7 +129,7 @@
       ],
       "rows": [
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "BNS",
           "CMP": 128.36,
           "Monthly RSI": 89.3,
@@ -141,7 +141,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "TD",
           "CMP": 168.61,
           "Monthly RSI": 90.4,
@@ -153,7 +153,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "MFC",
           "CMP": 59.56,
           "Monthly RSI": 81.3,
@@ -165,7 +165,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "29-08-2026",
+          "Date": "30-08-2026",
           "Stock": "QSR",
           "CMP": 108.9,
           "Monthly RSI": 69.8,
