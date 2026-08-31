@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-08-30T19:45:35.924490+00:00",
+  "generated_at": "2026-08-31T21:53:17.627330+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "31-08-2026",
+          "Stock": "SREN",
+          "CMP": 140.55,
+          "30 DMA": 137.43,
+          "50 DMA": 135.01,
+          "200 DMA": 126.32,
+          "200 DMA Dist %": 11.26,
+          "SL": 136.4,
+          "T1": 148.85,
+          "T2": 153.0,
+          "T3": 161.3,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,20 +52,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "30-08-2026",
-          "Stock": "CFR",
-          "CMP": 194.55,
-          "Monthly RSI": 67.1,
-          "Weekly RSI": 63.0,
-          "Signal Date": "21-08-2026",
-          "Entry": 186.0,
-          "SL": 181.45,
-          "T1 (RSI 60 Est.)": 199.1,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
