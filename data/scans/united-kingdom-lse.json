@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-08-30T19:32:23.398099+00:00",
+  "generated_at": "2026-08-31T21:41:32.185422+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,68 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "31-08-2026",
+          "Stock": "DGE",
+          "CMP": 1709.0,
+          "30 DMA": 1682.3,
+          "50 DMA": 1625.3,
+          "200 DMA": 1599.73,
+          "200 DMA Dist %": 6.83,
+          "SL": 1657.5,
+          "T1": 1812.0,
+          "T2": 1863.5,
+          "T3": 1966.5,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "31-08-2026",
+          "Stock": "SHEL",
+          "CMP": 3344.5,
+          "30 DMA": 3330.93,
+          "50 DMA": 3201.29,
+          "200 DMA": 3071.89,
+          "200 DMA Dist %": 8.87,
+          "SL": 3305.0,
+          "T1": 3423.5,
+          "T2": 3463.0,
+          "T3": 3542.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "31-08-2026",
+          "Stock": "VOD",
+          "CMP": 118.45,
+          "30 DMA": 118.2,
+          "50 DMA": 112.91,
+          "200 DMA": 108.76,
+          "200 DMA Dist %": 8.91,
+          "SL": 115.55,
+          "T1": 124.25,
+          "T2": 127.15,
+          "T3": 132.95,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "31-08-2026",
+          "Stock": "GLEN",
+          "CMP": 595.6,
+          "30 DMA": 557.99,
+          "50 DMA": 541.65,
+          "200 DMA": 508.25,
+          "200 DMA Dist %": 17.19,
+          "SL": 546.24,
+          "T1": 694.31,
+          "T2": 743.67,
+          "T3": 842.38,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
