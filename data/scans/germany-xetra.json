@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-08-30T19:35:49.971857+00:00",
+  "generated_at": "2026-08-31T21:42:45.816291+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,68 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "31-08-2026",
+          "Stock": "MUV2",
+          "CMP": 518.8,
+          "30 DMA": 516.29,
+          "50 DMA": 508.98,
+          "200 DMA": 504.48,
+          "200 DMA Dist %": 2.84,
+          "SL": 507.8,
+          "T1": 540.8,
+          "T2": 551.8,
+          "T3": 573.8,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "31-08-2026",
+          "Stock": "RWE",
+          "CMP": 58.64,
+          "30 DMA": 57.52,
+          "50 DMA": 57.03,
+          "200 DMA": 53.29,
+          "200 DMA Dist %": 10.03,
+          "SL": 56.48,
+          "T1": 62.96,
+          "T2": 65.12,
+          "T3": 69.44,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "31-08-2026",
+          "Stock": "BAS",
+          "CMP": 52.98,
+          "30 DMA": 50.81,
+          "50 DMA": 49.65,
+          "200 DMA": 47.59,
+          "200 DMA Dist %": 11.32,
+          "SL": 50.48,
+          "T1": 57.98,
+          "T2": 60.48,
+          "T3": 65.48,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "31-08-2026",
+          "Stock": "SAP",
+          "CMP": 190.9,
+          "30 DMA": 170.38,
+          "50 DMA": 157.33,
+          "200 DMA": 166.96,
+          "200 DMA Dist %": 14.34,
+          "SL": 176.82,
+          "T1": 219.06,
+          "T2": 233.14,
+          "T3": 261.3,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
