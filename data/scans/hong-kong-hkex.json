@@ -1,7 +1,7 @@
 {
   "market": "Hong Kong (HKEX)",
   "currency": "HKD",
-  "generated_at": "2026-08-31T16:18:53.838823+00:00",
+  "generated_at": "2026-09-01T13:37:56.029704+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "01-09-2026",
+          "Stock": "0388",
+          "CMP": 405.6,
+          "30 DMA": 404.0,
+          "50 DMA": 391.67,
+          "200 DMA": 398.19,
+          "200 DMA Dist %": 1.86,
+          "SL": 395.37,
+          "T1": 426.06,
+          "T2": 436.29,
+          "T3": 456.76,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
