@@ -1,7 +1,7 @@
 {
   "market": "Singapore (SGX)",
   "currency": "SGD",
-  "generated_at": "2026-08-31T17:11:17.677505+00:00",
+  "generated_at": "2026-09-01T14:14:30.168862+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -36,7 +36,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "01-09-2026",
+          "Stock": "U11",
+          "CMP": 41.42,
+          "Monthly RSI": 75.9,
+          "Weekly RSI": 63.2,
+          "Signal Date": "27-08-2026",
+          "Entry": 40.94,
+          "SL": 39.8,
+          "T1 (RSI 60 Est.)": 43.22,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
