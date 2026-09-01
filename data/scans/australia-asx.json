@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-08-31T14:14:20.958291+00:00",
+  "generated_at": "2026-09-01T11:52:03.758568+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,83 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "01-09-2026",
+          "Stock": "ANZ",
+          "CMP": 37.34,
+          "30 DMA": 37.23,
+          "50 DMA": 36.57,
+          "200 DMA": 36.01,
+          "200 DMA Dist %": 3.68,
+          "SL": 36.27,
+          "T1": 39.48,
+          "T2": 40.55,
+          "T3": 42.69,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "01-09-2026",
+          "Stock": "RIO",
+          "CMP": 177.51,
+          "30 DMA": 170.56,
+          "50 DMA": 167.98,
+          "200 DMA": 159.35,
+          "200 DMA Dist %": 11.4,
+          "SL": 166.67,
+          "T1": 199.19,
+          "T2": 210.03,
+          "T3": 231.71,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "01-09-2026",
+          "Stock": "SUN",
+          "CMP": 18.85,
+          "30 DMA": 18.65,
+          "50 DMA": 18.54,
+          "200 DMA": 16.81,
+          "200 DMA Dist %": 12.11,
+          "SL": 17.71,
+          "T1": 21.13,
+          "T2": 22.27,
+          "T3": 24.55,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "01-09-2026",
+          "Stock": "WDS",
+          "CMP": 32.7,
+          "30 DMA": 32.55,
+          "50 DMA": 31.1,
+          "200 DMA": 28.94,
+          "200 DMA Dist %": 12.98,
+          "SL": 31.44,
+          "T1": 35.22,
+          "T2": 36.48,
+          "T3": 39.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "01-09-2026",
+          "Stock": "CSL",
+          "CMP": 172.31,
+          "30 DMA": 143.34,
+          "50 DMA": 134.24,
+          "200 DMA": 142.68,
+          "200 DMA Dist %": 20.76,
+          "SL": 159.25,
+          "T1": 198.43,
+          "T2": 211.49,
+          "T3": 237.61,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
