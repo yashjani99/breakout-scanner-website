@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-08-31T21:53:17.787334+00:00",
+  "generated_at": "2026-09-01T19:53:52.347139+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "31-08-2026",
+          "Date": "01-09-2026",
           "Stock": "RACE",
-          "CMP": 364.5,
-          "30 DMA": 349.81,
-          "50 DMA": 340.35,
-          "200 DMA": 312.3,
-          "200 DMA Dist %": 16.72,
+          "CMP": 355.5,
+          "30 DMA": 350.82,
+          "50 DMA": 341.42,
+          "200 DMA": 312.29,
+          "200 DMA Dist %": 13.84,
           "SL": 350.8,
-          "T1": 391.9,
-          "T2": 405.6,
-          "T3": 433.0,
+          "T1": 364.9,
+          "T2": 369.6,
+          "T3": 379.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "01-09-2026",
+          "Stock": "ENI",
+          "CMP": 23.67,
+          "30 DMA": 23.41,
+          "50 DMA": 22.41,
+          "200 DMA": 20.4,
+          "200 DMA Dist %": 16.01,
+          "SL": 22.62,
+          "T1": 25.75,
+          "T2": 26.79,
+          "T3": 28.87,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -54,51 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "31-08-2026",
-          "Stock": "MB",
-          "CMP": 28.06,
-          "Monthly RSI": 77.0,
-          "Weekly RSI": 71.6,
-          "Signal Date": "27-08-2026",
-          "Entry": 28.0,
-          "SL": 27.32,
-          "T1 (RSI 60 Est.)": 29.36,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "31-08-2026",
+          "Date": "01-09-2026",
           "Stock": "G",
-          "CMP": 44.57,
-          "Monthly RSI": 80.7,
-          "Weekly RSI": 71.0,
+          "CMP": 44.12,
+          "Monthly RSI": 78.6,
+          "Weekly RSI": 69.8,
           "Signal Date": "21-08-2026",
           "Entry": 43.33,
           "SL": 42.52,
-          "T1 (RSI 60 Est.)": 45.38,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "31-08-2026",
-          "Stock": "TIT",
-          "CMP": 7.84,
-          "Monthly RSI": 73.2,
-          "Weekly RSI": 67.4,
-          "Signal Date": "11-08-2026",
-          "Entry": 7.55,
-          "SL": 7.27,
-          "T1 (RSI 60 Est.)": 8.12,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "31-08-2026",
-          "Stock": "PST",
-          "CMP": 27.79,
-          "Monthly RSI": 77.4,
-          "Weekly RSI": 66.2,
-          "Signal Date": "11-08-2026",
-          "Entry": 26.98,
-          "SL": 25.81,
-          "T1 (RSI 60 Est.)": 29.32,
+          "T1 (RSI 60 Est.)": 44.95,
           "Action": "RSI 5-Star Setup"
         }
       ]
