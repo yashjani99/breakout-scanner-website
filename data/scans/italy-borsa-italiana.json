@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-09-01T19:53:52.347139+00:00",
+  "generated_at": "2026-09-02T19:44:38.220559+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "01-09-2026",
+          "Date": "02-09-2026",
           "Stock": "RACE",
-          "CMP": 355.5,
-          "30 DMA": 350.82,
-          "50 DMA": 341.42,
+          "CMP": 357.05,
+          "30 DMA": 351.84,
+          "50 DMA": 342.41,
           "200 DMA": 312.29,
-          "200 DMA Dist %": 13.84,
+          "200 DMA Dist %": 14.33,
           "SL": 350.8,
-          "T1": 364.9,
-          "T2": 369.6,
-          "T3": 379.0,
+          "T1": 369.55,
+          "T2": 375.8,
+          "T3": 388.3,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "01-09-2026",
+          "Date": "02-09-2026",
           "Stock": "ENI",
-          "CMP": 23.67,
-          "30 DMA": 23.41,
-          "50 DMA": 22.41,
-          "200 DMA": 20.4,
-          "200 DMA Dist %": 16.01,
+          "CMP": 23.81,
+          "30 DMA": 23.46,
+          "50 DMA": 22.47,
+          "200 DMA": 20.44,
+          "200 DMA Dist %": 16.49,
           "SL": 22.62,
-          "T1": 25.75,
-          "T2": 26.79,
-          "T3": 28.87,
+          "T1": 26.18,
+          "T2": 27.36,
+          "T3": 29.73,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,11 +69,11 @@
       ],
       "rows": [
         {
-          "Date": "01-09-2026",
+          "Date": "02-09-2026",
           "Stock": "G",
-          "CMP": 44.12,
+          "CMP": 44.11,
           "Monthly RSI": 78.6,
-          "Weekly RSI": 69.8,
+          "Weekly RSI": 69.7,
           "Signal Date": "21-08-2026",
           "Entry": 43.33,
           "SL": 42.52,
