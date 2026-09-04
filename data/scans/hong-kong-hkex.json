@@ -1,7 +1,7 @@
 {
   "market": "Hong Kong (HKEX)",
   "currency": "HKD",
-  "generated_at": "2026-09-03T12:57:27.234854+00:00",
+  "generated_at": "2026-09-04T12:52:20.976598+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,47 @@
       ],
       "rows": [
         {
-          "Date": "03-09-2026",
+          "Date": "04-09-2026",
+          "Stock": "0388",
+          "CMP": 408.8,
+          "30 DMA": 405.06,
+          "50 DMA": 394.21,
+          "200 DMA": 397.98,
+          "200 DMA Dist %": 2.72,
+          "SL": 398.4,
+          "T1": 429.6,
+          "T2": 440.0,
+          "T3": 460.8,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "04-09-2026",
+          "Stock": "0941",
+          "CMP": 79.65,
+          "30 DMA": 79.65,
+          "50 DMA": 78.2,
+          "200 DMA": 77.5,
+          "200 DMA Dist %": 2.78,
+          "SL": 78.9,
+          "T1": 81.15,
+          "T2": 81.9,
+          "T3": 83.4,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "04-09-2026",
           "Stock": "0006",
-          "CMP": 60.0,
-          "30 DMA": 59.48,
-          "50 DMA": 58.84,
-          "200 DMA": 57.84,
-          "200 DMA Dist %": 3.73,
+          "CMP": 60.3,
+          "30 DMA": 59.52,
+          "50 DMA": 58.87,
+          "200 DMA": 57.9,
+          "200 DMA Dist %": 4.15,
           "SL": 58.85,
-          "T1": 62.3,
-          "T2": 63.45,
-          "T3": 65.75,
+          "T1": 63.2,
+          "T2": 64.65,
+          "T3": 67.55,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
