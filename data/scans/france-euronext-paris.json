@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-09-03T19:32:28.515323+00:00",
+  "generated_at": "2026-09-04T19:14:39.288074+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "03-09-2026",
-          "Stock": "DSY",
-          "CMP": 22.48,
-          "30 DMA": 21.74,
-          "50 DMA": 20.34,
-          "200 DMA": 20.16,
-          "200 DMA Dist %": 11.49,
-          "SL": 21.93,
-          "T1": 23.58,
-          "T2": 24.13,
-          "T3": 25.23,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "03-09-2026",
+          "Date": "04-09-2026",
           "Stock": "TTE",
-          "CMP": 78.02,
-          "30 DMA": 75.84,
-          "50 DMA": 73.34,
-          "200 DMA": 68.23,
-          "200 DMA Dist %": 14.34,
+          "CMP": 76.1,
+          "30 DMA": 75.85,
+          "50 DMA": 73.51,
+          "200 DMA": 68.35,
+          "200 DMA Dist %": 11.35,
           "SL": 74.05,
-          "T1": 85.96,
-          "T2": 89.93,
-          "T3": 97.87,
+          "T1": 80.2,
+          "T2": 82.25,
+          "T3": 86.35,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,11 +54,11 @@
       ],
       "rows": [
         {
-          "Date": "03-09-2026",
+          "Date": "04-09-2026",
           "Stock": "CS",
-          "CMP": 44.21,
-          "Monthly RSI": 66.4,
-          "Weekly RSI": 64.2,
+          "CMP": 44.64,
+          "Monthly RSI": 67.1,
+          "Weekly RSI": 65.8,
           "Signal Date": "02-09-2026",
           "Entry": 43.83,
           "SL": 42.43,
