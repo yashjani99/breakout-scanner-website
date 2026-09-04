@@ -1,7 +1,7 @@
 {
   "market": "South Korea (KOSPI)",
   "currency": "KRW",
-  "generated_at": "2026-09-03T11:52:20.022993+00:00",
+  "generated_at": "2026-09-04T11:55:21.101067+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -36,20 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "03-09-2026",
-          "Stock": "055550",
-          "CMP": 114500.0,
-          "Monthly RSI": 69.1,
-          "Weekly RSI": 62.4,
-          "Signal Date": "20-08-2026",
-          "Entry": 105200.0,
-          "SL": 101100.0,
-          "T1 (RSI 60 Est.)": 118600.0,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
