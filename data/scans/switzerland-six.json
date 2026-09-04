@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-09-03T19:44:35.300535+00:00",
+  "generated_at": "2026-09-04T19:26:07.251438+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "03-09-2026",
+          "Date": "04-09-2026",
           "Stock": "SREN",
-          "CMP": 143.6,
-          "30 DMA": 138.5,
-          "50 DMA": 135.99,
-          "200 DMA": 126.33,
-          "200 DMA Dist %": 13.67,
-          "SL": 138.1,
-          "T1": 154.6,
-          "T2": 160.1,
-          "T3": 171.1,
+          "CMP": 142.85,
+          "30 DMA": 138.78,
+          "50 DMA": 136.29,
+          "200 DMA": 126.32,
+          "200 DMA Dist %": 13.08,
+          "SL": 138.6,
+          "T1": 151.35,
+          "T2": 155.6,
+          "T3": 164.1,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -54,15 +54,15 @@
       ],
       "rows": [
         {
-          "Date": "03-09-2026",
+          "Date": "04-09-2026",
           "Stock": "NOVN",
-          "CMP": 131.32,
-          "Monthly RSI": 64.5,
-          "Weekly RSI": 62.0,
+          "CMP": 129.58,
+          "Monthly RSI": 63.4,
+          "Weekly RSI": 60.5,
           "Signal Date": "31-08-2026",
           "Entry": 124.28,
           "SL": 122.64,
-          "T1 (RSI 60 Est.)": 132.96,
+          "T1 (RSI 60 Est.)": 131.22,
           "Action": "RSI 5-Star Setup"
         }
       ]
