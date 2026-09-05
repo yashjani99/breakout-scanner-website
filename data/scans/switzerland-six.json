@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-09-04T19:26:07.251438+00:00",
+  "generated_at": "2026-09-05T18:58:29.983582+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "SREN",
           "CMP": 142.85,
           "30 DMA": 138.78,
@@ -54,7 +54,7 @@
       ],
       "rows": [
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "NOVN",
           "CMP": 129.58,
           "Monthly RSI": 63.4,
