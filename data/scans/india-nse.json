@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-09-04T14:31:18.515892+00:00",
+  "generated_at": "2026-09-05T13:31:54.710001+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "JINDALSTEL",
           "CMP": 1165.0,
           "30 DMA": 1122.22,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "INDIANB",
           "CMP": 879.7,
           "30 DMA": 870.88,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "PETRONET",
           "CMP": 288.1,
           "30 DMA": 285.17,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "PNB",
           "CMP": 117.0,
           "30 DMA": 115.18,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "PERSISTENT",
           "CMP": 5643.0,
           "30 DMA": 5569.2,
@@ -97,7 +97,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "HINDZINC",
           "CMP": 601.0,
           "30 DMA": 578.37,
@@ -112,7 +112,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "CDSL",
           "CMP": 1394.6,
           "30 DMA": 1360.07,
@@ -127,7 +127,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "KOTAKBANK",
           "CMP": 424.5,
           "30 DMA": 401.08,
@@ -142,7 +142,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "UNOMINDA",
           "CMP": 1249.7,
           "30 DMA": 1244.66,
@@ -157,7 +157,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "HYUNDAI",
           "CMP": 2205.0,
           "30 DMA": 2176.64,
@@ -172,7 +172,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "OIL",
           "CMP": 488.3,
           "30 DMA": 466.69,
@@ -187,7 +187,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "DLF",
           "CMP": 681.9,
           "30 DMA": 666.96,
@@ -202,7 +202,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "POLICYBZR",
           "CMP": 1836.0,
           "30 DMA": 1725.57,
@@ -217,7 +217,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "UNIONBANK",
           "CMP": 187.22,
           "30 DMA": 182.0,
@@ -232,7 +232,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "OBEROIRLTY",
           "CMP": 1875.6,
           "30 DMA": 1847.41,
@@ -247,7 +247,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "NAUKRI",
           "CMP": 1319.8,
           "30 DMA": 1307.84,
@@ -262,7 +262,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "APLAPOLLO",
           "CMP": 2250.0,
           "30 DMA": 2058.41,
@@ -277,7 +277,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "ETERNAL",
           "CMP": 322.75,
           "30 DMA": 318.49,
@@ -292,7 +292,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "SAIL",
           "CMP": 196.8,
           "30 DMA": 178.6,
@@ -307,7 +307,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "NUVAMA",
           "CMP": 1815.6,
           "30 DMA": 1753.03,
@@ -322,7 +322,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "MOTILALOFS",
           "CMP": 1037.0,
           "30 DMA": 937.92,
@@ -337,7 +337,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "MCX",
           "CMP": 3275.4,
           "30 DMA": 2976.14,
@@ -352,7 +352,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "BHEL",
           "CMP": 431.1,
           "30 DMA": 417.83,
