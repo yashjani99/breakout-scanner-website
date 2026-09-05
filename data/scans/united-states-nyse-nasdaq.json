@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-09-04T23:12:02.170857+00:00",
+  "generated_at": "2026-09-05T23:09:46.589678+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "DIS",
           "CMP": 105.31,
           "30 DMA": 104.19,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "XOM",
           "CMP": 159.47,
           "30 DMA": 158.63,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "MSFT",
           "CMP": 499.7,
           "30 DMA": 481.83,
@@ -84,19 +84,19 @@
       ],
       "rows": [
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "BAC",
           "CMP": 62.68,
-          "Monthly RSI": 78.1,
-          "Weekly RSI": 66.0,
+          "Monthly RSI": 78.3,
+          "Weekly RSI": 66.6,
           "Signal Date": "27-08-2026",
-          "Entry": 62.02,
-          "SL": 61.1,
-          "T1 (RSI 60 Est.)": 63.91,
+          "Entry": 61.71,
+          "SL": 60.79,
+          "T1 (RSI 60 Est.)": 63.6,
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "NVDA",
           "CMP": 230.36,
           "Monthly RSI": 75.9,
@@ -108,7 +108,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "AAPL",
           "CMP": 319.97,
           "Monthly RSI": 62.2,
