@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-09-04T19:11:55.731758+00:00",
+  "generated_at": "2026-09-05T18:38:13.479503+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "ULVR",
           "CMP": 4763.0,
           "30 DMA": 4715.73,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "RIO",
           "CMP": 7641.0,
           "30 DMA": 7371.82,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "SHEL",
           "CMP": 3437.0,
           "30 DMA": 3352.12,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "VOD",
           "CMP": 125.6,
           "30 DMA": 118.95,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "GLEN",
           "CMP": 601.7,
           "30 DMA": 567.5,
@@ -114,7 +114,7 @@
       ],
       "rows": [
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "HSBA",
           "CMP": 1580.2,
           "Monthly RSI": 80.6,
@@ -126,7 +126,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "NWG",
           "CMP": 699.8,
           "Monthly RSI": 74.5,
