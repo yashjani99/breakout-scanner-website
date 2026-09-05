@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-09-04T19:14:39.288074+00:00",
+  "generated_at": "2026-09-05T18:42:04.177690+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "TTE",
           "CMP": 76.1,
           "30 DMA": 75.85,
@@ -54,7 +54,7 @@
       ],
       "rows": [
         {
-          "Date": "04-09-2026",
+          "Date": "05-09-2026",
           "Stock": "CS",
           "CMP": 44.64,
           "Monthly RSI": 67.1,
