@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-09-05T23:09:46.589678+00:00",
+  "generated_at": "2026-09-06T23:00:42.402179+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "05-09-2026",
+          "Date": "06-09-2026",
           "Stock": "DIS",
           "CMP": 105.31,
           "30 DMA": 104.19,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "05-09-2026",
+          "Date": "06-09-2026",
           "Stock": "XOM",
           "CMP": 159.47,
           "30 DMA": 158.63,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "05-09-2026",
+          "Date": "06-09-2026",
           "Stock": "MSFT",
           "CMP": 499.7,
           "30 DMA": 481.83,
@@ -84,7 +84,7 @@
       ],
       "rows": [
         {
-          "Date": "05-09-2026",
+          "Date": "06-09-2026",
           "Stock": "BAC",
           "CMP": 62.68,
           "Monthly RSI": 78.3,
@@ -96,7 +96,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "05-09-2026",
+          "Date": "06-09-2026",
           "Stock": "NVDA",
           "CMP": 230.36,
           "Monthly RSI": 75.9,
@@ -108,7 +108,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "05-09-2026",
+          "Date": "06-09-2026",
           "Stock": "AAPL",
           "CMP": 319.97,
           "Monthly RSI": 62.2,
