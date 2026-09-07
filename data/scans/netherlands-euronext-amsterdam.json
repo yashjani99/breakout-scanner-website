@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-09-06T19:03:09.752392+00:00",
+  "generated_at": "2026-09-07T20:29:17.209137+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -38,15 +38,15 @@
       ],
       "rows": [
         {
-          "Date": "06-09-2026",
+          "Date": "07-09-2026",
           "Stock": "NN",
-          "CMP": 80.28,
-          "Monthly RSI": 86.1,
-          "Weekly RSI": 70.9,
+          "CMP": 79.7,
+          "Monthly RSI": 85.8,
+          "Weekly RSI": 68.7,
           "Signal Date": "24-08-2026",
           "Entry": 76.86,
           "SL": 75.36,
-          "T1 (RSI 60 Est.)": 81.78,
+          "T1 (RSI 60 Est.)": 81.2,
           "Action": "RSI 5-Star Setup"
         }
       ]
