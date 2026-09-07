@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-09-06T22:11:26.237721+00:00",
+  "generated_at": "2026-09-07T22:54:20.485105+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "06-09-2026",
+          "Date": "07-09-2026",
           "Stock": "WEGE3",
           "CMP": 51.74,
           "30 DMA": 48.65,
@@ -54,7 +54,7 @@
       ],
       "rows": [
         {
-          "Date": "06-09-2026",
+          "Date": "07-09-2026",
           "Stock": "GGBR4",
           "CMP": 25.34,
           "Monthly RSI": 60.9,
@@ -66,7 +66,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "06-09-2026",
+          "Date": "07-09-2026",
           "Stock": "B3SA3",
           "CMP": 17.37,
           "Monthly RSI": 63.3,
