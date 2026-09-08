@@ -1,7 +1,7 @@
 {
   "market": "Singapore (SGX)",
   "currency": "SGD",
-  "generated_at": "2026-09-07T15:08:46.523264+00:00",
+  "generated_at": "2026-09-08T13:46:37.992022+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "07-09-2026",
+          "Date": "08-09-2026",
           "Stock": "BN4",
-          "CMP": 11.79,
-          "30 DMA": 11.4,
-          "50 DMA": 11.31,
-          "200 DMA": 11.12,
-          "200 DMA Dist %": 6.0,
+          "CMP": 11.88,
+          "30 DMA": 11.41,
+          "50 DMA": 11.32,
+          "200 DMA": 11.13,
+          "200 DMA Dist %": 6.71,
           "SL": 11.32,
-          "T1": 12.73,
-          "T2": 13.2,
-          "T3": 14.14,
+          "T1": 13.0,
+          "T2": 13.56,
+          "T3": 14.68,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -54,11 +54,11 @@
       ],
       "rows": [
         {
-          "Date": "07-09-2026",
+          "Date": "08-09-2026",
           "Stock": "U11",
-          "CMP": 41.75,
-          "Monthly RSI": 77.1,
-          "Weekly RSI": 63.6,
+          "CMP": 41.6,
+          "Monthly RSI": 76.8,
+          "Weekly RSI": 62.7,
           "Signal Date": "27-08-2026",
           "Entry": 40.94,
           "SL": 39.8,
