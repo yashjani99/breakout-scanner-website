@@ -1,7 +1,7 @@
 {
   "market": "Singapore (SGX)",
   "currency": "SGD",
-  "generated_at": "2026-09-09T13:49:59.489483+00:00",
+  "generated_at": "2026-09-10T13:44:46.832553+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "09-09-2026",
+          "Date": "10-09-2026",
           "Stock": "BN4",
-          "CMP": 11.8,
-          "30 DMA": 11.42,
-          "50 DMA": 11.34,
-          "200 DMA": 11.14,
-          "200 DMA Dist %": 5.89,
+          "CMP": 11.47,
+          "30 DMA": 11.4,
+          "50 DMA": 11.35,
+          "200 DMA": 11.15,
+          "200 DMA Dist %": 2.86,
           "SL": 11.32,
-          "T1": 12.76,
-          "T2": 13.24,
-          "T3": 14.2,
+          "T1": 11.77,
+          "T2": 11.92,
+          "T3": 12.22,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,20 +52,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "09-09-2026",
-          "Stock": "U11",
-          "CMP": 41.18,
-          "Monthly RSI": 74.5,
-          "Weekly RSI": 60.2,
-          "Signal Date": "27-08-2026",
-          "Entry": 40.94,
-          "SL": 39.8,
-          "T1 (RSI 60 Est.)": 43.22,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
