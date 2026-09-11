@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-09-10T19:23:39.824021+00:00",
+  "generated_at": "2026-09-11T19:22:21.640710+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,23 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "10-09-2026",
-          "Stock": "BAS",
-          "CMP": 53.34,
-          "30 DMA": 51.82,
-          "50 DMA": 50.42,
-          "200 DMA": 48.01,
-          "200 DMA Dist %": 11.1,
-          "SL": 51.04,
-          "T1": 57.94,
-          "T2": 60.24,
-          "T3": 64.84,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
