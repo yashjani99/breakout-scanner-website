@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-09-10T19:19:30.077815+00:00",
+  "generated_at": "2026-09-11T19:20:32.255289+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,47 +22,62 @@
       ],
       "rows": [
         {
-          "Date": "10-09-2026",
+          "Date": "11-09-2026",
+          "Stock": "BP",
+          "CMP": 564.6,
+          "30 DMA": 535.76,
+          "50 DMA": 526.69,
+          "200 DMA": 507.21,
+          "200 DMA Dist %": 11.32,
+          "SL": 512.7,
+          "T1": 668.4,
+          "T2": 720.3,
+          "T3": 824.1,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "11-09-2026",
           "Stock": "SHEL",
-          "CMP": 3533.0,
-          "30 DMA": 3381.52,
-          "50 DMA": 3286.9,
-          "200 DMA": 3098.04,
-          "200 DMA Dist %": 14.04,
-          "SL": 3305.0,
-          "T1": 3989.0,
-          "T2": 4217.0,
-          "T3": 4673.0,
+          "CMP": 3551.0,
+          "30 DMA": 3389.26,
+          "50 DMA": 3299.95,
+          "200 DMA": 3101.97,
+          "200 DMA Dist %": 14.48,
+          "SL": 3319.0,
+          "T1": 4015.0,
+          "T2": 4247.0,
+          "T3": 4711.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "10-09-2026",
+          "Date": "11-09-2026",
           "Stock": "GLEN",
-          "CMP": 599.7,
-          "30 DMA": 580.03,
-          "50 DMA": 555.1,
-          "200 DMA": 518.25,
-          "200 DMA Dist %": 15.72,
-          "SL": 583.0,
-          "T1": 633.1,
-          "T2": 649.8,
-          "T3": 683.2,
+          "CMP": 605.5,
+          "30 DMA": 582.25,
+          "50 DMA": 556.99,
+          "200 DMA": 519.56,
+          "200 DMA Dist %": 16.54,
+          "SL": 587.2,
+          "T1": 642.1,
+          "T2": 660.4,
+          "T3": 697.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "10-09-2026",
+          "Date": "11-09-2026",
           "Stock": "VOD",
-          "CMP": 128.65,
-          "30 DMA": 120.12,
-          "50 DMA": 116.03,
-          "200 DMA": 110.02,
-          "200 DMA Dist %": 16.93,
-          "SL": 115.55,
-          "T1": 154.85,
-          "T2": 167.95,
-          "T3": 194.15,
+          "CMP": 128.75,
+          "30 DMA": 120.34,
+          "50 DMA": 116.64,
+          "200 DMA": 110.22,
+          "200 DMA Dist %": 16.82,
+          "SL": 116.85,
+          "T1": 152.56,
+          "T2": 164.46,
+          "T3": 188.27,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -82,7 +97,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "11-09-2026",
+          "Stock": "NWG",
+          "CMP": 697.8,
+          "Monthly RSI": 74.4,
+          "Weekly RSI": 61.3,
+          "Signal Date": "28-08-2026",
+          "Entry": 686.4,
+          "SL": 674.72,
+          "T1 (RSI 60 Est.)": 709.76,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
