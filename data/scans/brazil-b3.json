@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-09-10T22:41:23.788437+00:00",
+  "generated_at": "2026-09-11T22:41:19.866190+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,47 +22,47 @@
       ],
       "rows": [
         {
-          "Date": "10-09-2026",
+          "Date": "11-09-2026",
           "Stock": "SUZB3",
-          "CMP": 48.1,
-          "30 DMA": 44.14,
-          "50 DMA": 43.13,
-          "200 DMA": 47.1,
-          "200 DMA Dist %": 2.13,
+          "CMP": 47.81,
+          "30 DMA": 44.36,
+          "50 DMA": 43.26,
+          "200 DMA": 47.13,
+          "200 DMA Dist %": 1.44,
           "SL": 45.22,
-          "T1": 53.86,
-          "T2": 56.74,
-          "T3": 62.5,
+          "T1": 52.99,
+          "T2": 55.58,
+          "T3": 60.76,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "10-09-2026",
-          "Stock": "WEGE3",
-          "CMP": 52.17,
-          "30 DMA": 49.24,
-          "50 DMA": 47.65,
-          "200 DMA": 47.11,
-          "200 DMA Dist %": 10.75,
-          "SL": 49.53,
-          "T1": 57.45,
-          "T2": 60.09,
-          "T3": 65.37,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "10-09-2026",
+          "Date": "11-09-2026",
           "Stock": "B3SA3",
-          "CMP": 17.66,
-          "30 DMA": 15.66,
-          "50 DMA": 15.48,
-          "200 DMA": 15.85,
-          "200 DMA Dist %": 11.41,
+          "CMP": 17.28,
+          "30 DMA": 15.75,
+          "50 DMA": 15.53,
+          "200 DMA": 15.86,
+          "200 DMA Dist %": 8.92,
           "SL": 15.59,
-          "T1": 21.8,
-          "T2": 23.87,
-          "T3": 28.01,
+          "T1": 20.66,
+          "T2": 22.35,
+          "T3": 25.73,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "11-09-2026",
+          "Stock": "WEGE3",
+          "CMP": 51.49,
+          "30 DMA": 49.37,
+          "50 DMA": 47.73,
+          "200 DMA": 47.13,
+          "200 DMA Dist %": 9.26,
+          "SL": 49.53,
+          "T1": 55.41,
+          "T2": 57.37,
+          "T3": 61.29,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -84,27 +84,15 @@
       ],
       "rows": [
         {
-          "Date": "10-09-2026",
+          "Date": "11-09-2026",
           "Stock": "GGBR4",
-          "CMP": 26.01,
-          "Monthly RSI": 62.2,
-          "Weekly RSI": 64.2,
+          "CMP": 26.1,
+          "Monthly RSI": 62.4,
+          "Weekly RSI": 64.5,
           "Signal Date": "26-08-2026",
           "Entry": 22.99,
           "SL": 21.64,
-          "T1 (RSI 60 Est.)": 27.36,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "10-09-2026",
-          "Stock": "B3SA3",
-          "CMP": 17.66,
-          "Monthly RSI": 64.0,
-          "Weekly RSI": 62.3,
-          "Signal Date": "20-08-2026",
-          "Entry": 14.57,
-          "SL": 14.11,
-          "T1 (RSI 60 Est.)": 18.12,
+          "T1 (RSI 60 Est.)": 27.45,
           "Action": "RSI 5-Star Setup"
         }
       ]
@@ -129,26 +117,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "10-09-2026",
-          "Stock": "B3SA3",
-          "CMP": 17.66,
-          "30 DMA": 15.66,
-          "50 DMA": 15.48,
-          "200 DMA": 15.85,
-          "200 DMA Dist %": 11.41,
-          "Monthly RSI": 64.0,
-          "Weekly RSI": 62.3,
-          "Signal Date": "20-08-2026",
-          "SL": 15.59,
-          "T1": 21.8,
-          "T2": 23.87,
-          "T3": 28.01,
-          "CAR Status": "Positive",
-          "Action": "Breakout + RSI 5-Star"
-        }
-      ]
+      "rows": []
     }
   }
 }
