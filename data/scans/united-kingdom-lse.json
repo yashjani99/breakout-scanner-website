@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-09-11T19:20:32.255289+00:00",
+  "generated_at": "2026-09-12T18:50:26.469961+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "BP",
           "CMP": 564.6,
           "30 DMA": 535.76,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "SHEL",
           "CMP": 3551.0,
           "30 DMA": 3389.26,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "GLEN",
           "CMP": 605.5,
           "30 DMA": 582.25,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "VOD",
           "CMP": 128.75,
           "30 DMA": 120.34,
@@ -99,7 +99,7 @@
       ],
       "rows": [
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "NWG",
           "CMP": 697.8,
           "Monthly RSI": 74.4,
