@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-09-11T14:36:21.722683+00:00",
+  "generated_at": "2026-09-12T13:43:09.987475+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "PETRONET",
           "CMP": 287.2,
           "30 DMA": 286.53,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "PNB",
           "CMP": 116.75,
           "30 DMA": 115.92,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "KOTAKBANK",
           "CMP": 419.0,
           "30 DMA": 406.12,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "LICHSGFIN",
           "CMP": 562.9,
           "30 DMA": 516.44,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "OIL",
           "CMP": 489.8,
           "30 DMA": 474.22,
@@ -97,7 +97,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "POLICYBZR",
           "CMP": 1797.3,
           "30 DMA": 1754.97,
@@ -112,7 +112,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "APLAPOLLO",
           "CMP": 2153.5,
           "30 DMA": 2105.99,
@@ -127,7 +127,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "ETERNAL",
           "CMP": 323.5,
           "30 DMA": 320.52,
@@ -142,7 +142,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "MOTILALOFS",
           "CMP": 1026.5,
           "30 DMA": 968.03,
@@ -157,7 +157,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "MCX",
           "CMP": 3276.0,
           "30 DMA": 3078.68,
@@ -172,7 +172,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "BHEL",
           "CMP": 431.0,
           "30 DMA": 421.2,
@@ -204,7 +204,7 @@
       ],
       "rows": [
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "FEDERALBNK",
           "CMP": 344.5,
           "Monthly RSI": 75.0,
@@ -216,7 +216,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "APOLLOHOSP",
           "CMP": 8836.0,
           "Monthly RSI": 60.1,
@@ -228,7 +228,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "TORNTPHARM",
           "CMP": 4965.5,
           "Monthly RSI": 61.9,
