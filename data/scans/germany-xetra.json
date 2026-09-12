@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-09-11T19:22:21.640710+00:00",
+  "generated_at": "2026-09-12T18:53:22.104725+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
