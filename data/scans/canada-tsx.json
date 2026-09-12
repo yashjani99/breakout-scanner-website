@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-09-11T23:30:17.272129+00:00",
+  "generated_at": "2026-09-12T23:13:26.880097+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "RCI-B",
           "CMP": 50.18,
           "30 DMA": 49.5,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "ABX",
           "CMP": 60.52,
           "30 DMA": 60.13,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "AEM",
           "CMP": 278.09,
           "30 DMA": 266.48,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "FNV",
           "CMP": 369.01,
           "30 DMA": 346.46,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "NTR",
           "CMP": 108.8,
           "30 DMA": 100.78,
@@ -114,7 +114,7 @@
       ],
       "rows": [
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "BNS",
           "CMP": 129.63,
           "Monthly RSI": 83.5,
@@ -126,7 +126,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "POW",
           "CMP": 94.37,
           "Monthly RSI": 85.0,
@@ -138,7 +138,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "TD",
           "CMP": 167.72,
           "Monthly RSI": 70.1,
@@ -150,7 +150,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "MFC",
           "CMP": 60.28,
           "Monthly RSI": 77.2,
@@ -162,7 +162,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "SLF",
           "CMP": 110.55,
           "Monthly RSI": 69.8,
@@ -174,7 +174,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "BMO",
           "CMP": 242.47,
           "Monthly RSI": 80.8,
