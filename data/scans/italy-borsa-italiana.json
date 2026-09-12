@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-09-11T19:37:10.823744+00:00",
+  "generated_at": "2026-09-12T19:14:06.104453+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "RACE",
           "CMP": 356.2,
           "30 DMA": 355.92,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "ENI",
           "CMP": 24.0,
           "30 DMA": 23.62,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "G",
           "CMP": 45.08,
           "30 DMA": 44.14,
@@ -84,7 +84,7 @@
       ],
       "rows": [
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "MB",
           "CMP": 28.9,
           "Monthly RSI": 78.1,
@@ -96,7 +96,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "G",
           "CMP": 45.08,
           "Monthly RSI": 81.2,
@@ -108,7 +108,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "TIT",
           "CMP": 7.61,
           "Monthly RSI": 70.2,
@@ -120,7 +120,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "ENI",
           "CMP": 24.0,
           "Monthly RSI": 73.5,
@@ -155,7 +155,7 @@
       ],
       "rows": [
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "G",
           "CMP": 45.08,
           "30 DMA": 44.14,
@@ -173,7 +173,7 @@
           "Action": "Breakout + RSI 5-Star"
         },
         {
-          "Date": "11-09-2026",
+          "Date": "12-09-2026",
           "Stock": "ENI",
           "CMP": 24.0,
           "30 DMA": 23.62,
