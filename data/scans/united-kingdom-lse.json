@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-09-15T19:53:46.796553+00:00",
+  "generated_at": "2026-09-16T19:47:14.380513+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "15-09-2026",
+          "Date": "16-09-2026",
           "Stock": "BP",
-          "CMP": 580.3,
-          "30 DMA": 537.33,
-          "50 DMA": 531.02,
-          "200 DMA": 508.47,
-          "200 DMA Dist %": 14.13,
+          "CMP": 566.8,
+          "30 DMA": 538.72,
+          "50 DMA": 532.87,
+          "200 DMA": 509.03,
+          "200 DMA Dist %": 11.35,
           "SL": 522.05,
-          "T1": 696.79,
-          "T2": 755.04,
-          "T3": 871.53,
+          "T1": 656.29,
+          "T2": 701.04,
+          "T3": 790.53,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "15-09-2026",
+          "Date": "16-09-2026",
           "Stock": "SHEL",
-          "CMP": 3652.5,
-          "30 DMA": 3404.13,
-          "50 DMA": 3328.57,
-          "200 DMA": 3110.56,
-          "200 DMA Dist %": 17.42,
+          "CMP": 3576.5,
+          "30 DMA": 3412.64,
+          "50 DMA": 3339.88,
+          "200 DMA": 3114.52,
+          "200 DMA Dist %": 14.83,
           "SL": 3387.0,
-          "T1": 4183.5,
-          "T2": 4449.0,
-          "T3": 4980.0,
+          "T1": 3955.5,
+          "T2": 4145.0,
+          "T3": 4524.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,7 +67,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "16-09-2026",
+          "Stock": "NWG",
+          "CMP": 702.2,
+          "Monthly RSI": 74.6,
+          "Weekly RSI": 62.1,
+          "Signal Date": "28-08-2026",
+          "Entry": 686.4,
+          "SL": 674.72,
+          "T1 (RSI 60 Est.)": 713.88,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
