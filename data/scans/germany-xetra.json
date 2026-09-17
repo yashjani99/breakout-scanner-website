@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-09-16T19:49:08.188699+00:00",
+  "generated_at": "2026-09-17T19:57:24.658963+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,47 +22,47 @@
       ],
       "rows": [
         {
-          "Date": "16-09-2026",
+          "Date": "17-09-2026",
           "Stock": "FRE",
-          "CMP": 46.14,
-          "30 DMA": 45.9,
-          "50 DMA": 44.82,
+          "CMP": 46.12,
+          "30 DMA": 45.88,
+          "50 DMA": 44.89,
           "200 DMA": 43.98,
-          "200 DMA Dist %": 4.91,
+          "200 DMA Dist %": 4.85,
           "SL": 43.21,
-          "T1": 52.0,
-          "T2": 54.93,
-          "T3": 60.79,
+          "T1": 51.93,
+          "T2": 54.83,
+          "T3": 60.64,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "16-09-2026",
+          "Date": "17-09-2026",
           "Stock": "BAS",
-          "CMP": 52.13,
-          "30 DMA": 51.98,
-          "50 DMA": 50.78,
-          "200 DMA": 48.2,
-          "200 DMA Dist %": 8.16,
+          "CMP": 52.37,
+          "30 DMA": 52.04,
+          "50 DMA": 50.88,
+          "200 DMA": 48.24,
+          "200 DMA Dist %": 8.55,
           "SL": 51.21,
-          "T1": 53.97,
-          "T2": 54.89,
-          "T3": 56.73,
+          "T1": 54.69,
+          "T2": 55.85,
+          "T3": 58.17,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "16-09-2026",
+          "Date": "17-09-2026",
           "Stock": "SAP",
-          "CMP": 186.56,
-          "30 DMA": 182.42,
-          "50 DMA": 167.39,
-          "200 DMA": 165.81,
-          "200 DMA Dist %": 12.51,
+          "CMP": 188.0,
+          "30 DMA": 183.05,
+          "50 DMA": 168.39,
+          "200 DMA": 165.73,
+          "200 DMA Dist %": 13.44,
           "SL": 172.16,
-          "T1": 215.36,
-          "T2": 229.76,
-          "T3": 258.56,
+          "T1": 219.68,
+          "T2": 235.52,
+          "T3": 267.2,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -82,7 +82,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "17-09-2026",
+          "Stock": "DBK",
+          "CMP": 34.24,
+          "Monthly RSI": 72.9,
+          "Weekly RSI": 62.0,
+          "Signal Date": "15-09-2026",
+          "Entry": 33.71,
+          "SL": 32.74,
+          "T1 (RSI 60 Est.)": 35.65,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
