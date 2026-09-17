@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-09-16T19:49:22.613745+00:00",
+  "generated_at": "2026-09-17T19:57:22.996927+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -38,15 +38,15 @@
       ],
       "rows": [
         {
-          "Date": "16-09-2026",
+          "Date": "17-09-2026",
           "Stock": "CS",
-          "CMP": 44.21,
-          "Monthly RSI": 66.4,
-          "Weekly RSI": 60.7,
+          "CMP": 45.06,
+          "Monthly RSI": 67.7,
+          "Weekly RSI": 63.6,
           "Signal Date": "11-09-2026",
           "Entry": 43.54,
           "SL": 42.74,
-          "T1 (RSI 60 Est.)": 45.14,
+          "T1 (RSI 60 Est.)": 45.86,
           "Action": "RSI 5-Star Setup"
         }
       ]
