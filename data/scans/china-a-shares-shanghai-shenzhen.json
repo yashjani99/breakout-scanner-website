@@ -1,7 +1,7 @@
 {
   "market": "China A-Shares (Shanghai/Shenzhen)",
   "currency": "CNY",
-  "generated_at": "2026-09-17T12:41:08.965376+00:00",
+  "generated_at": "2026-09-18T12:18:41.858922+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
