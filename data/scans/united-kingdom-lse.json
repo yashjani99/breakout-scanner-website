@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-09-17T19:55:52.966961+00:00",
+  "generated_at": "2026-09-18T19:15:38.447326+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "17-09-2026",
+          "Date": "18-09-2026",
           "Stock": "BP",
-          "CMP": 564.0,
-          "30 DMA": 540.36,
-          "50 DMA": 534.33,
-          "200 DMA": 509.57,
-          "200 DMA Dist %": 10.68,
+          "CMP": 558.7,
+          "30 DMA": 541.66,
+          "50 DMA": 535.86,
+          "200 DMA": 510.07,
+          "200 DMA Dist %": 9.53,
           "SL": 522.05,
-          "T1": 647.89,
-          "T2": 689.84,
-          "T3": 773.73,
+          "T1": 631.99,
+          "T2": 668.64,
+          "T3": 741.93,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "17-09-2026",
+          "Date": "18-09-2026",
           "Stock": "SHEL",
-          "CMP": 3571.0,
-          "30 DMA": 3422.34,
-          "50 DMA": 3349.72,
-          "200 DMA": 3118.38,
-          "200 DMA Dist %": 14.51,
-          "SL": 3397.5,
-          "T1": 3918.0,
-          "T2": 4091.5,
-          "T3": 4438.5,
+          "CMP": 3539.0,
+          "30 DMA": 3429.81,
+          "50 DMA": 3359.68,
+          "200 DMA": 3122.14,
+          "200 DMA Dist %": 13.35,
+          "SL": 3438.5,
+          "T1": 3740.0,
+          "T2": 3840.5,
+          "T3": 4041.5,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,27 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "17-09-2026",
+          "Date": "18-09-2026",
           "Stock": "NWG",
-          "CMP": 712.8,
-          "Monthly RSI": 75.2,
-          "Weekly RSI": 63.8,
+          "CMP": 699.4,
+          "Monthly RSI": 74.5,
+          "Weekly RSI": 61.6,
           "Signal Date": "28-08-2026",
           "Entry": 686.4,
           "SL": 674.72,
-          "T1 (RSI 60 Est.)": 724.48,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "17-09-2026",
-          "Stock": "HSBA",
-          "CMP": 1537.4,
-          "Monthly RSI": 79.7,
-          "Weekly RSI": 63.2,
-          "Signal Date": "16-09-2026",
-          "Entry": 1527.8,
-          "SL": 1500.6,
-          "T1 (RSI 60 Est.)": 1583.09,
+          "T1 (RSI 60 Est.)": 717.15,
           "Action": "RSI 5-Star Setup"
         }
       ]
