@@ -1,7 +1,7 @@
 {
   "market": "Hong Kong (HKEX)",
   "currency": "HKD",
-  "generated_at": "2026-09-17T13:42:55.063277+00:00",
+  "generated_at": "2026-09-18T13:05:46.510070+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "17-09-2026",
+          "Date": "18-09-2026",
           "Stock": "0006",
-          "CMP": 59.95,
-          "30 DMA": 59.5,
-          "50 DMA": 58.85,
-          "200 DMA": 57.65,
-          "200 DMA Dist %": 3.98,
+          "CMP": 59.85,
+          "30 DMA": 59.6,
+          "50 DMA": 58.9,
+          "200 DMA": 57.71,
+          "200 DMA Dist %": 3.71,
           "SL": 59.0,
-          "T1": 61.85,
-          "T2": 62.8,
-          "T3": 64.7,
+          "T1": 61.55,
+          "T2": 62.4,
+          "T3": 64.1,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,7 +52,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "18-09-2026",
+          "Stock": "0005",
+          "CMP": 161.6,
+          "Monthly RSI": 80.0,
+          "Weekly RSI": 64.3,
+          "Signal Date": "17-09-2026",
+          "Entry": 160.3,
+          "SL": 158.4,
+          "T1 (RSI 60 Est.)": 167.66,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
