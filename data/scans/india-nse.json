@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-09-18T14:38:40.303250+00:00",
+  "generated_at": "2026-09-19T14:00:27.937931+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "KOTAKBANK",
           "CMP": 412.5,
           "30 DMA": 409.2,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "PNB",
           "CMP": 117.27,
           "30 DMA": 116.33,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "LICHSGFIN",
           "CMP": 548.15,
           "30 DMA": 524.02,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "PETRONET",
           "CMP": 292.6,
           "30 DMA": 287.58,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "BAJAJHLDNG",
           "CMP": 11282.0,
           "30 DMA": 11275.37,
@@ -97,7 +97,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "INDHOTEL",
           "CMP": 732.75,
           "30 DMA": 722.89,
@@ -112,7 +112,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "HYUNDAI",
           "CMP": 2208.8,
           "30 DMA": 2201.01,
@@ -127,7 +127,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "APLAPOLLO",
           "CMP": 2270.1,
           "30 DMA": 2137.24,
@@ -142,7 +142,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "MOTILALOFS",
           "CMP": 1010.0,
           "30 DMA": 985.39,
@@ -157,7 +157,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "ETERNAL",
           "CMP": 326.85,
           "30 DMA": 322.48,
@@ -172,7 +172,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "MCX",
           "CMP": 3260.0,
           "30 DMA": 3158.2,
@@ -204,7 +204,7 @@
       ],
       "rows": [
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "RADICO",
           "CMP": 4535.4,
           "Monthly RSI": 85.0,
@@ -216,7 +216,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "NYKAA",
           "CMP": 332.15,
           "Monthly RSI": 61.0,
@@ -228,7 +228,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "APOLLOHOSP",
           "CMP": 8944.5,
           "Monthly RSI": 61.5,
@@ -240,7 +240,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "18-09-2026",
+          "Date": "19-09-2026",
           "Stock": "COFORGE",
           "CMP": 1841.0,
           "Monthly RSI": 62.6,
