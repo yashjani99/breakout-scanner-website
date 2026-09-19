@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-09-18T19:33:03.884669+00:00",
+  "generated_at": "2026-09-19T19:17:35.686573+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,23 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "18-09-2026",
-          "Stock": "ENI",
-          "CMP": 23.95,
-          "30 DMA": 23.7,
-          "50 DMA": 23.2,
-          "200 DMA": 20.89,
-          "200 DMA Dist %": 14.64,
-          "SL": 22.99,
-          "T1": 25.88,
-          "T2": 26.85,
-          "T3": 28.78,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -52,32 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "18-09-2026",
-          "Stock": "MB",
-          "CMP": 28.48,
-          "Monthly RSI": 77.5,
-          "Weekly RSI": 70.8,
-          "Signal Date": "02-09-2026",
-          "Entry": 27.79,
-          "SL": 27.32,
-          "T1 (RSI 60 Est.)": 28.95,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "18-09-2026",
-          "Stock": "TIT",
-          "CMP": 7.74,
-          "Monthly RSI": 71.9,
-          "Weekly RSI": 63.4,
-          "Signal Date": "10-09-2026",
-          "Entry": 7.52,
-          "SL": 7.36,
-          "T1 (RSI 60 Est.)": 7.91,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
