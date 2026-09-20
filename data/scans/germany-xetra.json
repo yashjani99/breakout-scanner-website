@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-09-19T19:06:30.961504+00:00",
+  "generated_at": "2026-09-20T19:12:32.046728+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "20-09-2026",
+          "Stock": "FRE",
+          "CMP": 45.92,
+          "30 DMA": 45.76,
+          "50 DMA": 44.91,
+          "200 DMA": 43.97,
+          "200 DMA Dist %": 4.43,
+          "SL": 42.1,
+          "T1": 53.57,
+          "T2": 57.39,
+          "T3": 65.04,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +52,32 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "20-09-2026",
+          "Stock": "ALV",
+          "CMP": 443.3,
+          "Monthly RSI": 72.4,
+          "Weekly RSI": 69.9,
+          "Signal Date": "09-09-2026",
+          "Entry": 441.0,
+          "SL": 434.0,
+          "T1 (RSI 60 Est.)": 455.0,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "20-09-2026",
+          "Stock": "RWE",
+          "CMP": 60.44,
+          "Monthly RSI": 63.8,
+          "Weekly RSI": 60.1,
+          "Signal Date": "14-09-2026",
+          "Entry": 59.7,
+          "SL": 57.08,
+          "T1 (RSI 60 Est.)": 64.94,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
