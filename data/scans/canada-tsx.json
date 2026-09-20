@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-09-19T23:25:58.464883+00:00",
+  "generated_at": "2026-09-20T23:25:20.159862+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "AEM",
           "CMP": 278.97,
           "30 DMA": 274.88,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "NTR",
           "CMP": 107.95,
           "30 DMA": 102.99,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "FNV",
           "CMP": 373.8,
           "30 DMA": 355.96,
@@ -84,7 +84,7 @@
       ],
       "rows": [
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "POW",
           "CMP": 94.56,
           "Monthly RSI": 85.0,
@@ -96,7 +96,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "MFC",
           "CMP": 62.06,
           "Monthly RSI": 78.5,
@@ -108,7 +108,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "SLF",
           "CMP": 113.79,
           "Monthly RSI": 71.6,
@@ -120,7 +120,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "TD",
           "CMP": 171.48,
           "Monthly RSI": 71.4,
@@ -132,7 +132,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "BMO",
           "CMP": 244.31,
           "Monthly RSI": 81.1,
