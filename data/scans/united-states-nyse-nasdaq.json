@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-09-19T23:22:52.690543+00:00",
+  "generated_at": "2026-09-20T23:22:35.005678+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "BRK-B",
           "CMP": 509.77,
           "30 DMA": 507.68,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "XOM",
           "CMP": 163.54,
           "30 DMA": 161.87,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "AAPL",
           "CMP": 336.13,
           "30 DMA": 317.87,
