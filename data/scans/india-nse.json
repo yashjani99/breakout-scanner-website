@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-09-19T14:00:27.937931+00:00",
+  "generated_at": "2026-09-20T14:20:07.519952+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,22 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "19-09-2026",
-          "Stock": "KOTAKBANK",
-          "CMP": 412.5,
-          "30 DMA": 409.2,
-          "50 DMA": 400.39,
-          "200 DMA": 399.71,
-          "200 DMA Dist %": 3.2,
-          "SL": 409.25,
-          "T1": 419.0,
-          "T2": 422.25,
-          "T3": 428.75,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "PNB",
           "CMP": 117.27,
           "30 DMA": 116.33,
@@ -52,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "LICHSGFIN",
           "CMP": 548.15,
           "30 DMA": 524.02,
@@ -67,22 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
-          "Stock": "PETRONET",
-          "CMP": 292.6,
-          "30 DMA": 287.58,
-          "50 DMA": 283.63,
-          "200 DMA": 278.82,
-          "200 DMA Dist %": 4.94,
-          "SL": 278.25,
-          "T1": 321.3,
-          "T2": 335.65,
-          "T3": 364.35,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "BAJAJHLDNG",
           "CMP": 11282.0,
           "30 DMA": 11275.37,
@@ -97,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "INDHOTEL",
           "CMP": 732.75,
           "30 DMA": 722.89,
@@ -112,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "HYUNDAI",
           "CMP": 2208.8,
           "30 DMA": 2201.01,
@@ -127,7 +97,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "APLAPOLLO",
           "CMP": 2270.1,
           "30 DMA": 2137.24,
@@ -142,22 +112,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
-          "Stock": "MOTILALOFS",
-          "CMP": 1010.0,
-          "30 DMA": 985.39,
-          "50 DMA": 956.52,
-          "200 DMA": 851.29,
-          "200 DMA Dist %": 18.64,
-          "SL": 963.8,
-          "T1": 1102.4,
-          "T2": 1148.6,
-          "T3": 1241.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "ETERNAL",
           "CMP": 326.85,
           "30 DMA": 322.48,
@@ -172,7 +127,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "MCX",
           "CMP": 3260.0,
           "30 DMA": 3158.2,
@@ -204,19 +159,7 @@
       ],
       "rows": [
         {
-          "Date": "19-09-2026",
-          "Stock": "RADICO",
-          "CMP": 4535.4,
-          "Monthly RSI": 85.0,
-          "Weekly RSI": 73.3,
-          "Signal Date": "17-09-2026",
-          "Entry": 4469.8,
-          "SL": 4298.8,
-          "T1 (RSI 60 Est.)": 4811.8,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "NYKAA",
           "CMP": 332.15,
           "Monthly RSI": 61.0,
@@ -228,19 +171,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "19-09-2026",
-          "Stock": "APOLLOHOSP",
-          "CMP": 8944.5,
-          "Monthly RSI": 61.5,
-          "Weekly RSI": 64.4,
-          "Signal Date": "16-09-2026",
-          "Entry": 8792.5,
-          "SL": 8641.0,
-          "T1 (RSI 60 Est.)": 9096.0,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "19-09-2026",
+          "Date": "20-09-2026",
           "Stock": "COFORGE",
           "CMP": 1841.0,
           "Monthly RSI": 62.6,
