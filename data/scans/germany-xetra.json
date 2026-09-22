@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-09-21T20:43:02.432059+00:00",
+  "generated_at": "2026-09-22T19:58:50.738869+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -36,20 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "21-09-2026",
-          "Stock": "ALV",
-          "CMP": 445.1,
-          "Monthly RSI": 73.1,
-          "Weekly RSI": 70.5,
-          "Signal Date": "09-09-2026",
-          "Entry": 441.0,
-          "SL": 434.0,
-          "T1 (RSI 60 Est.)": 455.0,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
