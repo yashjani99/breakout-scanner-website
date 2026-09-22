@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-09-21T20:41:32.570117+00:00",
+  "generated_at": "2026-09-22T19:56:42.001959+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "21-09-2026",
-          "Stock": "BP",
-          "CMP": 542.9,
-          "30 DMA": 542.52,
-          "50 DMA": 537.07,
-          "200 DMA": 510.47,
-          "200 DMA Dist %": 6.35,
-          "SL": 522.05,
-          "T1": 584.59,
-          "T2": 605.44,
-          "T3": 647.13,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-09-2026",
+          "Date": "22-09-2026",
           "Stock": "SHEL",
-          "CMP": 3488.5,
-          "30 DMA": 3436.85,
-          "50 DMA": 3368.69,
-          "200 DMA": 3125.59,
-          "200 DMA Dist %": 11.61,
-          "SL": 3476.0,
-          "T1": 3513.5,
-          "T2": 3526.0,
-          "T3": 3551.0,
+          "CMP": 3510.0,
+          "30 DMA": 3443.93,
+          "50 DMA": 3376.71,
+          "200 DMA": 3129.14,
+          "200 DMA Dist %": 12.17,
+          "SL": 3445.0,
+          "T1": 3640.0,
+          "T2": 3705.0,
+          "T3": 3835.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,20 +52,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "21-09-2026",
-          "Stock": "HSBA",
-          "CMP": 1533.8,
-          "Monthly RSI": 79.6,
-          "Weekly RSI": 61.7,
-          "Signal Date": "16-09-2026",
-          "Entry": 1527.8,
-          "SL": 1500.6,
-          "T1 (RSI 60 Est.)": 1585.58,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
