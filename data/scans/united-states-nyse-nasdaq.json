@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-09-22T00:14:15.048546+00:00",
+  "generated_at": "2026-09-22T23:44:03.390158+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,38 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "22-09-2026",
+          "Stock": "MSFT",
+          "CMP": 498.0,
+          "30 DMA": 495.31,
+          "50 DMA": 468.7,
+          "200 DMA": 430.27,
+          "200 DMA Dist %": 15.74,
+          "SL": 486.0,
+          "T1": 522.0,
+          "T2": 534.0,
+          "T3": 558.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "22-09-2026",
+          "Stock": "META",
+          "CMP": 736.59,
+          "30 DMA": 610.8,
+          "50 DMA": 609.96,
+          "200 DMA": 624.03,
+          "200 DMA Dist %": 18.04,
+          "SL": 638.06,
+          "T1": 933.67,
+          "T2": 1032.21,
+          "T3": 1229.29,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +67,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "22-09-2026",
+          "Stock": "INTC",
+          "CMP": 123.86,
+          "Monthly RSI": 68.8,
+          "Weekly RSI": 64.0,
+          "Signal Date": "02-09-2026",
+          "Entry": 90.43,
+          "SL": 85.14,
+          "T1 (RSI 60 Est.)": 129.15,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
