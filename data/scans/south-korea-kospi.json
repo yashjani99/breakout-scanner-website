@@ -1,7 +1,7 @@
 {
   "market": "South Korea (KOSPI)",
   "currency": "KRW",
-  "generated_at": "2026-09-22T12:16:07.122885+00:00",
+  "generated_at": "2026-09-23T12:28:41.552125+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "22-09-2026",
+          "Date": "23-09-2026",
           "Stock": "105560",
-          "CMP": 175700.0,
-          "30 DMA": 171400.0,
-          "50 DMA": 171570.5,
-          "200 DMA": 152477.19,
-          "200 DMA Dist %": 15.23,
+          "CMP": 173200.0,
+          "30 DMA": 171620.0,
+          "50 DMA": 171335.69,
+          "200 DMA": 152733.76,
+          "200 DMA Dist %": 13.4,
           "SL": 171100.0,
-          "T1": 184900.0,
-          "T2": 189500.0,
-          "T3": 198700.0,
+          "T1": 177400.0,
+          "T2": 179500.0,
+          "T3": 183700.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
