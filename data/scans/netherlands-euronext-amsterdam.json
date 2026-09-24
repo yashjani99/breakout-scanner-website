@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-09-23T20:11:33.399219+00:00",
+  "generated_at": "2026-09-24T20:22:27.042951+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "23-09-2026",
+          "Date": "24-09-2026",
           "Stock": "NN",
-          "CMP": 79.16,
-          "30 DMA": 78.41,
-          "50 DMA": 78.45,
-          "200 DMA": 70.05,
-          "200 DMA Dist %": 13.0,
-          "SL": 76.58,
-          "T1": 84.32,
-          "T2": 86.9,
-          "T3": 92.06,
+          "CMP": 78.86,
+          "30 DMA": 78.43,
+          "50 DMA": 78.5,
+          "200 DMA": 70.15,
+          "200 DMA Dist %": 12.42,
+          "SL": 77.3,
+          "T1": 81.98,
+          "T2": 83.54,
+          "T3": 86.66,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -54,15 +54,15 @@
       ],
       "rows": [
         {
-          "Date": "23-09-2026",
+          "Date": "24-09-2026",
           "Stock": "NN",
-          "CMP": 79.16,
-          "Monthly RSI": 85.6,
-          "Weekly RSI": 63.6,
+          "CMP": 78.86,
+          "Monthly RSI": 85.4,
+          "Weekly RSI": 62.7,
           "Signal Date": "10-09-2026",
           "Entry": 77.52,
           "SL": 76.22,
-          "T1 (RSI 60 Est.)": 81.22,
+          "T1 (RSI 60 Est.)": 81.19,
           "Action": "RSI 5-Star Setup"
         }
       ]
@@ -89,20 +89,20 @@
       ],
       "rows": [
         {
-          "Date": "23-09-2026",
+          "Date": "24-09-2026",
           "Stock": "NN",
-          "CMP": 79.16,
-          "30 DMA": 78.41,
-          "50 DMA": 78.45,
-          "200 DMA": 70.05,
-          "200 DMA Dist %": 13.0,
-          "Monthly RSI": 85.6,
-          "Weekly RSI": 63.6,
+          "CMP": 78.86,
+          "30 DMA": 78.43,
+          "50 DMA": 78.5,
+          "200 DMA": 70.15,
+          "200 DMA Dist %": 12.42,
+          "Monthly RSI": 85.4,
+          "Weekly RSI": 62.7,
           "Signal Date": "10-09-2026",
-          "SL": 76.58,
-          "T1": 84.32,
-          "T2": 86.9,
-          "T3": 92.06,
+          "SL": 77.3,
+          "T1": 81.98,
+          "T2": 83.54,
+          "T3": 86.66,
           "CAR Status": "Positive",
           "Action": "Breakout + RSI 5-Star"
         }
