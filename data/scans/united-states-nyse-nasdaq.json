@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-09-23T23:53:44.152993+00:00",
+  "generated_at": "2026-09-24T23:58:10.722558+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "23-09-2026",
+          "Date": "24-09-2026",
           "Stock": "MSFT",
-          "CMP": 500.59,
-          "30 DMA": 495.23,
-          "50 DMA": 471.03,
-          "200 DMA": 430.38,
-          "200 DMA Dist %": 16.31,
-          "SL": 486.0,
-          "T1": 529.77,
-          "T2": 544.36,
-          "T3": 573.54,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "23-09-2026",
-          "Stock": "META",
-          "CMP": 744.1,
-          "30 DMA": 615.65,
-          "50 DMA": 611.63,
-          "200 DMA": 624.46,
-          "200 DMA Dist %": 19.16,
-          "SL": 641.63,
-          "T1": 949.03,
-          "T2": 1051.5,
-          "T3": 1256.43,
+          "CMP": 497.93,
+          "30 DMA": 495.45,
+          "50 DMA": 473.09,
+          "200 DMA": 430.47,
+          "200 DMA Dist %": 15.67,
+          "SL": 487.23,
+          "T1": 519.33,
+          "T2": 530.03,
+          "T3": 551.43,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,15 +54,15 @@
       ],
       "rows": [
         {
-          "Date": "23-09-2026",
-          "Stock": "INTC",
-          "CMP": 122.6,
-          "Monthly RSI": 68.6,
-          "Weekly RSI": 63.6,
-          "Signal Date": "02-09-2026",
-          "Entry": 90.43,
-          "SL": 85.14,
-          "T1 (RSI 60 Est.)": 127.89,
+          "Date": "24-09-2026",
+          "Stock": "V",
+          "CMP": 367.98,
+          "Monthly RSI": 69.4,
+          "Weekly RSI": 60.5,
+          "Signal Date": "23-09-2026",
+          "Entry": 366.33,
+          "SL": 360.0,
+          "T1 (RSI 60 Est.)": 381.61,
           "Action": "RSI 5-Star Setup"
         }
       ]
