@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-09-24T20:25:04.014378+00:00",
+  "generated_at": "2026-09-25T20:24:55.634334+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "24-09-2026",
-          "Stock": "RACE",
-          "CMP": 360.65,
-          "30 DMA": 358.14,
-          "50 DMA": 351.12,
-          "200 DMA": 314.05,
-          "200 DMA Dist %": 14.84,
-          "SL": 346.95,
-          "T1": 388.05,
-          "T2": 401.75,
-          "T3": 429.15,
+          "Date": "25-09-2026",
+          "Stock": "ENI",
+          "CMP": 24.09,
+          "30 DMA": 23.52,
+          "50 DMA": 23.27,
+          "200 DMA": 20.9,
+          "200 DMA Dist %": 15.25,
+          "SL": 22.93,
+          "T1": 26.41,
+          "T2": 27.57,
+          "T3": 29.89,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "24-09-2026",
-          "Stock": "ENI",
-          "CMP": 24.38,
-          "30 DMA": 23.5,
-          "50 DMA": 23.22,
-          "200 DMA": 20.86,
-          "200 DMA Dist %": 16.85,
-          "SL": 22.93,
-          "T1": 27.26,
-          "T2": 28.71,
-          "T3": 31.6,
+          "Date": "25-09-2026",
+          "Stock": "MB",
+          "CMP": 29.05,
+          "30 DMA": 28.27,
+          "50 DMA": 28.2,
+          "200 DMA": 21.79,
+          "200 DMA Dist %": 33.34,
+          "SL": 27.34,
+          "T1": 32.47,
+          "T2": 34.18,
+          "T3": 37.6,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,7 +67,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "25-09-2026",
+          "Stock": "UCG",
+          "CMP": 83.95,
+          "Monthly RSI": 79.3,
+          "Weekly RSI": 60.7,
+          "Signal Date": "18-09-2026",
+          "Entry": 83.72,
+          "SL": 81.13,
+          "T1 (RSI 60 Est.)": 88.9,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
