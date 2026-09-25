@@ -1,7 +1,7 @@
 {
   "market": "China A-Shares (Shanghai/Shenzhen)",
   "currency": "CNY",
-  "generated_at": "2026-09-24T12:49:52.246804+00:00",
+  "generated_at": "2026-09-25T12:51:47.687405+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "24-09-2026",
+          "Date": "25-09-2026",
           "Stock": "601288",
           "CMP": 6.87,
           "30 DMA": 6.84,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "24-09-2026",
+          "Date": "25-09-2026",
           "Stock": "601988",
           "CMP": 6.62,
           "30 DMA": 6.38,
