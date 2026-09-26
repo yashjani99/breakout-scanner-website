@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-09-25T15:29:08.543770+00:00",
+  "generated_at": "2026-09-26T14:41:15.020594+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "PNB",
           "CMP": 116.6,
           "30 DMA": 116.49,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "LICHSGFIN",
           "CMP": 566.0,
           "30 DMA": 538.18,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "APLAPOLLO",
           "CMP": 2214.7,
           "30 DMA": 2171.19,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "MOTILALOFS",
           "CMP": 1029.0,
           "30 DMA": 1010.12,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "ETERNAL",
           "CMP": 335.0,
           "30 DMA": 326.23,
@@ -114,7 +114,7 @@
       ],
       "rows": [
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "RADICO",
           "CMP": 4557.1,
           "Monthly RSI": 85.1,
@@ -126,7 +126,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "NYKAA",
           "CMP": 333.7,
           "Monthly RSI": 61.3,
@@ -138,7 +138,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "APOLLOHOSP",
           "CMP": 8889.0,
           "Monthly RSI": 60.9,
@@ -150,7 +150,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "TORNTPHARM",
           "CMP": 4988.5,
           "Monthly RSI": 62.5,
