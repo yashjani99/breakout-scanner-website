@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-09-25T20:24:55.634334+00:00",
+  "generated_at": "2026-09-26T19:46:11.228281+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "ENI",
           "CMP": 24.09,
           "30 DMA": 23.52,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "MB",
           "CMP": 29.05,
           "30 DMA": 28.27,
@@ -69,7 +69,7 @@
       ],
       "rows": [
         {
-          "Date": "25-09-2026",
+          "Date": "26-09-2026",
           "Stock": "UCG",
           "CMP": 83.95,
           "Monthly RSI": 79.3,
