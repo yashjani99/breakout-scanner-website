@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-09-26T00:01:38.483030+00:00",
+  "generated_at": "2026-09-26T23:46:12.968141+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,38 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "26-09-2026",
+          "Stock": "NVDA",
+          "CMP": 225.07,
+          "30 DMA": 220.3,
+          "50 DMA": 215.79,
+          "200 DMA": 199.13,
+          "200 DMA Dist %": 13.03,
+          "SL": 208.93,
+          "T1": 257.35,
+          "T2": 273.49,
+          "T3": 305.77,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "26-09-2026",
+          "Stock": "MSFT",
+          "CMP": 516.17,
+          "30 DMA": 496.12,
+          "50 DMA": 475.4,
+          "200 DMA": 430.61,
+          "200 DMA Dist %": 19.87,
+          "SL": 487.23,
+          "T1": 574.05,
+          "T2": 602.99,
+          "T3": 660.87,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +67,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "26-09-2026",
+          "Stock": "V",
+          "CMP": 367.38,
+          "Monthly RSI": 69.2,
+          "Weekly RSI": 60.1,
+          "Signal Date": "23-09-2026",
+          "Entry": 366.33,
+          "SL": 359.8,
+          "T1 (RSI 60 Est.)": 379.62,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
