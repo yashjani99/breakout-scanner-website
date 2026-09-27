@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-09-26T23:48:06.949224+00:00",
+  "generated_at": "2026-09-27T23:53:55.493217+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "26-09-2026",
+          "Date": "27-09-2026",
           "Stock": "FNV",
           "CMP": 364.66,
           "30 DMA": 362.28,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "26-09-2026",
+          "Date": "27-09-2026",
           "Stock": "SLF",
           "CMP": 113.02,
           "30 DMA": 110.77,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "26-09-2026",
+          "Date": "27-09-2026",
           "Stock": "MFC",
           "CMP": 62.1,
           "30 DMA": 60.46,
@@ -84,7 +84,7 @@
       ],
       "rows": [
         {
-          "Date": "26-09-2026",
+          "Date": "27-09-2026",
           "Stock": "TD",
           "CMP": 170.69,
           "Monthly RSI": 71.1,
@@ -96,7 +96,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "26-09-2026",
+          "Date": "27-09-2026",
           "Stock": "SLF",
           "CMP": 113.02,
           "Monthly RSI": 71.2,
@@ -108,7 +108,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "26-09-2026",
+          "Date": "27-09-2026",
           "Stock": "BMO",
           "CMP": 243.97,
           "Monthly RSI": 81.0,
@@ -120,7 +120,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "26-09-2026",
+          "Date": "27-09-2026",
           "Stock": "RY",
           "CMP": 285.63,
           "Monthly RSI": 83.2,
@@ -155,7 +155,7 @@
       ],
       "rows": [
         {
-          "Date": "26-09-2026",
+          "Date": "27-09-2026",
           "Stock": "SLF",
           "CMP": 113.02,
           "30 DMA": 110.77,
