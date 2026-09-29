@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-09-29T00:27:38.890994+00:00",
+  "generated_at": "2026-09-29T23:49:17.519043+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -23,16 +23,46 @@
       "rows": [
         {
           "Date": "29-09-2026",
+          "Stock": "EQTL3",
+          "CMP": 39.77,
+          "30 DMA": 38.27,
+          "50 DMA": 38.08,
+          "200 DMA": 39.66,
+          "200 DMA Dist %": 0.29,
+          "SL": 38.69,
+          "T1": 41.93,
+          "T2": 43.01,
+          "T3": 45.17,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "29-09-2026",
+          "Stock": "BBAS3",
+          "CMP": 22.04,
+          "30 DMA": 21.19,
+          "50 DMA": 20.76,
+          "200 DMA": 21.79,
+          "200 DMA Dist %": 1.14,
+          "SL": 21.18,
+          "T1": 23.76,
+          "T2": 24.62,
+          "T3": 26.34,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "29-09-2026",
           "Stock": "B3SA3",
-          "CMP": 17.66,
-          "30 DMA": 16.55,
-          "50 DMA": 15.97,
-          "200 DMA": 15.89,
-          "200 DMA Dist %": 11.13,
-          "SL": 16.99,
-          "T1": 19.0,
-          "T2": 19.67,
-          "T3": 21.02,
+          "CMP": 17.9,
+          "30 DMA": 16.67,
+          "50 DMA": 16.03,
+          "200 DMA": 15.91,
+          "200 DMA Dist %": 12.51,
+          "SL": 17.03,
+          "T1": 19.64,
+          "T2": 20.52,
+          "T3": 22.26,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
