@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-09-28T14:16:47.648882+00:00",
+  "generated_at": "2026-09-29T13:11:13.007088+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,53 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "29-09-2026",
+          "Stock": "ANZ",
+          "CMP": 38.45,
+          "30 DMA": 37.42,
+          "50 DMA": 37.39,
+          "200 DMA": 36.34,
+          "200 DMA Dist %": 5.8,
+          "SL": 36.92,
+          "T1": 41.51,
+          "T2": 43.04,
+          "T3": 46.1,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "29-09-2026",
+          "Stock": "SUN",
+          "CMP": 19.05,
+          "30 DMA": 18.99,
+          "50 DMA": 18.86,
+          "200 DMA": 17.02,
+          "200 DMA Dist %": 11.9,
+          "SL": 18.55,
+          "T1": 20.05,
+          "T2": 20.55,
+          "T3": 21.55,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "29-09-2026",
+          "Stock": "CSL",
+          "CMP": 182.3,
+          "30 DMA": 172.99,
+          "50 DMA": 154.91,
+          "200 DMA": 140.58,
+          "200 DMA Dist %": 29.68,
+          "SL": 172.7,
+          "T1": 201.5,
+          "T2": 211.1,
+          "T3": 230.3,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +82,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "29-09-2026",
+          "Stock": "ANZ",
+          "CMP": 38.45,
+          "Monthly RSI": 71.6,
+          "Weekly RSI": 60.2,
+          "Signal Date": "10-09-2026",
+          "Entry": 36.68,
+          "SL": 36.06,
+          "T1 (RSI 60 Est.)": 39.07,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
@@ -58,7 +117,26 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "29-09-2026",
+          "Stock": "ANZ",
+          "CMP": 38.45,
+          "30 DMA": 37.42,
+          "50 DMA": 37.39,
+          "200 DMA": 36.34,
+          "200 DMA Dist %": 5.8,
+          "Monthly RSI": 71.6,
+          "Weekly RSI": 60.2,
+          "Signal Date": "10-09-2026",
+          "SL": 36.92,
+          "T1": 41.51,
+          "T2": 43.04,
+          "T3": 46.1,
+          "CAR Status": "Positive",
+          "Action": "Breakout + RSI 5-Star"
+        }
+      ]
     }
   }
 }
