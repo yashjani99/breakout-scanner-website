@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-09-28T22:18:48.999699+00:00",
+  "generated_at": "2026-09-29T21:06:56.325003+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "28-09-2026",
+          "Date": "29-09-2026",
           "Stock": "BP",
-          "CMP": 563.5,
-          "30 DMA": 547.76,
-          "50 DMA": 541.81,
-          "200 DMA": 513.15,
-          "200 DMA Dist %": 9.81,
+          "CMP": 550.7,
+          "30 DMA": 548.79,
+          "50 DMA": 542.39,
+          "200 DMA": 513.69,
+          "200 DMA Dist %": 7.2,
           "SL": 527.8,
-          "T1": 634.9,
-          "T2": 670.6,
-          "T3": 742.0,
+          "T1": 596.5,
+          "T2": 619.4,
+          "T3": 665.2,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "28-09-2026",
+          "Date": "29-09-2026",
           "Stock": "SHEL",
-          "CMP": 3654.5,
-          "30 DMA": 3483.95,
-          "50 DMA": 3413.02,
-          "200 DMA": 3146.82,
-          "200 DMA Dist %": 16.13,
+          "CMP": 3594.0,
+          "30 DMA": 3492.77,
+          "50 DMA": 3420.5,
+          "200 DMA": 3151.26,
+          "200 DMA Dist %": 14.05,
           "SL": 3445.0,
-          "T1": 4073.5,
-          "T2": 4283.0,
-          "T3": 4702.0,
+          "T1": 3892.0,
+          "T2": 4041.0,
+          "T3": 4339.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,20 +67,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "28-09-2026",
-          "Stock": "HSBA",
-          "CMP": 1516.4,
-          "Monthly RSI": 78.4,
-          "Weekly RSI": 60.1,
-          "Signal Date": "24-09-2026",
-          "Entry": 1515.8,
-          "SL": 1496.2,
-          "T1 (RSI 60 Est.)": 1576.73,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
