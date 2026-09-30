@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-09-29T21:22:12.875736+00:00",
+  "generated_at": "2026-09-30T21:24:06.433892+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -36,20 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "29-09-2026",
-          "Stock": "UCG",
-          "CMP": 83.8,
-          "Monthly RSI": 79.0,
-          "Weekly RSI": 60.4,
-          "Signal Date": "18-09-2026",
-          "Entry": 83.72,
-          "SL": 81.13,
-          "T1 (RSI 60 Est.)": 88.9,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
