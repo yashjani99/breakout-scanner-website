@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-09-30T21:23:20.705004+00:00",
+  "generated_at": "2026-10-01T21:45:34.837343+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -36,7 +36,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "01-10-2026",
+          "Stock": "ASML",
+          "CMP": 1597.0,
+          "Monthly RSI": 73.8,
+          "Weekly RSI": 62.0,
+          "Signal Date": "17-09-2026",
+          "Entry": 1435.8,
+          "SL": 1365.4,
+          "T1 (RSI 60 Est.)": 1667.4,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
