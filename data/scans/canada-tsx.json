@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-10-01T00:47:18.016283+00:00",
+  "generated_at": "2026-10-02T01:03:02.837818+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "02-10-2026",
+          "Stock": "SHOP",
+          "CMP": 212.1,
+          "30 DMA": 197.61,
+          "50 DMA": 195.47,
+          "200 DMA": 179.35,
+          "200 DMA Dist %": 18.26,
+          "SL": 177.04,
+          "T1": 282.21,
+          "T2": 317.27,
+          "T3": 387.38,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
