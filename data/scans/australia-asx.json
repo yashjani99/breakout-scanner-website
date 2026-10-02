@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-10-01T13:39:19.987526+00:00",
+  "generated_at": "2026-10-02T12:56:37.313510+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "01-10-2026",
+          "Date": "02-10-2026",
           "Stock": "CSL",
-          "CMP": 178.24,
-          "30 DMA": 173.96,
-          "50 DMA": 157.54,
-          "200 DMA": 140.65,
-          "200 DMA Dist %": 26.73,
+          "CMP": 175.35,
+          "30 DMA": 174.27,
+          "50 DMA": 158.79,
+          "200 DMA": 140.68,
+          "200 DMA Dist %": 24.64,
           "SL": 174.0,
-          "T1": 186.72,
-          "T2": 190.96,
-          "T3": 199.44,
+          "T1": 178.05,
+          "T2": 179.4,
+          "T3": 182.1,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
