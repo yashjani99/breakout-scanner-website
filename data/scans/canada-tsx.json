@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-10-03T00:40:18.254455+00:00",
+  "generated_at": "2026-10-03T23:59:45.367503+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
