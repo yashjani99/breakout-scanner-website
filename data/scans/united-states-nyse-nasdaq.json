@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-10-02T01:02:03.022209+00:00",
+  "generated_at": "2026-10-03T00:39:13.193165+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
