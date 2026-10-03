@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-10-02T23:53:17.752392+00:00",
+  "generated_at": "2026-10-03T23:13:01.579053+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "02-10-2026",
+          "Date": "03-10-2026",
           "Stock": "EQTL3",
           "CMP": 41.91,
           "30 DMA": 38.92,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "02-10-2026",
+          "Date": "03-10-2026",
           "Stock": "WEGE3",
           "CMP": 51.45,
           "30 DMA": 50.72,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "02-10-2026",
+          "Date": "03-10-2026",
           "Stock": "BBAS3",
           "CMP": 23.72,
           "30 DMA": 21.73,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "02-10-2026",
+          "Date": "03-10-2026",
           "Stock": "B3SA3",
           "CMP": 19.0,
           "30 DMA": 17.11,
@@ -99,7 +99,7 @@
       ],
       "rows": [
         {
-          "Date": "02-10-2026",
+          "Date": "03-10-2026",
           "Stock": "GGBR4",
           "CMP": 26.1,
           "Monthly RSI": 76.1,
