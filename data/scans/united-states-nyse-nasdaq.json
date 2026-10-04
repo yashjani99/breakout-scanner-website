@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-10-03T00:39:13.193165+00:00",
+  "generated_at": "2026-10-04T00:00:04.126174+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,53 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "03-10-2026",
+          "Stock": "XOM",
+          "CMP": 164.01,
+          "30 DMA": 162.28,
+          "50 DMA": 160.22,
+          "200 DMA": 147.65,
+          "200 DMA Dist %": 11.08,
+          "SL": 155.85,
+          "T1": 180.33,
+          "T2": 188.49,
+          "T3": 204.81,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "03-10-2026",
+          "Stock": "MSFT",
+          "CMP": 517.53,
+          "30 DMA": 500.86,
+          "50 DMA": 487.39,
+          "200 DMA": 431.46,
+          "200 DMA Dist %": 19.95,
+          "SL": 491.22,
+          "T1": 570.15,
+          "T2": 596.46,
+          "T3": 649.08,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "03-10-2026",
+          "Stock": "INTC",
+          "CMP": 119.33,
+          "30 DMA": 104.25,
+          "50 DMA": 100.87,
+          "200 DMA": 81.18,
+          "200 DMA Dist %": 47.0,
+          "SL": 113.97,
+          "T1": 130.05,
+          "T2": 135.41,
+          "T3": 146.13,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +82,32 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "03-10-2026",
+          "Stock": "NVDA",
+          "CMP": 233.95,
+          "Monthly RSI": 74.3,
+          "Weekly RSI": 61.7,
+          "Signal Date": "14-09-2026",
+          "Entry": 212.77,
+          "SL": 208.93,
+          "T1 (RSI 60 Est.)": 237.79,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "03-10-2026",
+          "Stock": "CRM",
+          "CMP": 234.69,
+          "Monthly RSI": 61.7,
+          "Weekly RSI": 60.3,
+          "Signal Date": "29-09-2026",
+          "Entry": 228.98,
+          "SL": 221.18,
+          "T1 (RSI 60 Est.)": 247.77,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
