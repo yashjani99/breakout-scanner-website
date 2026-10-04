@@ -1,7 +1,7 @@
 {
   "market": "Japan (Tokyo)",
   "currency": "JPY",
-  "generated_at": "2026-10-03T12:24:12.064764+00:00",
+  "generated_at": "2026-10-04T13:07:11.713799+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "03-10-2026",
+          "Date": "04-10-2026",
           "Stock": "6501",
           "CMP": 5522.0,
           "30 DMA": 5347.66,
