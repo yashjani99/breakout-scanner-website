@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-10-03T19:46:52.730375+00:00",
+  "generated_at": "2026-10-04T20:03:38.463564+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -38,7 +38,7 @@
       ],
       "rows": [
         {
-          "Date": "03-10-2026",
+          "Date": "04-10-2026",
           "Stock": "ASML",
           "CMP": 1653.0,
           "Monthly RSI": 74.8,
@@ -50,7 +50,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "03-10-2026",
+          "Date": "04-10-2026",
           "Stock": "ASM",
           "CMP": 944.8,
           "Monthly RSI": 65.4,
