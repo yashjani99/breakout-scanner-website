@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-10-03T19:37:22.037332+00:00",
+  "generated_at": "2026-10-04T19:51:48.060038+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "03-10-2026",
+          "Date": "04-10-2026",
           "Stock": "SIE",
           "CMP": 276.1,
           "30 DMA": 273.72,
