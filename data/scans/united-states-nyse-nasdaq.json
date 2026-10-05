@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-10-04T00:00:04.126174+00:00",
+  "generated_at": "2026-10-05T00:06:07.807567+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "03-10-2026",
+          "Date": "05-10-2026",
           "Stock": "XOM",
           "CMP": 164.01,
           "30 DMA": 162.28,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "03-10-2026",
+          "Date": "05-10-2026",
           "Stock": "MSFT",
           "CMP": 517.53,
           "30 DMA": 500.86,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "03-10-2026",
+          "Date": "05-10-2026",
           "Stock": "INTC",
           "CMP": 119.33,
           "30 DMA": 104.25,
@@ -84,7 +84,7 @@
       ],
       "rows": [
         {
-          "Date": "03-10-2026",
+          "Date": "05-10-2026",
           "Stock": "NVDA",
           "CMP": 233.95,
           "Monthly RSI": 74.3,
@@ -96,7 +96,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "03-10-2026",
+          "Date": "05-10-2026",
           "Stock": "CRM",
           "CMP": 234.69,
           "Monthly RSI": 61.7,
