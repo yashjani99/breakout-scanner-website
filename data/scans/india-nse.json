@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-10-04T15:29:43.237024+00:00",
+  "generated_at": "2026-10-05T19:24:51.965274+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,23 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "04-10-2026",
-          "Stock": "MANKIND",
-          "CMP": 2535.0,
-          "30 DMA": 2379.21,
-          "50 DMA": 2411.79,
-          "200 DMA": 2298.06,
-          "200 DMA Dist %": 10.31,
-          "SL": 2287.7,
-          "T1": 3029.6,
-          "T2": 3276.9,
-          "T3": 3771.5,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -52,44 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "04-10-2026",
-          "Stock": "SONACOMS",
-          "CMP": 805.0,
-          "Monthly RSI": 65.0,
-          "Weekly RSI": 69.5,
-          "Signal Date": "16-09-2026",
-          "Entry": 794.65,
-          "SL": 767.0,
-          "T1 (RSI 60 Est.)": 849.95,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "04-10-2026",
-          "Stock": "BHEL",
-          "CMP": 421.0,
-          "Monthly RSI": 72.0,
-          "Weekly RSI": 60.4,
-          "Signal Date": "29-09-2026",
-          "Entry": 414.9,
-          "SL": 402.6,
-          "T1 (RSI 60 Est.)": 441.03,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "04-10-2026",
-          "Stock": "COFORGE",
-          "CMP": 1826.0,
-          "Monthly RSI": 64.6,
-          "Weekly RSI": 60.2,
-          "Signal Date": "30-09-2026",
-          "Entry": 1824.4,
-          "SL": 1722.0,
-          "T1 (RSI 60 Est.)": 2029.2,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
