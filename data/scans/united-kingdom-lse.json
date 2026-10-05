@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-10-04T19:50:17.933247+00:00",
+  "generated_at": "2026-10-05T22:57:58.838313+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "04-10-2026",
+          "Date": "05-10-2026",
           "Stock": "BP",
-          "CMP": 557.8,
-          "30 DMA": 550.1,
-          "50 DMA": 543.19,
-          "200 DMA": 515.52,
-          "200 DMA Dist %": 8.2,
+          "CMP": 563.2,
+          "30 DMA": 550.56,
+          "50 DMA": 543.49,
+          "200 DMA": 516.21,
+          "200 DMA Dist %": 9.1,
           "SL": 527.8,
-          "T1": 617.8,
-          "T2": 647.8,
-          "T3": 707.8,
+          "T1": 634.0,
+          "T2": 669.4,
+          "T3": 740.2,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "04-10-2026",
+          "Date": "05-10-2026",
           "Stock": "SHEL",
-          "CMP": 3596.5,
-          "30 DMA": 3509.65,
-          "50 DMA": 3437.82,
-          "200 DMA": 3164.99,
-          "200 DMA Dist %": 13.63,
+          "CMP": 3631.5,
+          "30 DMA": 3517.05,
+          "50 DMA": 3444.34,
+          "200 DMA": 3169.86,
+          "200 DMA Dist %": 14.56,
           "SL": 3445.0,
-          "T1": 3899.5,
-          "T2": 4051.0,
-          "T3": 4354.0,
+          "T1": 4004.5,
+          "T2": 4191.0,
+          "T3": 4564.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,7 +67,32 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "05-10-2026",
+          "Stock": "STAN",
+          "CMP": 2246.0,
+          "Monthly RSI": 79.3,
+          "Weekly RSI": 62.6,
+          "Signal Date": "02-10-2026",
+          "Entry": 2222.0,
+          "SL": 2121.0,
+          "T1 (RSI 60 Est.)": 2424.0,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "05-10-2026",
+          "Stock": "AAL",
+          "CMP": 4180.0,
+          "Monthly RSI": 72.3,
+          "Weekly RSI": 60.4,
+          "Signal Date": "16-09-2026",
+          "Entry": 3956.0,
+          "SL": 3804.0,
+          "T1 (RSI 60 Est.)": 4332.0,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
