@@ -1,7 +1,7 @@
 {
   "market": "Hong Kong (HKEX)",
   "currency": "HKD",
-  "generated_at": "2026-10-04T14:17:21.512627+00:00",
+  "generated_at": "2026-10-05T17:18:42.196009+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
