@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-10-06T01:51:21.015265+00:00",
+  "generated_at": "2026-10-07T00:57:50.125525+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "06-10-2026",
+          "Date": "07-10-2026",
           "Stock": "MFC",
-          "CMP": 61.29,
-          "30 DMA": 60.73,
+          "CMP": 61.04,
+          "30 DMA": 60.78,
           "50 DMA": 60.83,
-          "200 DMA": 53.73,
-          "200 DMA Dist %": 14.07,
+          "200 DMA": 53.8,
+          "200 DMA Dist %": 13.46,
           "SL": 59.52,
-          "T1": 64.83,
-          "T2": 66.6,
-          "T3": 70.14,
+          "T1": 64.08,
+          "T2": 65.6,
+          "T3": 68.64,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "06-10-2026",
+          "Date": "07-10-2026",
           "Stock": "SHOP",
-          "CMP": 228.17,
-          "30 DMA": 198.78,
-          "50 DMA": 197.86,
-          "200 DMA": 179.34,
-          "200 DMA Dist %": 27.22,
+          "CMP": 233.73,
+          "30 DMA": 199.65,
+          "50 DMA": 199.32,
+          "200 DMA": 179.4,
+          "200 DMA Dist %": 30.29,
           "SL": 191.4,
-          "T1": 301.71,
-          "T2": 338.48,
-          "T3": 412.02,
+          "T1": 318.39,
+          "T2": 360.72,
+          "T3": 445.38,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,27 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "06-10-2026",
+          "Date": "07-10-2026",
           "Stock": "SHOP",
-          "CMP": 228.17,
-          "Monthly RSI": 81.9,
-          "Weekly RSI": 63.2,
+          "CMP": 233.73,
+          "Monthly RSI": 82.2,
+          "Weekly RSI": 64.4,
           "Signal Date": "18-09-2026",
           "Entry": 181.24,
           "SL": 171.35,
-          "T1 (RSI 60 Est.)": 238.06,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "06-10-2026",
-          "Stock": "SLF",
-          "CMP": 112.01,
-          "Monthly RSI": 82.8,
-          "Weekly RSI": 63.0,
-          "Signal Date": "01-10-2026",
-          "Entry": 110.8,
-          "SL": 109.04,
-          "T1 (RSI 60 Est.)": 114.32,
+          "T1 (RSI 60 Est.)": 243.62,
           "Action": "RSI 5-Star Setup"
         }
       ]
@@ -116,20 +104,20 @@
       ],
       "rows": [
         {
-          "Date": "06-10-2026",
+          "Date": "07-10-2026",
           "Stock": "SHOP",
-          "CMP": 228.17,
-          "30 DMA": 198.78,
-          "50 DMA": 197.86,
-          "200 DMA": 179.34,
-          "200 DMA Dist %": 27.22,
-          "Monthly RSI": 81.9,
-          "Weekly RSI": 63.2,
+          "CMP": 233.73,
+          "30 DMA": 199.65,
+          "50 DMA": 199.32,
+          "200 DMA": 179.4,
+          "200 DMA Dist %": 30.29,
+          "Monthly RSI": 82.2,
+          "Weekly RSI": 64.4,
           "Signal Date": "18-09-2026",
           "SL": 191.4,
-          "T1": 301.71,
-          "T2": 338.48,
-          "T3": 412.02,
+          "T1": 318.39,
+          "T2": 360.72,
+          "T3": 445.38,
           "CAR Status": "Positive",
           "Action": "Breakout + RSI 5-Star"
         }
