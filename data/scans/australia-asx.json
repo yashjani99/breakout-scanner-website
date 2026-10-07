@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-10-06T13:29:15.761355+00:00",
+  "generated_at": "2026-10-07T13:40:59.995118+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "06-10-2026",
+          "Date": "07-10-2026",
           "Stock": "ANZ",
-          "CMP": 37.86,
-          "30 DMA": 37.51,
+          "CMP": 37.95,
+          "30 DMA": 37.55,
           "50 DMA": 37.51,
-          "200 DMA": 36.4,
-          "200 DMA Dist %": 4.01,
+          "200 DMA": 36.41,
+          "200 DMA Dist %": 4.22,
           "SL": 37.0,
-          "T1": 39.58,
-          "T2": 40.44,
-          "T3": 42.16,
+          "T1": 39.85,
+          "T2": 40.8,
+          "T3": 42.7,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "06-10-2026",
+          "Date": "07-10-2026",
           "Stock": "CSL",
-          "CMP": 178.68,
-          "30 DMA": 174.84,
-          "50 DMA": 161.25,
-          "200 DMA": 140.76,
-          "200 DMA Dist %": 26.94,
+          "CMP": 181.99,
+          "30 DMA": 175.24,
+          "50 DMA": 162.36,
+          "200 DMA": 140.81,
+          "200 DMA Dist %": 29.24,
           "SL": 174.67,
-          "T1": 186.7,
-          "T2": 190.71,
-          "T3": 198.73,
+          "T1": 196.63,
+          "T2": 203.95,
+          "T3": 218.59,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,20 +67,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "06-10-2026",
-          "Stock": "BHP",
-          "CMP": 62.86,
-          "Monthly RSI": 62.1,
-          "Weekly RSI": 60.3,
-          "Signal Date": "01-10-2026",
-          "Entry": 61.5,
-          "SL": 59.76,
-          "T1 (RSI 60 Est.)": 64.98,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
