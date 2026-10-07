@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-10-06T21:34:50.495709+00:00",
+  "generated_at": "2026-10-07T21:55:53.365241+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "07-10-2026",
+          "Stock": "ASML",
+          "CMP": 1610.2,
+          "30 DMA": 1503.94,
+          "50 DMA": 1506.75,
+          "200 DMA": 1350.64,
+          "200 DMA Dist %": 19.22,
+          "SL": 1489.6,
+          "T1": 1851.4,
+          "T2": 1972.0,
+          "T3": 2213.2,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -38,39 +54,15 @@
       ],
       "rows": [
         {
-          "Date": "06-10-2026",
-          "Stock": "INGA",
-          "CMP": 31.12,
-          "Monthly RSI": 72.3,
-          "Weekly RSI": 65.6,
-          "Signal Date": "02-10-2026",
-          "Entry": 30.81,
-          "SL": 29.98,
-          "T1 (RSI 60 Est.)": 32.46,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "06-10-2026",
+          "Date": "07-10-2026",
           "Stock": "ASML",
-          "CMP": 1636.4,
-          "Monthly RSI": 74.5,
-          "Weekly RSI": 63.2,
+          "CMP": 1610.2,
+          "Monthly RSI": 74.0,
+          "Weekly RSI": 61.1,
           "Signal Date": "17-09-2026",
           "Entry": 1435.8,
           "SL": 1365.4,
-          "T1 (RSI 60 Est.)": 1706.8,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "06-10-2026",
-          "Stock": "ASM",
-          "CMP": 947.4,
-          "Monthly RSI": 65.5,
-          "Weekly RSI": 61.0,
-          "Signal Date": "16-09-2026",
-          "Entry": 783.4,
-          "SL": 743.0,
-          "T1 (RSI 60 Est.)": 987.8,
+          "T1 (RSI 60 Est.)": 1680.6,
           "Action": "RSI 5-Star Setup"
         }
       ]
@@ -95,7 +87,26 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "07-10-2026",
+          "Stock": "ASML",
+          "CMP": 1610.2,
+          "30 DMA": 1503.94,
+          "50 DMA": 1506.75,
+          "200 DMA": 1350.64,
+          "200 DMA Dist %": 19.22,
+          "Monthly RSI": 74.0,
+          "Weekly RSI": 61.1,
+          "Signal Date": "17-09-2026",
+          "SL": 1489.6,
+          "T1": 1851.4,
+          "T2": 1972.0,
+          "T3": 2213.2,
+          "CAR Status": "Positive",
+          "Action": "Breakout + RSI 5-Star"
+        }
+      ]
     }
   }
 }
