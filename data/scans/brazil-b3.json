@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-10-06T23:55:26.432338+00:00",
+  "generated_at": "2026-10-08T00:16:51.731022+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "06-10-2026",
+          "Date": "08-10-2026",
+          "Stock": "WEGE3",
+          "CMP": 51.27,
+          "30 DMA": 50.91,
+          "50 DMA": 49.71,
+          "200 DMA": 47.63,
+          "200 DMA Dist %": 7.64,
+          "SL": 49.18,
+          "T1": 55.45,
+          "T2": 57.54,
+          "T3": 61.72,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "08-10-2026",
           "Stock": "BBAS3",
-          "CMP": 24.64,
-          "30 DMA": 22.2,
-          "50 DMA": 21.11,
-          "200 DMA": 21.86,
-          "200 DMA Dist %": 12.71,
+          "CMP": 24.18,
+          "30 DMA": 22.36,
+          "50 DMA": 21.2,
+          "200 DMA": 21.88,
+          "200 DMA Dist %": 10.5,
           "SL": 21.18,
-          "T1": 31.56,
-          "T2": 35.02,
-          "T3": 41.94,
+          "T1": 30.18,
+          "T2": 33.18,
+          "T3": 39.18,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
