@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-10-07T21:57:06.942927+00:00",
+  "generated_at": "2026-10-08T22:01:18.632794+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
