@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-10-07T21:42:59.498814+00:00",
+  "generated_at": "2026-10-08T21:41:05.826407+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,23 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "07-10-2026",
-          "Stock": "SAP",
-          "CMP": 187.62,
-          "30 DMA": 185.04,
-          "50 DMA": 181.62,
-          "200 DMA": 164.18,
-          "200 DMA Dist %": 14.28,
-          "SL": 178.88,
-          "T1": 205.1,
-          "T2": 213.84,
-          "T3": 231.32,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
