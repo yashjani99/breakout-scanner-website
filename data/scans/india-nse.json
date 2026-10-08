@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-10-07T17:33:06.610415+00:00",
+  "generated_at": "2026-10-08T17:35:19.402719+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,47 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "07-10-2026",
+          "Date": "08-10-2026",
           "Stock": "PETRONET",
-          "CMP": 297.0,
-          "30 DMA": 288.5,
-          "50 DMA": 286.56,
-          "200 DMA": 280.03,
-          "200 DMA Dist %": 6.06,
+          "CMP": 288.5,
+          "30 DMA": 288.48,
+          "50 DMA": 286.78,
+          "200 DMA": 280.11,
+          "200 DMA Dist %": 3.0,
           "SL": 281.75,
-          "T1": 327.5,
-          "T2": 342.75,
-          "T3": 373.25,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "07-10-2026",
-          "Stock": "MANKIND",
-          "CMP": 2500.0,
-          "30 DMA": 2395.77,
-          "50 DMA": 2406.68,
-          "200 DMA": 2305.47,
-          "200 DMA Dist %": 8.44,
-          "SL": 2430.3,
-          "T1": 2639.4,
-          "T2": 2709.1,
-          "T3": 2848.5,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "07-10-2026",
-          "Stock": "ETERNAL",
-          "CMP": 328.0,
-          "30 DMA": 325.87,
-          "50 DMA": 322.55,
-          "200 DMA": 277.15,
-          "200 DMA Dist %": 18.35,
-          "SL": 308.1,
-          "T1": 367.8,
-          "T2": 387.7,
-          "T3": 427.5,
+          "T1": 302.0,
+          "T2": 308.75,
+          "T3": 322.25,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -84,75 +54,51 @@
       ],
       "rows": [
         {
-          "Date": "07-10-2026",
-          "Stock": "PAYTM",
-          "CMP": 1732.0,
-          "Monthly RSI": 79.4,
-          "Weekly RSI": 67.2,
-          "Signal Date": "28-09-2026",
-          "Entry": 1678.1,
-          "SL": 1625.7,
-          "T1 (RSI 60 Est.)": 1784.4,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "07-10-2026",
-          "Stock": "BHEL",
-          "CMP": 448.5,
-          "Monthly RSI": 74.1,
-          "Weekly RSI": 66.3,
-          "Signal Date": "29-09-2026",
-          "Entry": 414.9,
-          "SL": 402.6,
-          "T1 (RSI 60 Est.)": 460.8,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "07-10-2026",
-          "Stock": "NYKAA",
-          "CMP": 341.25,
-          "Monthly RSI": 64.0,
-          "Weekly RSI": 65.6,
-          "Signal Date": "02-10-2026",
-          "Entry": 324.95,
-          "SL": 316.0,
-          "T1 (RSI 60 Est.)": 350.2,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "07-10-2026",
+          "Date": "08-10-2026",
           "Stock": "RADICO",
-          "CMP": 4495.0,
-          "Monthly RSI": 78.6,
-          "Weekly RSI": 65.0,
+          "CMP": 4415.0,
+          "Monthly RSI": 77.9,
+          "Weekly RSI": 63.2,
           "Signal Date": "05-10-2026",
           "Entry": 4307.0,
           "SL": 4234.8,
-          "T1 (RSI 60 Est.)": 4638.41,
+          "T1 (RSI 60 Est.)": 4659.6,
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "07-10-2026",
+          "Date": "08-10-2026",
           "Stock": "KOTAKBANK",
-          "CMP": 440.0,
-          "Monthly RSI": 64.8,
-          "Weekly RSI": 64.3,
+          "CMP": 435.0,
+          "Monthly RSI": 63.9,
+          "Weekly RSI": 63.0,
           "Signal Date": "28-09-2026",
           "Entry": 403.7,
           "SL": 395.75,
-          "T1 (RSI 60 Est.)": 447.95,
+          "T1 (RSI 60 Est.)": 442.95,
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "07-10-2026",
-          "Stock": "ETERNAL",
-          "CMP": 328.0,
-          "Monthly RSI": 74.8,
-          "Weekly RSI": 62.1,
+          "Date": "08-10-2026",
+          "Stock": "NYKAA",
+          "CMP": 332.3,
+          "Monthly RSI": 62.7,
+          "Weekly RSI": 62.5,
           "Signal Date": "02-10-2026",
-          "Entry": 313.9,
-          "SL": 309.8,
-          "T1 (RSI 60 Est.)": 336.14,
+          "Entry": 324.95,
+          "SL": 316.0,
+          "T1 (RSI 60 Est.)": 349.4,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "08-10-2026",
+          "Stock": "BHEL",
+          "CMP": 429.6,
+          "Monthly RSI": 72.7,
+          "Weekly RSI": 62.4,
+          "Signal Date": "29-09-2026",
+          "Entry": 414.9,
+          "SL": 402.6,
+          "T1 (RSI 60 Est.)": 449.92,
           "Action": "RSI 5-Star Setup"
         }
       ]
@@ -177,26 +123,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "07-10-2026",
-          "Stock": "ETERNAL",
-          "CMP": 328.0,
-          "30 DMA": 325.87,
-          "50 DMA": 322.55,
-          "200 DMA": 277.15,
-          "200 DMA Dist %": 18.35,
-          "Monthly RSI": 74.8,
-          "Weekly RSI": 62.1,
-          "Signal Date": "02-10-2026",
-          "SL": 309.8,
-          "T1": 364.4,
-          "T2": 382.6,
-          "T3": 419.0,
-          "CAR Status": "Positive",
-          "Action": "Breakout + RSI 5-Star"
-        }
-      ]
+      "rows": []
     }
   }
 }
