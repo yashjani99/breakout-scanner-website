@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-10-07T21:55:53.365241+00:00",
+  "generated_at": "2026-10-08T21:59:39.268581+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "07-10-2026",
+          "Date": "08-10-2026",
           "Stock": "ASML",
-          "CMP": 1610.2,
-          "30 DMA": 1503.94,
-          "50 DMA": 1506.75,
-          "200 DMA": 1350.64,
-          "200 DMA Dist %": 19.22,
-          "SL": 1489.6,
-          "T1": 1851.4,
-          "T2": 1972.0,
-          "T3": 2213.2,
+          "CMP": 1630.6,
+          "30 DMA": 1508.75,
+          "50 DMA": 1510.56,
+          "200 DMA": 1354.32,
+          "200 DMA Dist %": 20.4,
+          "SL": 1498.6,
+          "T1": 1894.6,
+          "T2": 2026.6,
+          "T3": 2290.6,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,20 +52,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "07-10-2026",
-          "Stock": "ASML",
-          "CMP": 1610.2,
-          "Monthly RSI": 74.0,
-          "Weekly RSI": 61.1,
-          "Signal Date": "17-09-2026",
-          "Entry": 1435.8,
-          "SL": 1365.4,
-          "T1 (RSI 60 Est.)": 1680.6,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
@@ -87,26 +74,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "07-10-2026",
-          "Stock": "ASML",
-          "CMP": 1610.2,
-          "30 DMA": 1503.94,
-          "50 DMA": 1506.75,
-          "200 DMA": 1350.64,
-          "200 DMA Dist %": 19.22,
-          "Monthly RSI": 74.0,
-          "Weekly RSI": 61.1,
-          "Signal Date": "17-09-2026",
-          "SL": 1489.6,
-          "T1": 1851.4,
-          "T2": 1972.0,
-          "T3": 2213.2,
-          "CAR Status": "Positive",
-          "Action": "Breakout + RSI 5-Star"
-        }
-      ]
+      "rows": []
     }
   }
 }
