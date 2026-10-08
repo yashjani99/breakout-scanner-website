@@ -1,7 +1,7 @@
 {
   "market": "Japan (Tokyo)",
   "currency": "JPY",
-  "generated_at": "2026-10-07T14:22:39.956729+00:00",
+  "generated_at": "2026-10-08T14:30:15.199236+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "07-10-2026",
+          "Date": "08-10-2026",
           "Stock": "4502",
-          "CMP": 5766.0,
-          "30 DMA": 5716.46,
-          "50 DMA": 5632.41,
-          "200 DMA": 5282.24,
-          "200 DMA Dist %": 9.16,
+          "CMP": 5816.0,
+          "30 DMA": 5720.42,
+          "50 DMA": 5637.71,
+          "200 DMA": 5289.67,
+          "200 DMA Dist %": 9.95,
           "SL": 5606.0,
-          "T1": 6086.0,
-          "T2": 6246.0,
-          "T3": 6566.0,
+          "T1": 6236.0,
+          "T2": 6446.0,
+          "T3": 6866.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "07-10-2026",
+          "Date": "08-10-2026",
           "Stock": "6501",
-          "CMP": 5649.0,
-          "30 DMA": 5392.55,
-          "50 DMA": 5366.22,
-          "200 DMA": 5028.18,
-          "200 DMA Dist %": 12.35,
+          "CMP": 5597.0,
+          "30 DMA": 5404.47,
+          "50 DMA": 5381.66,
+          "200 DMA": 5031.99,
+          "200 DMA Dist %": 11.23,
           "SL": 5393.0,
-          "T1": 6161.0,
-          "T2": 6417.0,
-          "T3": 6929.0,
+          "T1": 6005.0,
+          "T2": 6209.0,
+          "T3": 6617.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,44 +67,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "07-10-2026",
-          "Stock": "8306",
-          "CMP": 3622.0,
-          "Monthly RSI": 83.4,
-          "Weekly RSI": 61.2,
-          "Signal Date": "24-09-2026",
-          "Entry": 3558.5,
-          "SL": 3508.15,
-          "T1 (RSI 60 Est.)": 3783.67,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "07-10-2026",
-          "Stock": "8035",
-          "CMP": 12500.0,
-          "Monthly RSI": 66.4,
-          "Weekly RSI": 61.2,
-          "Signal Date": "17-09-2026",
-          "Entry": 10145.91,
-          "SL": 9465.91,
-          "T1 (RSI 60 Est.)": 13180.0,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "07-10-2026",
-          "Stock": "8316",
-          "CMP": 3372.0,
-          "Monthly RSI": 81.3,
-          "Weekly RSI": 60.5,
-          "Signal Date": "24-09-2026",
-          "Entry": 3300.27,
-          "SL": 3251.56,
-          "T1 (RSI 60 Est.)": 3534.19,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
