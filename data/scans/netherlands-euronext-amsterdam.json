@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-10-09T21:35:17.005298+00:00",
+  "generated_at": "2026-10-10T20:32:35.693380+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "ASM",
           "CMP": 883.6,
           "30 DMA": 844.19,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "ASML",
           "CMP": 1601.6,
           "30 DMA": 1512.32,
