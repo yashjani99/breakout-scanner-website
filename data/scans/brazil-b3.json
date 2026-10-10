@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-10-09T00:30:43.774313+00:00",
+  "generated_at": "2026-10-10T00:07:17.599464+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "WEGE3",
-          "CMP": 51.77,
-          "30 DMA": 50.95,
-          "50 DMA": 49.85,
-          "200 DMA": 47.64,
-          "200 DMA Dist %": 8.66,
+          "CMP": 51.47,
+          "30 DMA": 51.0,
+          "50 DMA": 49.95,
+          "200 DMA": 47.66,
+          "200 DMA Dist %": 8.0,
           "SL": 49.18,
-          "T1": 56.95,
-          "T2": 59.54,
-          "T3": 64.72,
+          "T1": 56.05,
+          "T2": 58.34,
+          "T3": 62.92,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "BBAS3",
-          "CMP": 24.26,
-          "30 DMA": 22.52,
-          "50 DMA": 21.27,
-          "200 DMA": 21.9,
-          "200 DMA Dist %": 10.79,
+          "CMP": 24.64,
+          "30 DMA": 22.68,
+          "50 DMA": 21.33,
+          "200 DMA": 21.91,
+          "200 DMA Dist %": 12.47,
           "SL": 21.18,
-          "T1": 30.42,
-          "T2": 33.5,
-          "T3": 39.66,
+          "T1": 31.56,
+          "T2": 35.02,
+          "T3": 41.94,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,7 +67,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "10-10-2026",
+          "Stock": "GGBR4",
+          "CMP": 25.69,
+          "Monthly RSI": 75.7,
+          "Weekly RSI": 60.3,
+          "Signal Date": "30-09-2026",
+          "Entry": 24.77,
+          "SL": 24.04,
+          "T1 (RSI 60 Est.)": 26.46,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
