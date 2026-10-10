@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-10-09T21:21:50.493215+00:00",
+  "generated_at": "2026-10-10T20:21:42.194521+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "BP",
           "CMP": 586.3,
           "30 DMA": 557.01,
