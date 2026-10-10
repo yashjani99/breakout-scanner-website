@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-10-09T21:35:40.746147+00:00",
+  "generated_at": "2026-10-10T20:32:43.731611+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "GIVN",
           "CMP": 3440.0,
           "30 DMA": 3318.97,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "SREN",
           "CMP": 144.0,
           "30 DMA": 140.17,
