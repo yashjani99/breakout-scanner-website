@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-10-09T17:11:43.313559+00:00",
+  "generated_at": "2026-10-10T15:58:22.252682+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "PETRONET",
           "CMP": 291.5,
           "30 DMA": 288.63,
@@ -54,7 +54,7 @@
       ],
       "rows": [
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "NYKAA",
           "CMP": 343.0,
           "Monthly RSI": 64.2,
@@ -66,7 +66,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "RADICO",
           "CMP": 4550.0,
           "Monthly RSI": 79.0,
@@ -78,7 +78,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "KOTAKBANK",
           "CMP": 441.0,
           "Monthly RSI": 64.9,
@@ -90,7 +90,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "BHEL",
           "CMP": 433.6,
           "Monthly RSI": 73.0,
@@ -102,7 +102,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "COFORGE",
           "CMP": 1867.9,
           "Monthly RSI": 65.2,
@@ -114,7 +114,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "ETERNAL",
           "CMP": 323.45,
           "Monthly RSI": 74.4,
