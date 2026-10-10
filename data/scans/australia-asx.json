@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-10-09T13:33:49.030942+00:00",
+  "generated_at": "2026-10-10T12:48:22.273270+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "CSL",
           "CMP": 183.84,
           "30 DMA": 176.02,
@@ -54,7 +54,7 @@
       ],
       "rows": [
         {
-          "Date": "09-10-2026",
+          "Date": "10-10-2026",
           "Stock": "WOW",
           "CMP": 39.59,
           "Monthly RSI": 74.4,
