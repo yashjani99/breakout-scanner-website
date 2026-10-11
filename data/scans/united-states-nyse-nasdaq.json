@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-10-10T01:08:24.409400+00:00",
+  "generated_at": "2026-10-11T00:21:23.976085+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,38 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "11-10-2026",
+          "Stock": "XOM",
+          "CMP": 168.94,
+          "30 DMA": 163.14,
+          "50 DMA": 161.35,
+          "200 DMA": 148.94,
+          "200 DMA Dist %": 13.43,
+          "SL": 159.27,
+          "T1": 188.28,
+          "T2": 197.95,
+          "T3": 217.29,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "11-10-2026",
+          "Stock": "MSFT",
+          "CMP": 535.07,
+          "30 DMA": 506.8,
+          "50 DMA": 500.19,
+          "200 DMA": 432.7,
+          "200 DMA Dist %": 23.66,
+          "SL": 502.22,
+          "T1": 600.77,
+          "T2": 633.62,
+          "T3": 699.32,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +67,68 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "11-10-2026",
+          "Stock": "V",
+          "CMP": 385.45,
+          "Monthly RSI": 73.6,
+          "Weekly RSI": 65.7,
+          "Signal Date": "02-10-2026",
+          "Entry": 361.38,
+          "SL": 356.75,
+          "T1 (RSI 60 Est.)": 390.08,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "11-10-2026",
+          "Stock": "XOM",
+          "CMP": 168.94,
+          "Monthly RSI": 71.8,
+          "Weekly RSI": 62.8,
+          "Signal Date": "21-09-2026",
+          "Entry": 161.95,
+          "SL": 157.94,
+          "T1 (RSI 60 Est.)": 172.95,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "11-10-2026",
+          "Stock": "MA",
+          "CMP": 589.14,
+          "Monthly RSI": 68.6,
+          "Weekly RSI": 62.3,
+          "Signal Date": "02-10-2026",
+          "Entry": 553.84,
+          "SL": 544.58,
+          "T1 (RSI 60 Est.)": 598.4,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "11-10-2026",
+          "Stock": "CSCO",
+          "CMP": 118.39,
+          "Monthly RSI": 81.9,
+          "Weekly RSI": 62.1,
+          "Signal Date": "30-09-2026",
+          "Entry": 108.25,
+          "SL": 104.11,
+          "T1 (RSI 60 Est.)": 122.53,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "11-10-2026",
+          "Stock": "KO",
+          "CMP": 88.05,
+          "Monthly RSI": 69.6,
+          "Weekly RSI": 61.5,
+          "Signal Date": "07-10-2026",
+          "Entry": 86.96,
+          "SL": 85.13,
+          "T1 (RSI 60 Est.)": 90.62,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
@@ -58,7 +150,26 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "11-10-2026",
+          "Stock": "XOM",
+          "CMP": 168.94,
+          "30 DMA": 163.14,
+          "50 DMA": 161.35,
+          "200 DMA": 148.94,
+          "200 DMA Dist %": 13.43,
+          "Monthly RSI": 71.8,
+          "Weekly RSI": 62.8,
+          "Signal Date": "21-09-2026",
+          "SL": 159.27,
+          "T1": 188.28,
+          "T2": 197.95,
+          "T3": 217.29,
+          "CAR Status": "Positive",
+          "Action": "Breakout + RSI 5-Star"
+        }
+      ]
     }
   }
 }
