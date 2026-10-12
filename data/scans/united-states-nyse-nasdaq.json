@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-10-11T00:21:23.976085+00:00",
+  "generated_at": "2026-10-12T00:41:55.753710+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "11-10-2026",
+          "Date": "12-10-2026",
           "Stock": "XOM",
           "CMP": 168.94,
           "30 DMA": 163.14,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "11-10-2026",
+          "Date": "12-10-2026",
           "Stock": "MSFT",
           "CMP": 535.07,
           "30 DMA": 506.8,
@@ -69,7 +69,7 @@
       ],
       "rows": [
         {
-          "Date": "11-10-2026",
+          "Date": "12-10-2026",
           "Stock": "V",
           "CMP": 385.45,
           "Monthly RSI": 73.6,
@@ -81,7 +81,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-10-2026",
+          "Date": "12-10-2026",
           "Stock": "XOM",
           "CMP": 168.94,
           "Monthly RSI": 71.8,
@@ -93,7 +93,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-10-2026",
+          "Date": "12-10-2026",
           "Stock": "MA",
           "CMP": 589.14,
           "Monthly RSI": 68.6,
@@ -105,7 +105,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-10-2026",
+          "Date": "12-10-2026",
           "Stock": "CSCO",
           "CMP": 118.39,
           "Monthly RSI": 81.9,
@@ -117,7 +117,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "11-10-2026",
+          "Date": "12-10-2026",
           "Stock": "KO",
           "CMP": 88.05,
           "Monthly RSI": 69.6,
@@ -152,7 +152,7 @@
       ],
       "rows": [
         {
-          "Date": "11-10-2026",
+          "Date": "12-10-2026",
           "Stock": "XOM",
           "CMP": 168.94,
           "30 DMA": 163.14,
