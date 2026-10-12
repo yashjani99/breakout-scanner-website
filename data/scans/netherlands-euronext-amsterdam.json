@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-10-11T20:54:19.794869+00:00",
+  "generated_at": "2026-10-12T23:34:53.577122+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,38 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "11-10-2026",
-          "Stock": "ASM",
-          "CMP": 883.6,
-          "30 DMA": 844.19,
-          "50 DMA": 844.54,
-          "200 DMA": 801.59,
-          "200 DMA Dist %": 10.23,
-          "SL": 831.2,
-          "T1": 988.4,
-          "T2": 1040.8,
-          "T3": 1145.6,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "11-10-2026",
-          "Stock": "ASML",
-          "CMP": 1601.6,
-          "30 DMA": 1512.32,
-          "50 DMA": 1513.91,
-          "200 DMA": 1357.81,
-          "200 DMA Dist %": 17.95,
-          "SL": 1498.6,
-          "T1": 1807.6,
-          "T2": 1910.6,
-          "T3": 2116.6,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
