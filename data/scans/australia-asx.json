@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-10-12T15:50:32.674093+00:00",
+  "generated_at": "2026-10-13T14:26:57.411089+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "12-10-2026",
+          "Date": "13-10-2026",
           "Stock": "ANZ",
-          "CMP": 37.91,
-          "30 DMA": 37.62,
-          "50 DMA": 37.52,
-          "200 DMA": 36.44,
-          "200 DMA Dist %": 4.03,
+          "CMP": 38.39,
+          "30 DMA": 37.65,
+          "50 DMA": 37.53,
+          "200 DMA": 36.46,
+          "200 DMA Dist %": 5.31,
           "SL": 37.01,
-          "T1": 39.71,
-          "T2": 40.61,
-          "T3": 42.41,
+          "T1": 41.15,
+          "T2": 42.53,
+          "T3": 45.29,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "12-10-2026",
+          "Date": "13-10-2026",
           "Stock": "CSL",
-          "CMP": 184.81,
-          "30 DMA": 176.54,
-          "50 DMA": 165.95,
-          "200 DMA": 141.02,
-          "200 DMA Dist %": 31.05,
+          "CMP": 184.58,
+          "30 DMA": 177.02,
+          "50 DMA": 167.1,
+          "200 DMA": 141.11,
+          "200 DMA Dist %": 30.81,
           "SL": 174.67,
-          "T1": 205.09,
-          "T2": 215.23,
-          "T3": 235.51,
+          "T1": 204.4,
+          "T2": 214.31,
+          "T3": 234.13,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,7 +67,32 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "13-10-2026",
+          "Stock": "WOW",
+          "CMP": 39.67,
+          "Monthly RSI": 74.6,
+          "Weekly RSI": 61.1,
+          "Signal Date": "07-10-2026",
+          "Entry": 38.43,
+          "SL": 37.59,
+          "T1 (RSI 60 Est.)": 40.51,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "13-10-2026",
+          "Stock": "SUN",
+          "CMP": 19.36,
+          "Monthly RSI": 67.8,
+          "Weekly RSI": 60.7,
+          "Signal Date": "05-10-2026",
+          "Entry": 18.45,
+          "SL": 18.15,
+          "T1 (RSI 60 Est.)": 19.84,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
