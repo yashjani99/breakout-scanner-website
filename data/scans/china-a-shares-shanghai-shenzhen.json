@@ -1,7 +1,7 @@
 {
   "market": "China A-Shares (Shanghai/Shenzhen)",
   "currency": "CNY",
-  "generated_at": "2026-10-12T16:53:37.111620+00:00",
+  "generated_at": "2026-10-13T15:11:46.433944+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,38 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "13-10-2026",
+          "Stock": "601288",
+          "CMP": 7.25,
+          "30 DMA": 6.91,
+          "50 DMA": 6.81,
+          "200 DMA": 6.72,
+          "200 DMA Dist %": 7.97,
+          "SL": 6.75,
+          "T1": 8.25,
+          "T2": 8.75,
+          "T3": 9.75,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "13-10-2026",
+          "Stock": "601857",
+          "CMP": 12.25,
+          "30 DMA": 11.0,
+          "50 DMA": 10.86,
+          "200 DMA": 10.43,
+          "200 DMA Dist %": 17.43,
+          "SL": 10.42,
+          "T1": 15.91,
+          "T2": 17.74,
+          "T3": 21.4,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +67,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "13-10-2026",
+          "Stock": "601857",
+          "CMP": 12.25,
+          "Monthly RSI": 66.5,
+          "Weekly RSI": 67.6,
+          "Signal Date": "18-09-2026",
+          "Entry": 10.63,
+          "SL": 10.44,
+          "T1 (RSI 60 Est.)": 12.44,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
@@ -58,7 +102,26 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "13-10-2026",
+          "Stock": "601857",
+          "CMP": 12.25,
+          "30 DMA": 11.0,
+          "50 DMA": 10.86,
+          "200 DMA": 10.43,
+          "200 DMA Dist %": 17.43,
+          "Monthly RSI": 66.5,
+          "Weekly RSI": 67.6,
+          "Signal Date": "18-09-2026",
+          "SL": 10.44,
+          "T1": 15.87,
+          "T2": 17.68,
+          "T3": 21.3,
+          "CAR Status": "Positive",
+          "Action": "Breakout + RSI 5-Star"
+        }
+      ]
     }
   }
 }
