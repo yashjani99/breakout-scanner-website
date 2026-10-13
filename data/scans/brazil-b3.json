@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-10-13T02:08:36.179711+00:00",
+  "generated_at": "2026-10-13T23:46:54.646980+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -23,31 +23,16 @@
       "rows": [
         {
           "Date": "13-10-2026",
-          "Stock": "WEGE3",
-          "CMP": 51.47,
-          "30 DMA": 51.0,
-          "50 DMA": 49.95,
-          "200 DMA": 47.66,
-          "200 DMA Dist %": 8.0,
-          "SL": 49.18,
-          "T1": 56.05,
-          "T2": 58.34,
-          "T3": 62.92,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "13-10-2026",
           "Stock": "BBAS3",
-          "CMP": 24.64,
-          "30 DMA": 22.68,
-          "50 DMA": 21.33,
-          "200 DMA": 21.91,
-          "200 DMA Dist %": 12.47,
-          "SL": 21.18,
-          "T1": 31.56,
-          "T2": 35.02,
-          "T3": 41.94,
+          "CMP": 24.25,
+          "30 DMA": 22.82,
+          "50 DMA": 21.39,
+          "200 DMA": 21.93,
+          "200 DMA Dist %": 10.6,
+          "SL": 21.34,
+          "T1": 30.07,
+          "T2": 32.98,
+          "T3": 38.8,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -71,13 +56,13 @@
         {
           "Date": "13-10-2026",
           "Stock": "GGBR4",
-          "CMP": 25.69,
-          "Monthly RSI": 75.7,
-          "Weekly RSI": 60.3,
+          "CMP": 25.98,
+          "Monthly RSI": 76.0,
+          "Weekly RSI": 61.4,
           "Signal Date": "30-09-2026",
           "Entry": 24.77,
           "SL": 24.04,
-          "T1 (RSI 60 Est.)": 26.46,
+          "T1 (RSI 60 Est.)": 26.71,
           "Action": "RSI 5-Star Setup"
         }
       ]
