@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-10-13T14:26:57.411089+00:00",
+  "generated_at": "2026-10-14T12:11:52.340248+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,47 @@
       ],
       "rows": [
         {
-          "Date": "13-10-2026",
+          "Date": "14-10-2026",
           "Stock": "ANZ",
-          "CMP": 38.39,
-          "30 DMA": 37.65,
+          "CMP": 38.3,
+          "30 DMA": 37.68,
           "50 DMA": 37.53,
-          "200 DMA": 36.46,
-          "200 DMA Dist %": 5.31,
+          "200 DMA": 36.47,
+          "200 DMA Dist %": 5.02,
           "SL": 37.01,
-          "T1": 41.15,
-          "T2": 42.53,
-          "T3": 45.29,
+          "T1": 40.88,
+          "T2": 42.17,
+          "T3": 44.75,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "13-10-2026",
+          "Date": "14-10-2026",
+          "Stock": "WDS",
+          "CMP": 33.2,
+          "30 DMA": 32.14,
+          "50 DMA": 32.05,
+          "200 DMA": 29.6,
+          "200 DMA Dist %": 12.15,
+          "SL": 30.73,
+          "T1": 38.14,
+          "T2": 40.61,
+          "T3": 45.55,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "14-10-2026",
           "Stock": "CSL",
-          "CMP": 184.58,
-          "30 DMA": 177.02,
-          "50 DMA": 167.1,
-          "200 DMA": 141.11,
-          "200 DMA Dist %": 30.81,
+          "CMP": 184.59,
+          "30 DMA": 177.45,
+          "50 DMA": 168.21,
+          "200 DMA": 141.19,
+          "200 DMA Dist %": 30.74,
           "SL": 174.67,
-          "T1": 204.4,
-          "T2": 214.31,
-          "T3": 234.13,
+          "T1": 204.43,
+          "T2": 214.35,
+          "T3": 234.19,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,27 +84,27 @@
       ],
       "rows": [
         {
-          "Date": "13-10-2026",
+          "Date": "14-10-2026",
           "Stock": "WOW",
-          "CMP": 39.67,
-          "Monthly RSI": 74.6,
-          "Weekly RSI": 61.1,
+          "CMP": 39.59,
+          "Monthly RSI": 74.4,
+          "Weekly RSI": 60.8,
           "Signal Date": "07-10-2026",
           "Entry": 38.43,
           "SL": 37.59,
-          "T1 (RSI 60 Est.)": 40.51,
+          "T1 (RSI 60 Est.)": 40.43,
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "13-10-2026",
-          "Stock": "SUN",
-          "CMP": 19.36,
-          "Monthly RSI": 67.8,
-          "Weekly RSI": 60.7,
-          "Signal Date": "05-10-2026",
-          "Entry": 18.45,
-          "SL": 18.15,
-          "T1 (RSI 60 Est.)": 19.84,
+          "Date": "14-10-2026",
+          "Stock": "WDS",
+          "CMP": 33.2,
+          "Monthly RSI": 68.0,
+          "Weekly RSI": 60.2,
+          "Signal Date": "06-10-2026",
+          "Entry": 31.34,
+          "SL": 30.73,
+          "T1 (RSI 60 Est.)": 33.81,
           "Action": "RSI 5-Star Setup"
         }
       ]
@@ -114,7 +129,26 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "14-10-2026",
+          "Stock": "WDS",
+          "CMP": 33.2,
+          "30 DMA": 32.14,
+          "50 DMA": 32.05,
+          "200 DMA": 29.6,
+          "200 DMA Dist %": 12.15,
+          "Monthly RSI": 68.0,
+          "Weekly RSI": 60.2,
+          "Signal Date": "06-10-2026",
+          "SL": 30.73,
+          "T1": 38.14,
+          "T2": 40.61,
+          "T3": 45.55,
+          "CAR Status": "Positive",
+          "Action": "Breakout + RSI 5-Star"
+        }
+      ]
     }
   }
 }
