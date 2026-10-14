@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-10-13T21:40:24.851497+00:00",
+  "generated_at": "2026-10-14T20:23:30.016455+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "13-10-2026",
-          "Stock": "DSY",
-          "CMP": 22.54,
-          "30 DMA": 21.1,
-          "50 DMA": 21.52,
-          "200 DMA": 19.84,
-          "200 DMA Dist %": 13.62,
-          "SL": 19.94,
-          "T1": 27.74,
-          "T2": 30.34,
-          "T3": 35.54,
+          "Date": "14-10-2026",
+          "Stock": "CAP",
+          "CMP": 118.0,
+          "30 DMA": 107.8,
+          "50 DMA": 107.99,
+          "200 DMA": 104.85,
+          "200 DMA Dist %": 12.54,
+          "SL": 100.95,
+          "T1": 152.1,
+          "T2": 169.15,
+          "T3": 203.25,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "13-10-2026",
-          "Stock": "CAP",
-          "CMP": 119.3,
-          "30 DMA": 107.37,
-          "50 DMA": 107.81,
-          "200 DMA": 104.95,
-          "200 DMA Dist %": 13.68,
-          "SL": 100.95,
-          "T1": 156.0,
-          "T2": 174.35,
-          "T3": 211.05,
+          "Date": "14-10-2026",
+          "Stock": "DSY",
+          "CMP": 22.49,
+          "30 DMA": 21.11,
+          "50 DMA": 21.54,
+          "200 DMA": 19.84,
+          "200 DMA Dist %": 13.38,
+          "SL": 19.94,
+          "T1": 27.59,
+          "T2": 30.14,
+          "T3": 35.24,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,15 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "13-10-2026",
+          "Date": "14-10-2026",
           "Stock": "TTE",
-          "CMP": 79.89,
-          "Monthly RSI": 63.6,
-          "Weekly RSI": 61.2,
+          "CMP": 80.17,
+          "Monthly RSI": 63.8,
+          "Weekly RSI": 61.5,
           "Signal Date": "07-10-2026",
           "Entry": 76.49,
           "SL": 73.45,
-          "T1 (RSI 60 Est.)": 82.93,
+          "T1 (RSI 60 Est.)": 83.21,
           "Action": "RSI 5-Star Setup"
         }
       ]
