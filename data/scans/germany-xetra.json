@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-10-14T20:23:28.063166+00:00",
+  "generated_at": "2026-10-15T20:08:29.418659+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,47 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "14-10-2026",
-          "Stock": "MUV2",
-          "CMP": 533.4,
-          "30 DMA": 511.97,
-          "50 DMA": 514.14,
-          "200 DMA": 503.25,
-          "200 DMA Dist %": 5.99,
-          "SL": 492.2,
-          "T1": 615.8,
-          "T2": 657.0,
-          "T3": 739.4,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "14-10-2026",
+          "Date": "15-10-2026",
           "Stock": "HEN3",
-          "CMP": 77.24,
-          "30 DMA": 74.08,
-          "50 DMA": 75.07,
-          "200 DMA": 71.3,
-          "200 DMA Dist %": 8.34,
-          "SL": 71.42,
-          "T1": 88.88,
-          "T2": 94.7,
-          "T3": 106.34,
+          "CMP": 77.84,
+          "30 DMA": 74.16,
+          "50 DMA": 75.04,
+          "200 DMA": 71.35,
+          "200 DMA Dist %": 9.1,
+          "SL": 71.64,
+          "T1": 90.24,
+          "T2": 96.44,
+          "T3": 108.84,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-10-2026",
+          "Date": "15-10-2026",
           "Stock": "SAP",
-          "CMP": 196.94,
-          "30 DMA": 185.94,
-          "50 DMA": 184.62,
-          "200 DMA": 163.91,
-          "200 DMA Dist %": 20.15,
-          "SL": 181.34,
-          "T1": 228.14,
-          "T2": 243.74,
-          "T3": 274.94,
+          "CMP": 201.25,
+          "30 DMA": 186.46,
+          "50 DMA": 185.22,
+          "200 DMA": 163.9,
+          "200 DMA Dist %": 22.79,
+          "SL": 183.76,
+          "T1": 236.23,
+          "T2": 253.72,
+          "T3": 288.7,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -82,7 +67,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "15-10-2026",
+          "Stock": "MUV2",
+          "CMP": 544.8,
+          "Monthly RSI": 65.0,
+          "Weekly RSI": 63.0,
+          "Signal Date": "01-10-2026",
+          "Entry": 500.6,
+          "SL": 492.2,
+          "T1 (RSI 60 Est.)": 553.2,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
