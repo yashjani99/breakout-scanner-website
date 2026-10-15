@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-10-14T00:31:43.575389+00:00",
+  "generated_at": "2026-10-15T00:02:21.191821+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -38,51 +38,63 @@
       ],
       "rows": [
         {
-          "Date": "14-10-2026",
+          "Date": "15-10-2026",
           "Stock": "CNQ",
-          "CMP": 74.19,
-          "Monthly RSI": 74.1,
-          "Weekly RSI": 66.7,
+          "CMP": 73.83,
+          "Monthly RSI": 73.9,
+          "Weekly RSI": 66.3,
           "Signal Date": "30-09-2026",
           "Entry": 68.06,
           "SL": 66.05,
-          "T1 (RSI 60 Est.)": 76.2,
+          "T1 (RSI 60 Est.)": 75.84,
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "14-10-2026",
+          "Date": "15-10-2026",
           "Stock": "BNS",
-          "CMP": 128.34,
-          "Monthly RSI": 90.5,
-          "Weekly RSI": 65.3,
+          "CMP": 128.14,
+          "Monthly RSI": 90.3,
+          "Weekly RSI": 65.1,
           "Signal Date": "08-10-2026",
           "Entry": 125.56,
           "SL": 123.36,
-          "T1 (RSI 60 Est.)": 131.68,
+          "T1 (RSI 60 Est.)": 131.52,
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "14-10-2026",
+          "Date": "15-10-2026",
           "Stock": "MFC",
-          "CMP": 61.56,
-          "Monthly RSI": 83.7,
-          "Weekly RSI": 64.1,
+          "CMP": 61.46,
+          "Monthly RSI": 83.6,
+          "Weekly RSI": 63.8,
           "Signal Date": "08-10-2026",
           "Entry": 60.04,
           "SL": 58.91,
-          "T1 (RSI 60 Est.)": 62.69,
+          "T1 (RSI 60 Est.)": 62.59,
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "14-10-2026",
+          "Date": "15-10-2026",
           "Stock": "TD",
-          "CMP": 167.83,
-          "Monthly RSI": 90.7,
-          "Weekly RSI": 61.5,
+          "CMP": 167.57,
+          "Monthly RSI": 90.6,
+          "Weekly RSI": 61.3,
           "Signal Date": "09-10-2026",
           "Entry": 164.42,
           "SL": 159.54,
           "T1 (RSI 60 Est.)": 174.18,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "15-10-2026",
+          "Stock": "SLF",
+          "CMP": 111.21,
+          "Monthly RSI": 82.6,
+          "Weekly RSI": 60.2,
+          "Signal Date": "09-10-2026",
+          "Entry": 110.01,
+          "SL": 107.57,
+          "T1 (RSI 60 Est.)": 114.89,
           "Action": "RSI 5-Star Setup"
         }
       ]
