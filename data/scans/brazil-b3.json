@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-10-15T23:08:28.888253+00:00",
+  "generated_at": "2026-10-16T22:55:09.435048+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "15-10-2026",
+          "Date": "16-10-2026",
           "Stock": "BBAS3",
-          "CMP": 23.76,
-          "30 DMA": 23.03,
-          "50 DMA": 21.5,
-          "200 DMA": 21.95,
-          "200 DMA Dist %": 8.22,
-          "SL": 22.66,
-          "T1": 25.96,
-          "T2": 27.06,
-          "T3": 29.26,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "15-10-2026",
-          "Stock": "ABEV3",
-          "CMP": 16.69,
-          "30 DMA": 15.72,
-          "50 DMA": 15.45,
-          "200 DMA": 15.42,
-          "200 DMA Dist %": 8.24,
-          "SL": 15.24,
-          "T1": 19.59,
-          "T2": 21.04,
-          "T3": 23.94,
+          "CMP": 23.63,
+          "30 DMA": 23.07,
+          "50 DMA": 21.56,
+          "200 DMA": 21.97,
+          "200 DMA Dist %": 7.57,
+          "SL": 22.96,
+          "T1": 24.97,
+          "T2": 25.64,
+          "T3": 26.98,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,27 +54,15 @@
       ],
       "rows": [
         {
-          "Date": "15-10-2026",
+          "Date": "16-10-2026",
           "Stock": "ABEV3",
-          "CMP": 16.69,
-          "Monthly RSI": 67.6,
-          "Weekly RSI": 61.9,
+          "CMP": 16.84,
+          "Monthly RSI": 68.1,
+          "Weekly RSI": 62.9,
           "Signal Date": "28-09-2026",
           "Entry": 15.36,
           "SL": 15.14,
-          "T1 (RSI 60 Est.)": 16.91,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "15-10-2026",
-          "Stock": "GGBR4",
-          "CMP": 25.67,
-          "Monthly RSI": 75.6,
-          "Weekly RSI": 60.2,
-          "Signal Date": "30-09-2026",
-          "Entry": 24.77,
-          "SL": 24.04,
-          "T1 (RSI 60 Est.)": 26.48,
+          "T1 (RSI 60 Est.)": 17.06,
           "Action": "RSI 5-Star Setup"
         }
       ]
@@ -114,26 +87,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "15-10-2026",
-          "Stock": "ABEV3",
-          "CMP": 16.69,
-          "30 DMA": 15.72,
-          "50 DMA": 15.45,
-          "200 DMA": 15.42,
-          "200 DMA Dist %": 8.24,
-          "Monthly RSI": 67.6,
-          "Weekly RSI": 61.9,
-          "Signal Date": "28-09-2026",
-          "SL": 15.24,
-          "T1": 19.59,
-          "T2": 21.04,
-          "T3": 23.94,
-          "CAR Status": "Positive",
-          "Action": "Breakout + RSI 5-Star"
-        }
-      ]
+      "rows": []
     }
   }
 }
