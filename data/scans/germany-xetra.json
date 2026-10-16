@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-10-15T20:08:29.418659+00:00",
+  "generated_at": "2026-10-16T19:46:51.398404+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,47 @@
       ],
       "rows": [
         {
-          "Date": "15-10-2026",
-          "Stock": "HEN3",
-          "CMP": 77.84,
-          "30 DMA": 74.16,
-          "50 DMA": 75.04,
-          "200 DMA": 71.35,
-          "200 DMA Dist %": 9.1,
-          "SL": 71.64,
-          "T1": 90.24,
-          "T2": 96.44,
-          "T3": 108.84,
+          "Date": "16-10-2026",
+          "Stock": "BAS",
+          "CMP": 53.23,
+          "30 DMA": 51.65,
+          "50 DMA": 51.76,
+          "200 DMA": 49.24,
+          "200 DMA Dist %": 8.1,
+          "SL": 49.5,
+          "T1": 60.69,
+          "T2": 64.42,
+          "T3": 71.88,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "15-10-2026",
+          "Date": "16-10-2026",
+          "Stock": "HEN3",
+          "CMP": 79.02,
+          "30 DMA": 74.25,
+          "50 DMA": 75.02,
+          "200 DMA": 71.41,
+          "200 DMA Dist %": 10.66,
+          "SL": 71.64,
+          "T1": 93.78,
+          "T2": 101.16,
+          "T3": 115.92,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "16-10-2026",
           "Stock": "SAP",
-          "CMP": 201.25,
-          "30 DMA": 186.46,
-          "50 DMA": 185.22,
-          "200 DMA": 163.9,
-          "200 DMA Dist %": 22.79,
+          "CMP": 199.22,
+          "30 DMA": 186.91,
+          "50 DMA": 185.65,
+          "200 DMA": 163.91,
+          "200 DMA Dist %": 21.54,
           "SL": 183.76,
-          "T1": 236.23,
-          "T2": 253.72,
-          "T3": 288.7,
+          "T1": 230.14,
+          "T2": 245.6,
+          "T3": 276.52,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,15 +84,39 @@
       ],
       "rows": [
         {
-          "Date": "15-10-2026",
+          "Date": "16-10-2026",
           "Stock": "MUV2",
-          "CMP": 544.8,
-          "Monthly RSI": 65.0,
-          "Weekly RSI": 63.0,
+          "CMP": 547.2,
+          "Monthly RSI": 65.2,
+          "Weekly RSI": 63.6,
           "Signal Date": "01-10-2026",
           "Entry": 500.6,
           "SL": 492.2,
-          "T1 (RSI 60 Est.)": 553.2,
+          "T1 (RSI 60 Est.)": 555.6,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "16-10-2026",
+          "Stock": "HEN3",
+          "CMP": 79.02,
+          "Monthly RSI": 60.2,
+          "Weekly RSI": 62.8,
+          "Signal Date": "05-10-2026",
+          "Entry": 72.6,
+          "SL": 71.42,
+          "T1 (RSI 60 Est.)": 80.2,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "16-10-2026",
+          "Stock": "ALV",
+          "CMP": 433.9,
+          "Monthly RSI": 71.0,
+          "Weekly RSI": 60.4,
+          "Signal Date": "12-10-2026",
+          "Entry": 422.2,
+          "SL": 408.6,
+          "T1 (RSI 60 Est.)": 449.4,
           "Action": "RSI 5-Star Setup"
         }
       ]
@@ -102,7 +141,26 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "16-10-2026",
+          "Stock": "HEN3",
+          "CMP": 79.02,
+          "30 DMA": 74.25,
+          "50 DMA": 75.02,
+          "200 DMA": 71.41,
+          "200 DMA Dist %": 10.66,
+          "Monthly RSI": 60.2,
+          "Weekly RSI": 62.8,
+          "Signal Date": "05-10-2026",
+          "SL": 71.64,
+          "T1": 93.78,
+          "T2": 101.16,
+          "T3": 115.92,
+          "CAR Status": "Positive",
+          "Action": "Breakout + RSI 5-Star"
+        }
+      ]
     }
   }
 }
