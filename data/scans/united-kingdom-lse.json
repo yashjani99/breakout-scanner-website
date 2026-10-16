@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-10-15T20:06:09.528931+00:00",
+  "generated_at": "2026-10-16T19:44:51.853417+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "15-10-2026",
+          "Date": "16-10-2026",
+          "Stock": "GLEN",
+          "CMP": 583.1,
+          "30 DMA": 574.09,
+          "50 DMA": 577.12,
+          "200 DMA": 543.01,
+          "200 DMA Dist %": 7.38,
+          "SL": 552.3,
+          "T1": 644.7,
+          "T2": 675.5,
+          "T3": 737.1,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "16-10-2026",
           "Stock": "DGE",
-          "CMP": 1756.0,
-          "30 DMA": 1631.66,
-          "50 DMA": 1669.61,
-          "200 DMA": 1591.17,
-          "200 DMA Dist %": 10.36,
+          "CMP": 1790.0,
+          "30 DMA": 1636.1,
+          "50 DMA": 1670.76,
+          "200 DMA": 1592.08,
+          "200 DMA Dist %": 12.43,
           "SL": 1575.23,
-          "T1": 2117.54,
-          "T2": 2298.32,
-          "T3": 2659.86,
+          "T1": 2219.54,
+          "T2": 2434.32,
+          "T3": 2863.86,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
