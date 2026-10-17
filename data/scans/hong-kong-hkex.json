@@ -1,7 +1,7 @@
 {
   "market": "Hong Kong (HKEX)",
   "currency": "HKD",
-  "generated_at": "2026-10-16T13:27:25.509873+00:00",
+  "generated_at": "2026-10-17T12:20:09.581303+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "0006",
           "CMP": 60.55,
           "30 DMA": 60.06,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "0941",
           "CMP": 80.95,
           "30 DMA": 79.36,
@@ -69,7 +69,7 @@
       ],
       "rows": [
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "0941",
           "CMP": 80.95,
           "Monthly RSI": 63.3,
@@ -81,7 +81,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "2388",
           "CMP": 50.15,
           "Monthly RSI": 66.3,
@@ -116,7 +116,7 @@
       ],
       "rows": [
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "0941",
           "CMP": 80.95,
           "30 DMA": 79.36,
