@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-10-16T11:42:41.870051+00:00",
+  "generated_at": "2026-10-17T11:01:40.303877+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "ANZ",
           "CMP": 38.89,
           "30 DMA": 37.74,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "WDS",
           "CMP": 33.14,
           "30 DMA": 32.22,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "CSL",
           "CMP": 192.2,
           "30 DMA": 178.57,
@@ -84,7 +84,7 @@
       ],
       "rows": [
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "WOW",
           "CMP": 41.2,
           "Monthly RSI": 76.9,
@@ -96,7 +96,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "SUN",
           "CMP": 19.58,
           "Monthly RSI": 68.8,
@@ -108,7 +108,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "ALL",
           "CMP": 63.02,
           "Monthly RSI": 65.9,
@@ -120,7 +120,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "WDS",
           "CMP": 33.14,
           "Monthly RSI": 67.9,
@@ -155,7 +155,7 @@
       ],
       "rows": [
         {
-          "Date": "16-10-2026",
+          "Date": "17-10-2026",
           "Stock": "WDS",
           "CMP": 33.14,
           "30 DMA": 32.22,
