@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-10-17T13:54:45.397278+00:00",
+  "generated_at": "2026-10-18T14:09:21.839471+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "PNB",
           "CMP": 116.3,
           "30 DMA": 115.56,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "PETRONET",
           "CMP": 293.0,
           "30 DMA": 288.51,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "MPHASIS",
           "CMP": 2500.0,
           "30 DMA": 2322.7,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "PERSISTENT",
           "CMP": 5741.0,
           "30 DMA": 5518.05,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "ETERNAL",
           "CMP": 325.3,
           "30 DMA": 324.98,
@@ -114,7 +114,7 @@
       ],
       "rows": [
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "DIVISLAB",
           "CMP": 9144.5,
           "Monthly RSI": 75.2,
@@ -126,7 +126,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "TECHM",
           "CMP": 1790.0,
           "Monthly RSI": 66.5,
@@ -138,7 +138,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "NYKAA",
           "CMP": 345.0,
           "Monthly RSI": 64.5,
@@ -150,7 +150,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "SONACOMS",
           "CMP": 800.0,
           "Monthly RSI": 64.4,
@@ -162,7 +162,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "KOTAKBANK",
           "CMP": 447.4,
           "Monthly RSI": 65.9,
@@ -174,7 +174,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "COFORGE",
           "CMP": 1951.9,
           "Monthly RSI": 66.3,
@@ -186,7 +186,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "INDHOTEL",
           "CMP": 772.1,
           "Monthly RSI": 75.1,
@@ -198,7 +198,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "BHEL",
           "CMP": 434.6,
           "Monthly RSI": 73.1,
@@ -210,7 +210,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "RADICO",
           "CMP": 4473.4,
           "Monthly RSI": 78.4,
@@ -222,7 +222,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "ETERNAL",
           "CMP": 325.3,
           "Monthly RSI": 74.6,
@@ -234,7 +234,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "HAL",
           "CMP": 4989.0,
           "Monthly RSI": 64.6,
@@ -269,7 +269,7 @@
       ],
       "rows": [
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "ETERNAL",
           "CMP": 325.3,
           "30 DMA": 324.98,
