@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-10-17T19:14:52.551304+00:00",
+  "generated_at": "2026-10-18T19:23:05.394118+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -38,7 +38,7 @@
       ],
       "rows": [
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "ZURN",
           "CMP": 613.4,
           "Monthly RSI": 73.3,
