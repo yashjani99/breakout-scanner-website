@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-10-17T23:19:56.843805+00:00",
+  "generated_at": "2026-10-18T23:32:54.231878+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "DIS",
           "CMP": 110.59,
           "30 DMA": 105.81,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "PG",
           "CMP": 159.35,
           "30 DMA": 148.16,
@@ -69,7 +69,7 @@
       ],
       "rows": [
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "V",
           "CMP": 402.61,
           "Monthly RSI": 75.4,
@@ -81,7 +81,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "KO",
           "CMP": 93.9,
           "Monthly RSI": 74.1,
@@ -93,7 +93,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "MA",
           "CMP": 617.42,
           "Monthly RSI": 70.9,
@@ -105,7 +105,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "PG",
           "CMP": 159.35,
           "Monthly RSI": 69.2,
@@ -117,7 +117,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "BRK-B",
           "CMP": 532.02,
           "Monthly RSI": 71.2,
@@ -129,7 +129,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "CRM",
           "CMP": 240.7,
           "Monthly RSI": 62.3,
@@ -164,7 +164,7 @@
       ],
       "rows": [
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "PG",
           "CMP": 159.35,
           "30 DMA": 148.16,
