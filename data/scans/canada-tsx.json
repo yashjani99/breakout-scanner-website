@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-10-17T23:20:12.070316+00:00",
+  "generated_at": "2026-10-18T23:34:16.903094+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "CSU",
           "CMP": 3185.8,
           "30 DMA": 2925.12,
@@ -54,7 +54,7 @@
       ],
       "rows": [
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "CNQ",
           "CMP": 76.1,
           "Monthly RSI": 75.1,
@@ -66,7 +66,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "BNS",
           "CMP": 129.52,
           "Monthly RSI": 90.6,
@@ -78,7 +78,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "MFC",
           "CMP": 62.67,
           "Monthly RSI": 84.2,
@@ -90,7 +90,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "L",
           "CMP": 70.06,
           "Monthly RSI": 76.2,
@@ -102,7 +102,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "TD",
           "CMP": 170.26,
           "Monthly RSI": 91.0,
@@ -114,7 +114,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "POW",
           "CMP": 92.59,
           "Monthly RSI": 84.4,
@@ -126,7 +126,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "17-10-2026",
+          "Date": "18-10-2026",
           "Stock": "SLF",
           "CMP": 112.3,
           "Monthly RSI": 82.9,
