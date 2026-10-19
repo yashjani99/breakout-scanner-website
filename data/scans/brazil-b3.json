@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-10-18T22:30:00.704475+00:00",
+  "generated_at": "2026-10-19T23:49:48.355830+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "18-10-2026",
+          "Date": "19-10-2026",
+          "Stock": "RADL3",
+          "CMP": 21.34,
+          "30 DMA": 19.88,
+          "50 DMA": 19.41,
+          "200 DMA": 20.84,
+          "200 DMA Dist %": 2.42,
+          "SL": 20.05,
+          "T1": 23.92,
+          "T2": 25.21,
+          "T3": 27.79,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "19-10-2026",
           "Stock": "BBAS3",
-          "CMP": 23.63,
-          "30 DMA": 23.07,
-          "50 DMA": 21.56,
-          "200 DMA": 21.97,
-          "200 DMA Dist %": 7.57,
-          "SL": 22.96,
-          "T1": 24.97,
-          "T2": 25.64,
-          "T3": 26.98,
+          "CMP": 23.95,
+          "30 DMA": 23.12,
+          "50 DMA": 21.63,
+          "200 DMA": 21.98,
+          "200 DMA Dist %": 8.96,
+          "SL": 23.29,
+          "T1": 25.27,
+          "T2": 25.93,
+          "T3": 27.25,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -54,15 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "18-10-2026",
-          "Stock": "ABEV3",
-          "CMP": 16.84,
-          "Monthly RSI": 68.1,
-          "Weekly RSI": 62.9,
-          "Signal Date": "28-09-2026",
-          "Entry": 15.36,
-          "SL": 15.14,
-          "T1 (RSI 60 Est.)": 17.06,
+          "Date": "19-10-2026",
+          "Stock": "GGBR4",
+          "CMP": 25.85,
+          "Monthly RSI": 75.8,
+          "Weekly RSI": 60.5,
+          "Signal Date": "30-09-2026",
+          "Entry": 24.77,
+          "SL": 24.04,
+          "T1 (RSI 60 Est.)": 26.58,
           "Action": "RSI 5-Star Setup"
         }
       ]
