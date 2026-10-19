@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-10-18T19:08:04.569602+00:00",
+  "generated_at": "2026-10-19T21:18:45.340752+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,47 +22,47 @@
       ],
       "rows": [
         {
-          "Date": "18-10-2026",
+          "Date": "19-10-2026",
           "Stock": "BAS",
-          "CMP": 53.23,
-          "30 DMA": 51.65,
-          "50 DMA": 51.76,
-          "200 DMA": 49.24,
-          "200 DMA Dist %": 8.1,
-          "SL": 49.5,
-          "T1": 60.69,
-          "T2": 64.42,
-          "T3": 71.88,
+          "CMP": 52.67,
+          "30 DMA": 51.64,
+          "50 DMA": 51.78,
+          "200 DMA": 49.29,
+          "200 DMA Dist %": 6.85,
+          "SL": 49.83,
+          "T1": 58.35,
+          "T2": 61.19,
+          "T3": 66.87,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-10-2026",
+          "Date": "19-10-2026",
           "Stock": "HEN3",
-          "CMP": 79.02,
-          "30 DMA": 74.25,
-          "50 DMA": 75.02,
-          "200 DMA": 71.41,
-          "200 DMA Dist %": 10.66,
-          "SL": 71.64,
-          "T1": 93.78,
-          "T2": 101.16,
-          "T3": 115.92,
+          "CMP": 78.46,
+          "30 DMA": 74.32,
+          "50 DMA": 75.01,
+          "200 DMA": 71.47,
+          "200 DMA Dist %": 9.79,
+          "SL": 72.32,
+          "T1": 90.74,
+          "T2": 96.88,
+          "T3": 109.16,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-10-2026",
+          "Date": "19-10-2026",
           "Stock": "SAP",
-          "CMP": 199.22,
-          "30 DMA": 186.91,
-          "50 DMA": 185.65,
-          "200 DMA": 163.91,
-          "200 DMA Dist %": 21.54,
+          "CMP": 199.84,
+          "30 DMA": 187.48,
+          "50 DMA": 186.06,
+          "200 DMA": 163.88,
+          "200 DMA Dist %": 21.94,
           "SL": 183.76,
-          "T1": 230.14,
-          "T2": 245.6,
-          "T3": 276.52,
+          "T1": 232.0,
+          "T2": 248.08,
+          "T3": 280.24,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -84,39 +84,15 @@
       ],
       "rows": [
         {
-          "Date": "18-10-2026",
+          "Date": "19-10-2026",
           "Stock": "MUV2",
-          "CMP": 547.2,
-          "Monthly RSI": 65.2,
-          "Weekly RSI": 63.6,
+          "CMP": 542.8,
+          "Monthly RSI": 64.8,
+          "Weekly RSI": 61.7,
           "Signal Date": "01-10-2026",
           "Entry": 500.6,
           "SL": 492.2,
-          "T1 (RSI 60 Est.)": 555.6,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "18-10-2026",
-          "Stock": "HEN3",
-          "CMP": 79.02,
-          "Monthly RSI": 60.2,
-          "Weekly RSI": 62.8,
-          "Signal Date": "05-10-2026",
-          "Entry": 72.6,
-          "SL": 71.42,
-          "T1 (RSI 60 Est.)": 80.2,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "18-10-2026",
-          "Stock": "ALV",
-          "CMP": 433.9,
-          "Monthly RSI": 71.0,
-          "Weekly RSI": 60.4,
-          "Signal Date": "12-10-2026",
-          "Entry": 422.2,
-          "SL": 408.6,
-          "T1 (RSI 60 Est.)": 449.4,
+          "T1 (RSI 60 Est.)": 551.2,
           "Action": "RSI 5-Star Setup"
         }
       ]
@@ -141,26 +117,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "18-10-2026",
-          "Stock": "HEN3",
-          "CMP": 79.02,
-          "30 DMA": 74.25,
-          "50 DMA": 75.02,
-          "200 DMA": 71.41,
-          "200 DMA Dist %": 10.66,
-          "Monthly RSI": 60.2,
-          "Weekly RSI": 62.8,
-          "Signal Date": "05-10-2026",
-          "SL": 71.64,
-          "T1": 93.78,
-          "T2": 101.16,
-          "T3": 115.92,
-          "CAR Status": "Positive",
-          "Action": "Breakout + RSI 5-Star"
-        }
-      ]
+      "rows": []
     }
   }
 }
