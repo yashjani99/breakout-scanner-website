@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-10-19T21:25:37.549087+00:00",
+  "generated_at": "2026-10-20T20:27:12.509394+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "19-10-2026",
+          "Date": "20-10-2026",
           "Stock": "WKL",
-          "CMP": 84.1,
-          "30 DMA": 70.94,
-          "50 DMA": 70.18,
-          "200 DMA": 65.8,
-          "200 DMA Dist %": 27.81,
-          "SL": 68.54,
-          "T1": 115.22,
-          "T2": 130.78,
-          "T3": 161.9,
+          "CMP": 83.72,
+          "30 DMA": 71.49,
+          "50 DMA": 70.46,
+          "200 DMA": 65.79,
+          "200 DMA Dist %": 27.26,
+          "SL": 68.84,
+          "T1": 113.48,
+          "T2": 128.36,
+          "T3": 158.12,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
