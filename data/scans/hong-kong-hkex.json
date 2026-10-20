@@ -1,7 +1,7 @@
 {
   "market": "Hong Kong (HKEX)",
   "currency": "HKD",
-  "generated_at": "2026-10-19T15:48:48.720696+00:00",
+  "generated_at": "2026-10-20T13:47:07.362448+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "19-10-2026",
+          "Date": "20-10-2026",
           "Stock": "0006",
-          "CMP": 60.55,
-          "30 DMA": 60.06,
-          "50 DMA": 59.66,
-          "200 DMA": 58.63,
-          "200 DMA Dist %": 3.28,
-          "SL": 58.7,
-          "T1": 64.25,
-          "T2": 66.1,
-          "T3": 69.8,
+          "CMP": 60.3,
+          "30 DMA": 60.09,
+          "50 DMA": 59.73,
+          "200 DMA": 58.67,
+          "200 DMA Dist %": 2.78,
+          "SL": 58.85,
+          "T1": 63.2,
+          "T2": 64.65,
+          "T3": 67.55,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-10-2026",
+          "Date": "20-10-2026",
           "Stock": "0941",
-          "CMP": 80.95,
-          "30 DMA": 79.36,
-          "50 DMA": 79.35,
-          "200 DMA": 77.28,
-          "200 DMA Dist %": 4.75,
-          "SL": 78.65,
-          "T1": 85.55,
-          "T2": 87.85,
-          "T3": 92.45,
+          "CMP": 80.5,
+          "30 DMA": 79.39,
+          "50 DMA": 79.38,
+          "200 DMA": 77.29,
+          "200 DMA Dist %": 4.15,
+          "SL": 78.8,
+          "T1": 83.9,
+          "T2": 85.6,
+          "T3": 89.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,32 +67,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "19-10-2026",
-          "Stock": "0941",
-          "CMP": 80.95,
-          "Monthly RSI": 63.3,
-          "Weekly RSI": 60.3,
-          "Signal Date": "25-09-2026",
-          "Entry": 78.65,
-          "SL": 78.15,
-          "T1 (RSI 60 Est.)": 81.45,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "19-10-2026",
-          "Stock": "2388",
-          "CMP": 50.15,
-          "Monthly RSI": 66.3,
-          "Weekly RSI": 60.0,
-          "Signal Date": "09-10-2026",
-          "Entry": 49.88,
-          "SL": 48.22,
-          "T1 (RSI 60 Est.)": 53.7,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
@@ -114,26 +89,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "19-10-2026",
-          "Stock": "0941",
-          "CMP": 80.95,
-          "30 DMA": 79.36,
-          "50 DMA": 79.35,
-          "200 DMA": 77.28,
-          "200 DMA Dist %": 4.75,
-          "Monthly RSI": 63.3,
-          "Weekly RSI": 60.3,
-          "Signal Date": "25-09-2026",
-          "SL": 78.65,
-          "T1": 85.55,
-          "T2": 87.85,
-          "T3": 92.45,
-          "CAR Status": "Positive",
-          "Action": "Breakout + RSI 5-Star"
-        }
-      ]
+      "rows": []
     }
   }
 }
