@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-10-19T21:17:23.618523+00:00",
+  "generated_at": "2026-10-20T20:11:22.757873+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "19-10-2026",
+          "Date": "20-10-2026",
           "Stock": "DGE",
-          "CMP": 1761.5,
-          "30 DMA": 1640.5,
-          "50 DMA": 1670.2,
-          "200 DMA": 1592.72,
-          "200 DMA Dist %": 10.6,
-          "SL": 1584.73,
-          "T1": 2115.05,
-          "T2": 2291.82,
-          "T3": 2645.37,
+          "CMP": 1755.0,
+          "30 DMA": 1645.06,
+          "50 DMA": 1669.47,
+          "200 DMA": 1593.28,
+          "200 DMA Dist %": 10.15,
+          "SL": 1586.73,
+          "T1": 2091.55,
+          "T2": 2259.82,
+          "T3": 2596.37,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
