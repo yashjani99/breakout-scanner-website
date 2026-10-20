@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-10-18T23:32:54.231878+00:00",
+  "generated_at": "2026-10-20T00:32:48.122204+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,38 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "18-10-2026",
-          "Stock": "DIS",
-          "CMP": 110.59,
-          "30 DMA": 105.81,
-          "50 DMA": 106.11,
-          "200 DMA": 103.1,
-          "200 DMA Dist %": 7.26,
-          "SL": 101.32,
-          "T1": 129.13,
-          "T2": 138.4,
-          "T3": 156.94,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "18-10-2026",
-          "Stock": "PG",
-          "CMP": 159.35,
-          "30 DMA": 148.16,
-          "50 DMA": 146.87,
-          "200 DMA": 146.75,
-          "200 DMA Dist %": 8.59,
-          "SL": 144.38,
-          "T1": 189.29,
-          "T2": 204.26,
-          "T3": 234.2,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -67,80 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "18-10-2026",
-          "Stock": "V",
-          "CMP": 402.61,
-          "Monthly RSI": 75.4,
-          "Weekly RSI": 70.6,
-          "Signal Date": "02-10-2026",
-          "Entry": 361.38,
-          "SL": 356.75,
-          "T1 (RSI 60 Est.)": 407.24,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "18-10-2026",
-          "Stock": "KO",
-          "CMP": 93.9,
-          "Monthly RSI": 74.1,
-          "Weekly RSI": 70.0,
-          "Signal Date": "07-10-2026",
-          "Entry": 86.96,
-          "SL": 85.13,
-          "T1 (RSI 60 Est.)": 95.73,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "18-10-2026",
-          "Stock": "MA",
-          "CMP": 617.42,
-          "Monthly RSI": 70.9,
-          "Weekly RSI": 67.6,
-          "Signal Date": "02-10-2026",
-          "Entry": 553.84,
-          "SL": 544.58,
-          "T1 (RSI 60 Est.)": 626.68,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "18-10-2026",
-          "Stock": "PG",
-          "CMP": 159.35,
-          "Monthly RSI": 69.2,
-          "Weekly RSI": 67.4,
-          "Signal Date": "01-10-2026",
-          "Entry": 145.0,
-          "SL": 143.4,
-          "T1 (RSI 60 Est.)": 160.95,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "18-10-2026",
-          "Stock": "BRK-B",
-          "CMP": 532.02,
-          "Monthly RSI": 71.2,
-          "Weekly RSI": 64.7,
-          "Signal Date": "01-10-2026",
-          "Entry": 501.53,
-          "SL": 495.96,
-          "T1 (RSI 60 Est.)": 537.59,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "18-10-2026",
-          "Stock": "CRM",
-          "CMP": 240.7,
-          "Monthly RSI": 62.3,
-          "Weekly RSI": 61.3,
-          "Signal Date": "07-10-2026",
-          "Entry": 226.5,
-          "SL": 221.18,
-          "T1 (RSI 60 Est.)": 246.94,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
@@ -162,26 +58,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "18-10-2026",
-          "Stock": "PG",
-          "CMP": 159.35,
-          "30 DMA": 148.16,
-          "50 DMA": 146.87,
-          "200 DMA": 146.75,
-          "200 DMA Dist %": 8.59,
-          "Monthly RSI": 69.2,
-          "Weekly RSI": 67.4,
-          "Signal Date": "01-10-2026",
-          "SL": 144.38,
-          "T1": 189.29,
-          "T2": 204.26,
-          "T3": 234.2,
-          "CAR Status": "Positive",
-          "Action": "Breakout + RSI 5-Star"
-        }
-      ]
+      "rows": []
     }
   }
 }
