@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-10-20T20:11:22.757873+00:00",
+  "generated_at": "2026-10-21T20:24:08.624099+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,47 @@
       ],
       "rows": [
         {
-          "Date": "20-10-2026",
+          "Date": "21-10-2026",
+          "Stock": "ULVR",
+          "CMP": 4820.0,
+          "30 DMA": 4679.32,
+          "50 DMA": 4683.41,
+          "200 DMA": 4643.0,
+          "200 DMA Dist %": 3.81,
+          "SL": 4576.5,
+          "T1": 5307.0,
+          "T2": 5550.5,
+          "T3": 6037.5,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "21-10-2026",
           "Stock": "DGE",
-          "CMP": 1755.0,
-          "30 DMA": 1645.06,
-          "50 DMA": 1669.47,
-          "200 DMA": 1593.28,
-          "200 DMA Dist %": 10.15,
-          "SL": 1586.73,
-          "T1": 2091.55,
-          "T2": 2259.82,
-          "T3": 2596.37,
+          "CMP": 1740.5,
+          "30 DMA": 1649.82,
+          "50 DMA": 1668.96,
+          "200 DMA": 1594.1,
+          "200 DMA Dist %": 9.18,
+          "SL": 1589.73,
+          "T1": 2042.05,
+          "T2": 2192.82,
+          "T3": 2494.37,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "21-10-2026",
+          "Stock": "REL",
+          "CMP": 2973.0,
+          "30 DMA": 2622.97,
+          "50 DMA": 2607.32,
+          "200 DMA": 2556.5,
+          "200 DMA Dist %": 16.29,
+          "SL": 2580.0,
+          "T1": 3759.0,
+          "T2": 4152.0,
+          "T3": 4938.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
