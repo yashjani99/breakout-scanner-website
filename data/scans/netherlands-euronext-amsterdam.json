@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-10-20T20:27:12.509394+00:00",
+  "generated_at": "2026-10-21T20:32:02.755479+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "20-10-2026",
+          "Date": "21-10-2026",
           "Stock": "WKL",
-          "CMP": 83.72,
-          "30 DMA": 71.49,
-          "50 DMA": 70.46,
-          "200 DMA": 65.79,
-          "200 DMA Dist %": 27.26,
-          "SL": 68.84,
-          "T1": 113.48,
-          "T2": 128.36,
-          "T3": 158.12,
+          "CMP": 85.1,
+          "30 DMA": 72.1,
+          "50 DMA": 70.8,
+          "200 DMA": 65.77,
+          "200 DMA Dist %": 29.38,
+          "SL": 71.14,
+          "T1": 113.02,
+          "T2": 126.98,
+          "T3": 154.9,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,7 +52,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "21-10-2026",
+          "Stock": "ABN",
+          "CMP": 40.86,
+          "Monthly RSI": 75.8,
+          "Weekly RSI": 63.4,
+          "Signal Date": "20-10-2026",
+          "Entry": 40.79,
+          "SL": 39.62,
+          "T1 (RSI 60 Est.)": 43.24,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
