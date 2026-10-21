@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-10-20T20:14:39.748247+00:00",
+  "generated_at": "2026-10-21T20:25:28.967295+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "20-10-2026",
+          "Date": "21-10-2026",
           "Stock": "DSY",
-          "CMP": 23.19,
-          "30 DMA": 21.39,
-          "50 DMA": 21.63,
-          "200 DMA": 19.83,
-          "200 DMA Dist %": 16.97,
-          "SL": 21.28,
-          "T1": 27.01,
-          "T2": 28.92,
-          "T3": 32.74,
+          "CMP": 23.58,
+          "30 DMA": 21.5,
+          "50 DMA": 21.67,
+          "200 DMA": 19.82,
+          "200 DMA Dist %": 18.96,
+          "SL": 21.32,
+          "T1": 28.1,
+          "T2": 30.36,
+          "T3": 34.88,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "20-10-2026",
+          "Date": "21-10-2026",
           "Stock": "CAP",
-          "CMP": 123.0,
-          "30 DMA": 109.88,
-          "50 DMA": 109.06,
-          "200 DMA": 104.48,
-          "200 DMA Dist %": 17.72,
+          "CMP": 125.05,
+          "30 DMA": 110.68,
+          "50 DMA": 109.45,
+          "200 DMA": 104.38,
+          "200 DMA Dist %": 19.8,
           "SL": 108.7,
-          "T1": 151.6,
-          "T2": 165.9,
-          "T3": 194.5,
+          "T1": 157.75,
+          "T2": 174.1,
+          "T3": 206.8,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,15 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "20-10-2026",
+          "Date": "21-10-2026",
           "Stock": "TTE",
-          "CMP": 79.94,
-          "Monthly RSI": 63.6,
-          "Weekly RSI": 60.5,
+          "CMP": 80.9,
+          "Monthly RSI": 64.3,
+          "Weekly RSI": 62.4,
           "Signal Date": "07-10-2026",
           "Entry": 76.49,
           "SL": 73.45,
-          "T1 (RSI 60 Est.)": 82.98,
+          "T1 (RSI 60 Est.)": 83.94,
           "Action": "RSI 5-Star Setup"
         }
       ]
