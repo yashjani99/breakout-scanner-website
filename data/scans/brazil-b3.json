@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-10-21T23:29:14.077115+00:00",
+  "generated_at": "2026-10-22T23:29:02.923669+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "21-10-2026",
-          "Stock": "RADL3",
-          "CMP": 21.12,
-          "30 DMA": 19.97,
-          "50 DMA": 19.47,
-          "200 DMA": 20.82,
-          "200 DMA Dist %": 1.46,
-          "SL": 20.05,
-          "T1": 23.26,
-          "T2": 24.33,
-          "T3": 26.47,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "21-10-2026",
+          "Date": "22-10-2026",
           "Stock": "BBAS3",
-          "CMP": 24.1,
-          "30 DMA": 23.23,
-          "50 DMA": 21.8,
-          "200 DMA": 22.01,
-          "200 DMA Dist %": 9.5,
+          "CMP": 23.92,
+          "30 DMA": 23.29,
+          "50 DMA": 21.9,
+          "200 DMA": 22.02,
+          "200 DMA Dist %": 8.62,
           "SL": 23.29,
-          "T1": 25.72,
-          "T2": 26.53,
-          "T3": 28.15,
+          "T1": 25.18,
+          "T2": 25.81,
+          "T3": 27.07,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,20 +52,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "21-10-2026",
-          "Stock": "GGBR4",
-          "CMP": 26.52,
-          "Monthly RSI": 76.6,
-          "Weekly RSI": 62.8,
-          "Signal Date": "30-09-2026",
-          "Entry": 24.77,
-          "SL": 24.04,
-          "T1 (RSI 60 Est.)": 27.25,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
