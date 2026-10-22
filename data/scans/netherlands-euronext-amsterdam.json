@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-10-21T20:32:02.755479+00:00",
+  "generated_at": "2026-10-22T20:29:27.100494+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "21-10-2026",
+          "Date": "22-10-2026",
+          "Stock": "HEIA",
+          "CMP": 77.9,
+          "30 DMA": 72.06,
+          "50 DMA": 72.22,
+          "200 DMA": 70.96,
+          "200 DMA Dist %": 9.77,
+          "SL": 70.68,
+          "T1": 92.34,
+          "T2": 99.56,
+          "T3": 114.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "22-10-2026",
           "Stock": "WKL",
-          "CMP": 85.1,
-          "30 DMA": 72.1,
-          "50 DMA": 70.8,
-          "200 DMA": 65.77,
-          "200 DMA Dist %": 29.38,
-          "SL": 71.14,
-          "T1": 113.02,
-          "T2": 126.98,
-          "T3": 154.9,
+          "CMP": 86.8,
+          "30 DMA": 72.79,
+          "50 DMA": 71.19,
+          "200 DMA": 65.78,
+          "200 DMA Dist %": 31.96,
+          "SL": 72.48,
+          "T1": 115.44,
+          "T2": 129.76,
+          "T3": 158.4,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,20 +67,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "21-10-2026",
-          "Stock": "ABN",
-          "CMP": 40.86,
-          "Monthly RSI": 75.8,
-          "Weekly RSI": 63.4,
-          "Signal Date": "20-10-2026",
-          "Entry": 40.79,
-          "SL": 39.62,
-          "T1 (RSI 60 Est.)": 43.24,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
