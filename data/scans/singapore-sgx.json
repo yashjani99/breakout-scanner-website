@@ -1,7 +1,7 @@
 {
   "market": "Singapore (SGX)",
   "currency": "SGD",
-  "generated_at": "2026-10-22T14:36:10.773443+00:00",
+  "generated_at": "2026-10-23T14:20:29.281238+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
