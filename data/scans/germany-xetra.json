@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-10-23T20:10:09.272489+00:00",
+  "generated_at": "2026-10-24T19:10:49.639042+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "23-10-2026",
+          "Date": "24-10-2026",
           "Stock": "BAS",
           "CMP": 52.45,
           "30 DMA": 51.59,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "23-10-2026",
+          "Date": "24-10-2026",
           "Stock": "HEN3",
           "CMP": 78.7,
           "30 DMA": 74.93,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "23-10-2026",
+          "Date": "24-10-2026",
           "Stock": "SAP",
           "CMP": 214.4,
           "30 DMA": 191.49,
