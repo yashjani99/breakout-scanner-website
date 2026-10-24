@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-10-23T20:19:05.996565+00:00",
+  "generated_at": "2026-10-24T19:24:27.654493+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "23-10-2026",
+          "Date": "24-10-2026",
           "Stock": "HEIA",
           "CMP": 77.52,
           "30 DMA": 72.3,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "23-10-2026",
+          "Date": "24-10-2026",
           "Stock": "WKL",
           "CMP": 88.18,
           "30 DMA": 73.52,
