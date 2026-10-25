@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-10-24T19:10:57.016175+00:00",
+  "generated_at": "2026-10-25T19:24:40.544978+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "CAP",
           "CMP": 123.95,
           "30 DMA": 112.22,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "DSY",
           "CMP": 24.44,
           "30 DMA": 21.76,
@@ -69,7 +69,7 @@
       ],
       "rows": [
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "TTE",
           "CMP": 83.45,
           "Monthly RSI": 66.1,
