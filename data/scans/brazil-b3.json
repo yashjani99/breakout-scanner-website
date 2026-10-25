@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-10-24T22:36:18.660377+00:00",
+  "generated_at": "2026-10-25T22:41:23.707894+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "BBAS3",
           "CMP": 24.72,
           "30 DMA": 23.35,
