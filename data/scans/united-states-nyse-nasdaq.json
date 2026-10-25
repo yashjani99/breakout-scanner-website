@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-10-24T23:33:38.574145+00:00",
+  "generated_at": "2026-10-25T23:28:10.528537+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "WMT",
           "CMP": 119.89,
           "30 DMA": 110.86,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "COST",
           "CMP": 1003.32,
           "30 DMA": 939.6,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "DIS",
           "CMP": 112.52,
           "30 DMA": 106.87,
@@ -84,7 +84,7 @@
       ],
       "rows": [
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "KO",
           "CMP": 92.71,
           "Monthly RSI": 73.3,
@@ -96,7 +96,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "UNH",
           "CMP": 418.09,
           "Monthly RSI": 62.5,
@@ -108,7 +108,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "CRM",
           "CMP": 248.57,
           "Monthly RSI": 63.1,
