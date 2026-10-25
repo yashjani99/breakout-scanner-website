@@ -1,7 +1,7 @@
 {
   "market": "Hong Kong (HKEX)",
   "currency": "HKD",
-  "generated_at": "2026-10-24T12:52:15.279243+00:00",
+  "generated_at": "2026-10-25T13:18:46.216728+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "24-10-2026",
+          "Date": "25-10-2026",
           "Stock": "0006",
           "CMP": 60.55,
           "30 DMA": 60.11,
