@@ -1,7 +1,7 @@
 {
   "market": "Hong Kong (HKEX)",
   "currency": "HKD",
-  "generated_at": "2026-10-25T13:18:46.216728+00:00",
+  "generated_at": "2026-10-26T15:23:07.628311+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "25-10-2026",
+          "Date": "26-10-2026",
           "Stock": "0006",
-          "CMP": 60.55,
-          "30 DMA": 60.11,
-          "50 DMA": 59.95,
-          "200 DMA": 58.77,
-          "200 DMA Dist %": 3.02,
-          "SL": 58.85,
-          "T1": 63.95,
-          "T2": 65.65,
-          "T3": 69.05,
+          "CMP": 62.1,
+          "30 DMA": 60.14,
+          "50 DMA": 60.03,
+          "200 DMA": 58.82,
+          "200 DMA Dist %": 5.58,
+          "SL": 59.7,
+          "T1": 66.9,
+          "T2": 69.3,
+          "T3": 74.1,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,7 +52,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "26-10-2026",
+          "Stock": "0006",
+          "CMP": 62.1,
+          "Monthly RSI": 63.9,
+          "Weekly RSI": 61.0,
+          "Signal Date": "05-10-2026",
+          "Entry": 59.75,
+          "SL": 58.7,
+          "T1 (RSI 60 Est.)": 63.15,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
@@ -74,7 +87,26 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "26-10-2026",
+          "Stock": "0006",
+          "CMP": 62.1,
+          "30 DMA": 60.14,
+          "50 DMA": 60.03,
+          "200 DMA": 58.82,
+          "200 DMA Dist %": 5.58,
+          "Monthly RSI": 63.9,
+          "Weekly RSI": 61.0,
+          "Signal Date": "05-10-2026",
+          "SL": 59.7,
+          "T1": 66.9,
+          "T2": 69.3,
+          "T3": 74.1,
+          "CAR Status": "Positive",
+          "Action": "Breakout + RSI 5-Star"
+        }
+      ]
     }
   }
 }
