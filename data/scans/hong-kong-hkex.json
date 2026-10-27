@@ -1,7 +1,7 @@
 {
   "market": "Hong Kong (HKEX)",
   "currency": "HKD",
-  "generated_at": "2026-10-26T15:23:07.628311+00:00",
+  "generated_at": "2026-10-27T14:50:08.554242+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "26-10-2026",
+          "Date": "27-10-2026",
           "Stock": "0006",
-          "CMP": 62.1,
-          "30 DMA": 60.14,
-          "50 DMA": 60.03,
-          "200 DMA": 58.82,
-          "200 DMA Dist %": 5.58,
+          "CMP": 63.35,
+          "30 DMA": 60.21,
+          "50 DMA": 60.12,
+          "200 DMA": 58.87,
+          "200 DMA Dist %": 7.61,
           "SL": 59.7,
-          "T1": 66.9,
-          "T2": 69.3,
-          "T3": 74.1,
+          "T1": 70.65,
+          "T2": 74.3,
+          "T3": 81.6,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,20 +52,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "26-10-2026",
-          "Stock": "0006",
-          "CMP": 62.1,
-          "Monthly RSI": 63.9,
-          "Weekly RSI": 61.0,
-          "Signal Date": "05-10-2026",
-          "Entry": 59.75,
-          "SL": 58.7,
-          "T1 (RSI 60 Est.)": 63.15,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
@@ -87,26 +74,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "26-10-2026",
-          "Stock": "0006",
-          "CMP": 62.1,
-          "30 DMA": 60.14,
-          "50 DMA": 60.03,
-          "200 DMA": 58.82,
-          "200 DMA Dist %": 5.58,
-          "Monthly RSI": 63.9,
-          "Weekly RSI": 61.0,
-          "Signal Date": "05-10-2026",
-          "SL": 59.7,
-          "T1": 66.9,
-          "T2": 69.3,
-          "T3": 74.1,
-          "CAR Status": "Positive",
-          "Action": "Breakout + RSI 5-Star"
-        }
-      ]
+      "rows": []
     }
   }
 }
