@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-10-26T21:35:06.553571+00:00",
+  "generated_at": "2026-10-27T21:13:30.390921+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "26-10-2026",
-          "Stock": "NOVN",
-          "CMP": 127.48,
-          "30 DMA": 120.33,
-          "50 DMA": 121.61,
-          "200 DMA": 120.39,
-          "200 DMA Dist %": 5.89,
-          "SL": 118.58,
-          "T1": 145.28,
-          "T2": 154.18,
-          "T3": 171.98,
+          "Date": "27-10-2026",
+          "Stock": "NESN",
+          "CMP": 83.25,
+          "30 DMA": 78.5,
+          "50 DMA": 78.64,
+          "200 DMA": 78.2,
+          "200 DMA Dist %": 6.46,
+          "SL": 77.25,
+          "T1": 95.25,
+          "T2": 101.25,
+          "T3": 113.25,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "26-10-2026",
-          "Stock": "NESN",
-          "CMP": 83.73,
-          "30 DMA": 78.32,
-          "50 DMA": 78.56,
-          "200 DMA": 78.14,
-          "200 DMA Dist %": 7.15,
-          "SL": 76.96,
-          "T1": 97.27,
-          "T2": 104.04,
-          "T3": 117.58,
+          "Date": "27-10-2026",
+          "Stock": "NOVN",
+          "CMP": 128.78,
+          "30 DMA": 120.83,
+          "50 DMA": 121.67,
+          "200 DMA": 120.48,
+          "200 DMA Dist %": 6.89,
+          "SL": 118.58,
+          "T1": 149.18,
+          "T2": 159.38,
+          "T3": 179.78,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,15 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "26-10-2026",
+          "Date": "27-10-2026",
           "Stock": "ZURN",
-          "CMP": 619.2,
-          "Monthly RSI": 73.7,
-          "Weekly RSI": 61.8,
+          "CMP": 616.0,
+          "Monthly RSI": 73.5,
+          "Weekly RSI": 60.6,
           "Signal Date": "09-10-2026",
           "Entry": 580.8,
           "SL": 558.2,
-          "T1 (RSI 60 Est.)": 641.8,
+          "T1 (RSI 60 Est.)": 638.6,
           "Action": "RSI 5-Star Setup"
         }
       ]
