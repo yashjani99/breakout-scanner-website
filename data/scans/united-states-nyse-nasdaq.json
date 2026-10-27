@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-10-25T23:28:10.528537+00:00",
+  "generated_at": "2026-10-27T00:41:53.098436+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,53 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "25-10-2026",
-          "Stock": "WMT",
-          "CMP": 119.89,
-          "30 DMA": 110.86,
-          "50 DMA": 109.4,
-          "200 DMA": 118.04,
-          "200 DMA Dist %": 1.57,
-          "SL": 111.31,
-          "T1": 137.05,
-          "T2": 145.63,
-          "T3": 162.79,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "25-10-2026",
-          "Stock": "COST",
-          "CMP": 1003.32,
-          "30 DMA": 939.6,
-          "50 DMA": 938.86,
-          "200 DMA": 967.64,
-          "200 DMA Dist %": 3.69,
-          "SL": 946.7,
-          "T1": 1116.56,
-          "T2": 1173.18,
-          "T3": 1286.42,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "25-10-2026",
-          "Stock": "DIS",
-          "CMP": 112.52,
-          "30 DMA": 106.87,
-          "50 DMA": 106.9,
-          "200 DMA": 103.08,
-          "200 DMA Dist %": 9.16,
-          "SL": 107.56,
-          "T1": 122.44,
-          "T2": 127.4,
-          "T3": 137.32,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -82,44 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "25-10-2026",
-          "Stock": "KO",
-          "CMP": 92.71,
-          "Monthly RSI": 73.3,
-          "Weekly RSI": 66.8,
-          "Signal Date": "07-10-2026",
-          "Entry": 86.96,
-          "SL": 85.13,
-          "T1 (RSI 60 Est.)": 94.54,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "25-10-2026",
-          "Stock": "UNH",
-          "CMP": 418.09,
-          "Monthly RSI": 62.5,
-          "Weekly RSI": 64.1,
-          "Signal Date": "08-10-2026",
-          "Entry": 376.45,
-          "SL": 362.6,
-          "T1 (RSI 60 Est.)": 431.94,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "25-10-2026",
-          "Stock": "CRM",
-          "CMP": 248.57,
-          "Monthly RSI": 63.1,
-          "Weekly RSI": 63.6,
-          "Signal Date": "07-10-2026",
-          "Entry": 226.5,
-          "SL": 221.18,
-          "T1 (RSI 60 Est.)": 253.89,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
