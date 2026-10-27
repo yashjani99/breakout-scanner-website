@@ -1,7 +1,7 @@
 {
   "market": "Japan (Tokyo)",
   "currency": "JPY",
-  "generated_at": "2026-10-26T14:05:23.767473+00:00",
+  "generated_at": "2026-10-27T13:06:02.001622+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "26-10-2026",
+          "Date": "27-10-2026",
           "Stock": "6758",
-          "CMP": 4135.0,
-          "30 DMA": 3800.86,
-          "50 DMA": 3806.76,
-          "200 DMA": 3533.86,
-          "200 DMA Dist %": 17.01,
-          "SL": 3787.0,
-          "T1": 4831.0,
-          "T2": 5179.0,
-          "T3": 5875.0,
+          "CMP": 4070.0,
+          "30 DMA": 3816.27,
+          "50 DMA": 3813.28,
+          "200 DMA": 3534.16,
+          "200 DMA Dist %": 15.16,
+          "SL": 3809.0,
+          "T1": 4592.0,
+          "T2": 4853.0,
+          "T3": 5375.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "26-10-2026",
+          "Date": "27-10-2026",
           "Stock": "4661",
-          "CMP": 3275.0,
-          "30 DMA": 3040.74,
-          "50 DMA": 3026.18,
-          "200 DMA": 2705.77,
-          "200 DMA Dist %": 21.04,
+          "CMP": 3232.0,
+          "30 DMA": 3043.99,
+          "50 DMA": 3031.33,
+          "200 DMA": 2707.44,
+          "200 DMA Dist %": 19.37,
           "SL": 2967.0,
-          "T1": 3891.0,
-          "T2": 4199.0,
-          "T3": 4815.0,
+          "T1": 3762.0,
+          "T2": 4027.0,
+          "T3": 4557.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,15 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "26-10-2026",
+          "Date": "27-10-2026",
           "Stock": "8001",
-          "CMP": 2370.5,
-          "Monthly RSI": 67.6,
-          "Weekly RSI": 71.3,
+          "CMP": 2366.0,
+          "Monthly RSI": 67.5,
+          "Weekly RSI": 71.1,
           "Signal Date": "08-10-2026",
           "Entry": 2138.5,
           "SL": 2100.0,
-          "T1 (RSI 60 Est.)": 2409.0,
+          "T1 (RSI 60 Est.)": 2404.5,
           "Action": "RSI 5-Star Setup"
         }
       ]
