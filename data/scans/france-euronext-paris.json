@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-10-27T21:03:54.046538+00:00",
+  "generated_at": "2026-10-28T21:28:30.304058+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "27-10-2026",
+          "Date": "28-10-2026",
           "Stock": "AI",
-          "CMP": 174.44,
-          "30 DMA": 169.78,
-          "50 DMA": 169.45,
-          "200 DMA": 163.29,
-          "200 DMA Dist %": 6.83,
-          "SL": 168.96,
-          "T1": 185.4,
-          "T2": 190.88,
-          "T3": 201.84,
+          "CMP": 174.24,
+          "30 DMA": 170.04,
+          "50 DMA": 169.6,
+          "200 DMA": 163.45,
+          "200 DMA Dist %": 6.6,
+          "SL": 170.16,
+          "T1": 182.4,
+          "T2": 186.48,
+          "T3": 194.64,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "27-10-2026",
+          "Date": "28-10-2026",
           "Stock": "CAP",
-          "CMP": 122.8,
-          "30 DMA": 113.18,
-          "50 DMA": 110.85,
-          "200 DMA": 104.05,
-          "200 DMA Dist %": 18.02,
+          "CMP": 122.45,
+          "30 DMA": 113.74,
+          "50 DMA": 111.09,
+          "200 DMA": 103.97,
+          "200 DMA Dist %": 17.77,
           "SL": 117.2,
-          "T1": 134.0,
-          "T2": 139.6,
-          "T3": 150.8,
+          "T1": 132.95,
+          "T2": 138.2,
+          "T3": 148.7,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,20 +67,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "27-10-2026",
-          "Stock": "TTE",
-          "CMP": 83.0,
-          "Monthly RSI": 65.8,
-          "Weekly RSI": 64.4,
-          "Signal Date": "07-10-2026",
-          "Entry": 76.49,
-          "SL": 73.45,
-          "T1 (RSI 60 Est.)": 86.04,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
