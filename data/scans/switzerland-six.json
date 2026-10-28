@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-10-27T21:13:30.390921+00:00",
+  "generated_at": "2026-10-28T21:37:16.023334+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "27-10-2026",
+          "Date": "28-10-2026",
           "Stock": "NESN",
-          "CMP": 83.25,
-          "30 DMA": 78.5,
-          "50 DMA": 78.64,
-          "200 DMA": 78.2,
-          "200 DMA Dist %": 6.46,
-          "SL": 77.25,
-          "T1": 95.25,
-          "T2": 101.25,
-          "T3": 113.25,
+          "CMP": 82.81,
+          "30 DMA": 78.67,
+          "50 DMA": 78.71,
+          "200 DMA": 78.24,
+          "200 DMA Dist %": 5.83,
+          "SL": 79.4,
+          "T1": 89.63,
+          "T2": 93.04,
+          "T3": 99.86,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "27-10-2026",
+          "Date": "28-10-2026",
           "Stock": "NOVN",
-          "CMP": 128.78,
-          "30 DMA": 120.83,
-          "50 DMA": 121.67,
-          "200 DMA": 120.48,
-          "200 DMA Dist %": 6.89,
-          "SL": 118.58,
-          "T1": 149.18,
-          "T2": 159.38,
-          "T3": 179.78,
+          "CMP": 129.22,
+          "30 DMA": 121.32,
+          "50 DMA": 121.71,
+          "200 DMA": 120.57,
+          "200 DMA Dist %": 7.18,
+          "SL": 123.3,
+          "T1": 141.06,
+          "T2": 146.98,
+          "T3": 158.82,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,15 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "27-10-2026",
+          "Date": "28-10-2026",
           "Stock": "ZURN",
-          "CMP": 616.0,
-          "Monthly RSI": 73.5,
-          "Weekly RSI": 60.6,
+          "CMP": 618.4,
+          "Monthly RSI": 73.6,
+          "Weekly RSI": 61.6,
           "Signal Date": "09-10-2026",
           "Entry": 580.8,
           "SL": 558.2,
-          "T1 (RSI 60 Est.)": 638.6,
+          "T1 (RSI 60 Est.)": 641.0,
           "Action": "RSI 5-Star Setup"
         }
       ]
