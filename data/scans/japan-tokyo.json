@@ -1,7 +1,7 @@
 {
   "market": "Japan (Tokyo)",
   "currency": "JPY",
-  "generated_at": "2026-10-28T13:56:29.342853+00:00",
+  "generated_at": "2026-10-29T14:03:37.212165+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "28-10-2026",
+          "Date": "29-10-2026",
           "Stock": "6758",
-          "CMP": 3957.0,
-          "30 DMA": 3827.41,
-          "50 DMA": 3818.77,
-          "200 DMA": 3533.97,
-          "200 DMA Dist %": 11.97,
-          "SL": 3809.0,
-          "T1": 4253.0,
-          "T2": 4401.0,
-          "T3": 4697.0,
+          "CMP": 3936.0,
+          "30 DMA": 3838.12,
+          "50 DMA": 3819.62,
+          "200 DMA": 3533.7,
+          "200 DMA Dist %": 11.38,
+          "SL": 3883.0,
+          "T1": 4042.0,
+          "T2": 4095.0,
+          "T3": 4201.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "28-10-2026",
+          "Date": "29-10-2026",
           "Stock": "4661",
-          "CMP": 3168.0,
-          "30 DMA": 3044.12,
-          "50 DMA": 3034.83,
-          "200 DMA": 2708.94,
-          "200 DMA Dist %": 16.95,
-          "SL": 3028.0,
-          "T1": 3448.0,
-          "T2": 3588.0,
-          "T3": 3868.0,
+          "CMP": 3170.0,
+          "30 DMA": 3047.24,
+          "50 DMA": 3039.06,
+          "200 DMA": 2710.38,
+          "200 DMA Dist %": 16.96,
+          "SL": 3114.0,
+          "T1": 3282.0,
+          "T2": 3338.0,
+          "T3": 3450.0,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,15 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "28-10-2026",
+          "Date": "29-10-2026",
           "Stock": "8001",
-          "CMP": 2311.0,
-          "Monthly RSI": 66.1,
-          "Weekly RSI": 68.5,
+          "CMP": 2321.5,
+          "Monthly RSI": 66.4,
+          "Weekly RSI": 69.1,
           "Signal Date": "08-10-2026",
           "Entry": 2138.5,
           "SL": 2100.0,
-          "T1 (RSI 60 Est.)": 2349.5,
+          "T1 (RSI 60 Est.)": 2360.0,
           "Action": "RSI 5-Star Setup"
         }
       ]
