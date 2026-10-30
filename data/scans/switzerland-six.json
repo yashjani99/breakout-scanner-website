@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-10-29T21:44:48.396937+00:00",
+  "generated_at": "2026-10-30T21:26:08.383895+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "29-10-2026",
+          "Date": "30-10-2026",
           "Stock": "NESN",
-          "CMP": 82.81,
-          "30 DMA": 78.82,
-          "50 DMA": 78.78,
-          "200 DMA": 78.29,
-          "200 DMA Dist %": 5.77,
-          "SL": 81.27,
-          "T1": 85.89,
-          "T2": 87.43,
-          "T3": 90.51,
+          "CMP": 84.7,
+          "30 DMA": 79.1,
+          "50 DMA": 78.88,
+          "200 DMA": 78.35,
+          "200 DMA Dist %": 8.1,
+          "SL": 81.66,
+          "T1": 90.78,
+          "T2": 93.82,
+          "T3": 99.9,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,20 +52,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "29-10-2026",
-          "Stock": "ZURN",
-          "CMP": 621.4,
-          "Monthly RSI": 73.8,
-          "Weekly RSI": 62.3,
-          "Signal Date": "09-10-2026",
-          "Entry": 580.8,
-          "SL": 558.2,
-          "T1 (RSI 60 Est.)": 644.0,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
