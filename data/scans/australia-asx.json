@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-10-30T13:16:15.862010+00:00",
+  "generated_at": "2026-10-31T12:53:19.207149+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "30-10-2026",
+          "Date": "31-10-2026",
           "Stock": "WDS",
           "CMP": 33.33,
           "30 DMA": 32.37,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "30-10-2026",
+          "Date": "31-10-2026",
           "Stock": "ALL",
           "CMP": 64.39,
           "30 DMA": 61.38,
