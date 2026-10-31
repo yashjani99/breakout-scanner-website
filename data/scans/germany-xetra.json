@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-10-30T21:16:42.764362+00:00",
+  "generated_at": "2026-10-31T20:22:25.453109+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "30-10-2026",
+          "Date": "31-10-2026",
           "Stock": "BAS",
           "CMP": 53.46,
           "30 DMA": 51.71,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "30-10-2026",
+          "Date": "31-10-2026",
           "Stock": "FRE",
           "CMP": 47.79,
           "30 DMA": 44.85,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "30-10-2026",
+          "Date": "31-10-2026",
           "Stock": "HEN3",
           "CMP": 80.14,
           "30 DMA": 75.8,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "30-10-2026",
+          "Date": "31-10-2026",
           "Stock": "SAP",
           "CMP": 211.25,
           "30 DMA": 195.68,
@@ -99,7 +99,7 @@
       ],
       "rows": [
         {
-          "Date": "30-10-2026",
+          "Date": "31-10-2026",
           "Stock": "ALV",
           "CMP": 438.7,
           "Monthly RSI": 71.7,
@@ -111,7 +111,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "30-10-2026",
+          "Date": "31-10-2026",
           "Stock": "FRE",
           "CMP": 47.79,
           "Monthly RSI": 60.6,
@@ -146,7 +146,7 @@
       ],
       "rows": [
         {
-          "Date": "30-10-2026",
+          "Date": "31-10-2026",
           "Stock": "FRE",
           "CMP": 47.79,
           "30 DMA": 44.85,
