@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-10-31T00:58:57.783377+00:00",
+  "generated_at": "2026-11-01T00:20:29.416857+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "TRP",
           "CMP": 90.16,
           "30 DMA": 85.59,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "CM",
           "CMP": 162.95,
           "30 DMA": 159.2,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "CSU",
           "CMP": 3393.39,
           "30 DMA": 3072.45,
@@ -84,7 +84,7 @@
       ],
       "rows": [
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "POW",
           "CMP": 96.6,
           "Monthly RSI": 85.6,
@@ -96,7 +96,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "TD",
           "CMP": 174.04,
           "Monthly RSI": 91.5,
@@ -108,7 +108,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "WCN",
           "CMP": 256.84,
           "Monthly RSI": 68.9,
@@ -120,7 +120,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "SLF",
           "CMP": 113.17,
           "Monthly RSI": 83.1,
