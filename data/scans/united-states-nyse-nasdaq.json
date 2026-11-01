@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-10-31T00:58:14.111185+00:00",
+  "generated_at": "2026-11-01T00:19:31.959266+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,68 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "01-11-2026",
+          "Stock": "WMT",
+          "CMP": 123.51,
+          "30 DMA": 113.02,
+          "50 DMA": 110.23,
+          "200 DMA": 118.14,
+          "200 DMA Dist %": 4.54,
+          "SL": 116.63,
+          "T1": 137.27,
+          "T2": 144.15,
+          "T3": 157.91,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "01-11-2026",
+          "Stock": "COST",
+          "CMP": 1012.28,
+          "30 DMA": 954.41,
+          "50 DMA": 941.94,
+          "200 DMA": 967.88,
+          "200 DMA Dist %": 4.59,
+          "SL": 978.87,
+          "T1": 1079.09,
+          "T2": 1112.5,
+          "T3": 1179.31,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "01-11-2026",
+          "Stock": "DIS",
+          "CMP": 110.94,
+          "30 DMA": 107.59,
+          "50 DMA": 107.35,
+          "200 DMA": 103.01,
+          "200 DMA Dist %": 7.7,
+          "SL": 108.75,
+          "T1": 115.32,
+          "T2": 117.51,
+          "T3": 121.89,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "01-11-2026",
+          "Stock": "UNH",
+          "CMP": 406.97,
+          "30 DMA": 390.13,
+          "50 DMA": 389.47,
+          "200 DMA": 359.62,
+          "200 DMA Dist %": 13.17,
+          "SL": 399.2,
+          "T1": 422.51,
+          "T2": 430.28,
+          "T3": 445.82,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +97,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "01-11-2026",
+          "Stock": "JNJ",
+          "CMP": 273.2,
+          "Monthly RSI": 75.8,
+          "Weekly RSI": 60.9,
+          "Signal Date": "19-10-2026",
+          "Entry": 255.56,
+          "SL": 245.17,
+          "T1 (RSI 60 Est.)": 283.59,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
