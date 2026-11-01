@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-10-31T15:51:24.859390+00:00",
+  "generated_at": "2026-11-01T16:55:38.235010+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "TCS",
           "CMP": 2502.6,
           "30 DMA": 2245.19,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "UNIONBANK",
           "CMP": 186.0,
           "30 DMA": 176.28,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "APLAPOLLO",
           "CMP": 2165.1,
           "30 DMA": 2151.01,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "MPHASIS",
           "CMP": 2525.6,
           "30 DMA": 2377.02,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "DRREDDY",
           "CMP": 1352.0,
           "30 DMA": 1234.39,
@@ -97,7 +97,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "PNB",
           "CMP": 122.85,
           "30 DMA": 117.26,
@@ -112,7 +112,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "HCLTECH",
           "CMP": 1428.1,
           "30 DMA": 1295.43,
@@ -127,7 +127,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "DLF",
           "CMP": 691.55,
           "30 DMA": 664.73,
@@ -142,7 +142,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "PERSISTENT",
           "CMP": 6048.0,
           "30 DMA": 5608.48,
@@ -174,7 +174,7 @@
       ],
       "rows": [
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "DIVISLAB",
           "CMP": 9780.0,
           "Monthly RSI": 78.8,
@@ -186,7 +186,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "INDHOTEL",
           "CMP": 811.65,
           "Monthly RSI": 76.5,
@@ -198,7 +198,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "SONACOMS",
           "CMP": 890.5,
           "Monthly RSI": 71.3,
@@ -210,7 +210,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "TECHM",
           "CMP": 1790.8,
           "Monthly RSI": 66.8,
@@ -222,7 +222,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "ZYDUSLIFE",
           "CMP": 1245.5,
           "Monthly RSI": 65.1,
@@ -234,7 +234,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "ETERNAL",
           "CMP": 343.65,
           "Monthly RSI": 76.1,
@@ -246,7 +246,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "NYKAA",
           "CMP": 349.35,
           "Monthly RSI": 65.1,
