@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-10-31T20:25:57.797896+00:00",
+  "generated_at": "2026-11-01T21:06:17.547383+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "NESN",
           "CMP": 84.7,
           "30 DMA": 79.1,
