@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-10-31T20:20:55.995588+00:00",
+  "generated_at": "2026-11-01T20:53:34.699775+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "BATS",
           "CMP": 4592.0,
           "30 DMA": 4269.73,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "ULVR",
           "CMP": 4870.5,
           "30 DMA": 4739.98,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "DGE",
           "CMP": 1757.0,
           "30 DMA": 1682.88,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "EXPN",
           "CMP": 2987.0,
           "30 DMA": 2725.43,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "31-10-2026",
+          "Date": "01-11-2026",
           "Stock": "REL",
           "CMP": 2992.0,
           "30 DMA": 2725.7,
