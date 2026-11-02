@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-11-01T00:19:31.959266+00:00",
+  "generated_at": "2026-11-02T00:58:46.061095+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "01-11-2026",
+          "Date": "02-11-2026",
           "Stock": "WMT",
           "CMP": 123.51,
           "30 DMA": 113.02,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "01-11-2026",
+          "Date": "02-11-2026",
           "Stock": "COST",
           "CMP": 1012.28,
           "30 DMA": 954.41,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "01-11-2026",
+          "Date": "02-11-2026",
           "Stock": "DIS",
           "CMP": 110.94,
           "30 DMA": 107.59,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "01-11-2026",
+          "Date": "02-11-2026",
           "Stock": "UNH",
           "CMP": 406.97,
           "30 DMA": 390.13,
@@ -99,7 +99,7 @@
       ],
       "rows": [
         {
-          "Date": "01-11-2026",
+          "Date": "02-11-2026",
           "Stock": "JNJ",
           "CMP": 273.2,
           "Monthly RSI": 75.8,
