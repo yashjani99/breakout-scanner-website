@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-11-02T23:45:07.213463+00:00",
+  "generated_at": "2026-11-03T22:09:54.306541+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "03-11-2026",
+          "Stock": "CAP",
+          "CMP": 125.2,
+          "30 DMA": 116.39,
+          "50 DMA": 112.32,
+          "200 DMA": 103.87,
+          "200 DMA Dist %": 20.53,
+          "SL": 120.05,
+          "T1": 135.5,
+          "T2": 140.65,
+          "T3": 150.95,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
