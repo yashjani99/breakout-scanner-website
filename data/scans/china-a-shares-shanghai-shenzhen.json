@@ -1,7 +1,7 @@
 {
   "market": "China A-Shares (Shanghai/Shenzhen)",
   "currency": "CNY",
-  "generated_at": "2026-11-03T15:23:45.026099+00:00",
+  "generated_at": "2026-11-04T15:38:41.155601+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "03-11-2026",
+          "Date": "04-11-2026",
           "Stock": "600519",
-          "CMP": 1480.0,
-          "30 DMA": 1303.97,
-          "50 DMA": 1301.41,
-          "200 DMA": 1325.87,
-          "200 DMA Dist %": 11.62,
+          "CMP": 1446.44,
+          "30 DMA": 1309.76,
+          "50 DMA": 1304.37,
+          "200 DMA": 1326.14,
+          "200 DMA Dist %": 9.07,
           "SL": 1296.0,
-          "T1": 1848.0,
-          "T2": 2032.0,
-          "T3": 2400.0,
+          "T1": 1747.32,
+          "T2": 1897.76,
+          "T3": 2198.64,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "03-11-2026",
+          "Date": "04-11-2026",
           "Stock": "601288",
-          "CMP": 7.5,
-          "30 DMA": 7.08,
-          "50 DMA": 6.94,
+          "CMP": 7.31,
+          "30 DMA": 7.1,
+          "50 DMA": 6.96,
           "200 DMA": 6.6,
-          "200 DMA Dist %": 13.68,
+          "200 DMA Dist %": 10.8,
           "SL": 7.11,
-          "T1": 8.28,
-          "T2": 8.67,
-          "T3": 9.45,
+          "T1": 7.71,
+          "T2": 7.91,
+          "T3": 8.31,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
