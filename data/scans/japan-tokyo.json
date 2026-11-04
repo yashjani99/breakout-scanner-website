@@ -1,7 +1,7 @@
 {
   "market": "Japan (Tokyo)",
   "currency": "JPY",
-  "generated_at": "2026-11-03T14:57:26.930887+00:00",
+  "generated_at": "2026-11-04T15:18:15.702327+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,38 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "03-11-2026",
-          "Stock": "6758",
-          "CMP": 3966.0,
-          "30 DMA": 3853.01,
-          "50 DMA": 3828.86,
-          "200 DMA": 3532.73,
-          "200 DMA Dist %": 12.26,
-          "SL": 3883.0,
-          "T1": 4132.0,
-          "T2": 4215.0,
-          "T3": 4381.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "03-11-2026",
-          "Stock": "4661",
-          "CMP": 3482.0,
-          "30 DMA": 3072.76,
-          "50 DMA": 3062.0,
-          "200 DMA": 2715.7,
-          "200 DMA Dist %": 28.22,
-          "SL": 3114.0,
-          "T1": 4218.0,
-          "T2": 4586.0,
-          "T3": 5322.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
