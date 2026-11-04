@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-11-03T03:00:51.029968+00:00",
+  "generated_at": "2026-11-04T01:34:23.765593+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,68 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "03-11-2026",
-          "Stock": "COST",
-          "CMP": 1040.55,
-          "30 DMA": 959.19,
-          "50 DMA": 943.83,
-          "200 DMA": 968.33,
-          "200 DMA Dist %": 7.46,
-          "SL": 978.87,
-          "T1": 1163.9,
-          "T2": 1225.58,
-          "T3": 1348.93,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "03-11-2026",
-          "Stock": "WMT",
-          "CMP": 127.69,
-          "30 DMA": 113.7,
-          "50 DMA": 110.71,
-          "200 DMA": 118.19,
-          "200 DMA Dist %": 8.04,
-          "SL": 116.63,
-          "T1": 149.81,
-          "T2": 160.87,
-          "T3": 182.99,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "03-11-2026",
-          "Stock": "DIS",
-          "CMP": 113.11,
-          "30 DMA": 107.89,
-          "50 DMA": 107.46,
-          "200 DMA": 103.02,
-          "200 DMA Dist %": 9.8,
-          "SL": 108.75,
-          "T1": 121.83,
-          "T2": 126.19,
-          "T3": 134.91,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "03-11-2026",
-          "Stock": "UNH",
-          "CMP": 400.44,
-          "30 DMA": 390.89,
-          "50 DMA": 389.73,
-          "200 DMA": 359.96,
-          "200 DMA Dist %": 11.25,
-          "SL": 394.11,
-          "T1": 413.1,
-          "T2": 419.43,
-          "T3": 432.09,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
