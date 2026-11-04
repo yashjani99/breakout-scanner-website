@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-11-03T22:16:08.277199+00:00",
+  "generated_at": "2026-11-04T22:31:50.483027+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "03-11-2026",
+          "Date": "04-11-2026",
           "Stock": "NESN",
-          "CMP": 84.41,
-          "30 DMA": 79.59,
-          "50 DMA": 79.05,
-          "200 DMA": 78.48,
-          "200 DMA Dist %": 7.55,
+          "CMP": 85.9,
+          "30 DMA": 79.89,
+          "50 DMA": 79.17,
+          "200 DMA": 78.56,
+          "200 DMA Dist %": 9.34,
           "SL": 82.37,
-          "T1": 88.49,
-          "T2": 90.53,
-          "T3": 94.61,
+          "T1": 92.96,
+          "T2": 96.49,
+          "T3": 103.55,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
