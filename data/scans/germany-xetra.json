@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-11-04T22:17:42.743050+00:00",
+  "generated_at": "2026-11-05T22:28:32.193180+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "04-11-2026",
+          "Date": "05-11-2026",
           "Stock": "EOAN",
-          "CMP": 18.88,
-          "30 DMA": 17.73,
-          "50 DMA": 17.66,
-          "200 DMA": 18.19,
-          "200 DMA Dist %": 3.8,
-          "SL": 18.02,
-          "T1": 20.6,
-          "T2": 21.46,
-          "T3": 23.18,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "04-11-2026",
-          "Stock": "SAP",
-          "CMP": 214.3,
-          "30 DMA": 198.34,
-          "50 DMA": 192.89,
-          "200 DMA": 164.58,
-          "200 DMA Dist %": 30.21,
-          "SL": 203.05,
-          "T1": 236.8,
-          "T2": 248.05,
-          "T3": 270.55,
+          "CMP": 19.32,
+          "30 DMA": 17.8,
+          "50 DMA": 17.69,
+          "200 DMA": 18.2,
+          "200 DMA Dist %": 6.15,
+          "SL": 18.3,
+          "T1": 21.36,
+          "T2": 22.38,
+          "T3": 24.42,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,15 +54,15 @@
       ],
       "rows": [
         {
-          "Date": "04-11-2026",
+          "Date": "05-11-2026",
           "Stock": "BAYN",
-          "CMP": 54.24,
-          "Monthly RSI": 79.7,
-          "Weekly RSI": 65.7,
+          "CMP": 56.22,
+          "Monthly RSI": 80.9,
+          "Weekly RSI": 67.8,
           "Signal Date": "23-10-2026",
           "Entry": 44.28,
           "SL": 43.08,
-          "T1 (RSI 60 Est.)": 55.44,
+          "T1 (RSI 60 Est.)": 57.42,
           "Action": "RSI 5-Star Setup"
         }
       ]
