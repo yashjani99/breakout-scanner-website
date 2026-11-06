@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-11-05T22:38:47.995227+00:00",
+  "generated_at": "2026-11-06T22:00:09.806381+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "06-11-2026",
+          "Stock": "AKZA",
+          "CMP": 62.9,
+          "30 DMA": 58.66,
+          "50 DMA": 58.4,
+          "200 DMA": 56.15,
+          "200 DMA Dist %": 12.03,
+          "SL": 56.92,
+          "T1": 74.86,
+          "T2": 80.84,
+          "T3": 92.8,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -38,23 +54,23 @@
       ],
       "rows": [
         {
-          "Date": "05-11-2026",
+          "Date": "06-11-2026",
           "Stock": "NN",
-          "CMP": 80.54,
-          "Monthly RSI": 74.8,
-          "Weekly RSI": 63.4,
+          "CMP": 79.18,
+          "Monthly RSI": 73.7,
+          "Weekly RSI": 60.9,
           "Signal Date": "23-10-2026",
           "Entry": 76.24,
           "SL": 75.2,
-          "T1 (RSI 60 Est.)": 81.58,
+          "T1 (RSI 60 Est.)": 80.22,
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "05-11-2026",
+          "Date": "06-11-2026",
           "Stock": "ABN",
-          "CMP": 41.39,
-          "Monthly RSI": 77.3,
-          "Weekly RSI": 61.8,
+          "CMP": 41.0,
+          "Monthly RSI": 77.0,
+          "Weekly RSI": 60.8,
           "Signal Date": "03-11-2026",
           "Entry": 40.3,
           "SL": 37.9,
