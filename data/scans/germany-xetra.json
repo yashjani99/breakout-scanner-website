@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-11-05T22:28:32.193180+00:00",
+  "generated_at": "2026-11-06T21:53:59.350931+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "05-11-2026",
+          "Date": "06-11-2026",
           "Stock": "EOAN",
-          "CMP": 19.32,
-          "30 DMA": 17.8,
-          "50 DMA": 17.69,
-          "200 DMA": 18.2,
-          "200 DMA Dist %": 6.15,
+          "CMP": 19.08,
+          "30 DMA": 17.86,
+          "50 DMA": 17.71,
+          "200 DMA": 18.21,
+          "200 DMA Dist %": 4.8,
           "SL": 18.3,
-          "T1": 21.36,
-          "T2": 22.38,
-          "T3": 24.42,
+          "T1": 20.65,
+          "T2": 21.44,
+          "T3": 23.01,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -54,15 +54,15 @@
       ],
       "rows": [
         {
-          "Date": "05-11-2026",
+          "Date": "06-11-2026",
           "Stock": "BAYN",
-          "CMP": 56.22,
-          "Monthly RSI": 80.9,
-          "Weekly RSI": 67.8,
+          "CMP": 55.58,
+          "Monthly RSI": 80.5,
+          "Weekly RSI": 67.2,
           "Signal Date": "23-10-2026",
           "Entry": 44.28,
           "SL": 43.08,
-          "T1 (RSI 60 Est.)": 57.42,
+          "T1 (RSI 60 Est.)": 56.78,
           "Action": "RSI 5-Star Setup"
         }
       ]
