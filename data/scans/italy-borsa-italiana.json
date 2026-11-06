@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-11-05T22:38:52.821196+00:00",
+  "generated_at": "2026-11-06T22:02:05.756990+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,17 @@
       ],
       "rows": [
         {
-          "Date": "05-11-2026",
+          "Date": "06-11-2026",
           "Stock": "ENEL",
-          "CMP": 9.77,
-          "30 DMA": 9.07,
+          "CMP": 9.69,
+          "30 DMA": 9.1,
           "50 DMA": 9.04,
           "200 DMA": 9.39,
-          "200 DMA Dist %": 4.07,
-          "SL": 9.12,
-          "T1": 11.06,
-          "T2": 11.71,
-          "T3": 13.01,
+          "200 DMA Dist %": 3.23,
+          "SL": 9.17,
+          "T1": 10.73,
+          "T2": 11.26,
+          "T3": 12.3,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -52,20 +52,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "05-11-2026",
-          "Stock": "G",
-          "CMP": 44.56,
-          "Monthly RSI": 78.5,
-          "Weekly RSI": 62.1,
-          "Signal Date": "23-10-2026",
-          "Entry": 42.3,
-          "SL": 41.61,
-          "T1 (RSI 60 Est.)": 45.25,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
