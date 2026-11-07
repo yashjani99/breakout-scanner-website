@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-11-06T21:53:59.350931+00:00",
+  "generated_at": "2026-11-07T20:37:15.571406+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "06-11-2026",
+          "Date": "07-11-2026",
           "Stock": "EOAN",
           "CMP": 19.08,
           "30 DMA": 17.86,
@@ -54,7 +54,7 @@
       ],
       "rows": [
         {
-          "Date": "06-11-2026",
+          "Date": "07-11-2026",
           "Stock": "BAYN",
           "CMP": 55.58,
           "Monthly RSI": 80.5,
