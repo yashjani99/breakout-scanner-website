@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-11-06T22:00:20.088501+00:00",
+  "generated_at": "2026-11-07T20:48:19.130100+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
