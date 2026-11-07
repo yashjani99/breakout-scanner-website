@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-11-06T00:59:36.986156+00:00",
+  "generated_at": "2026-11-07T00:10:37.402161+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "07-11-2026",
+          "Stock": "SUZB3",
+          "CMP": 53.4,
+          "30 DMA": 45.34,
+          "50 DMA": 46.02,
+          "200 DMA": 46.38,
+          "200 DMA Dist %": 15.15,
+          "SL": 42.59,
+          "T1": 75.02,
+          "T2": 85.83,
+          "T3": 107.45,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
