@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-11-07T23:43:52.929433+00:00",
+  "generated_at": "2026-11-08T23:50:41.091105+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "07-11-2026",
+          "Date": "08-11-2026",
           "Stock": "SUZB3",
           "CMP": 53.4,
           "30 DMA": 45.34,
