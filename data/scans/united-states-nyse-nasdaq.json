@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-11-07T01:04:15.947533+00:00",
+  "generated_at": "2026-11-08T00:51:26.144700+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,38 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "08-11-2026",
+          "Stock": "WMT",
+          "CMP": 125.52,
+          "30 DMA": 116.07,
+          "50 DMA": 112.48,
+          "200 DMA": 118.36,
+          "200 DMA Dist %": 6.05,
+          "SL": 118.11,
+          "T1": 140.34,
+          "T2": 147.75,
+          "T3": 162.57,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "08-11-2026",
+          "Stock": "COST",
+          "CMP": 1053.56,
+          "30 DMA": 978.09,
+          "50 DMA": 951.19,
+          "200 DMA": 969.93,
+          "200 DMA Dist %": 8.62,
+          "SL": 978.87,
+          "T1": 1202.93,
+          "T2": 1277.62,
+          "T3": 1426.99,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +67,44 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "08-11-2026",
+          "Stock": "MSFT",
+          "CMP": 530.61,
+          "Monthly RSI": 60.2,
+          "Weekly RSI": 65.1,
+          "Signal Date": "02-11-2026",
+          "Entry": 529.63,
+          "SL": 504.96,
+          "T1 (RSI 60 Est.)": 578.97,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "08-11-2026",
+          "Stock": "AAPL",
+          "CMP": 342.37,
+          "Monthly RSI": 76.5,
+          "Weekly RSI": 63.6,
+          "Signal Date": "03-11-2026",
+          "Entry": 334.5,
+          "SL": 325.33,
+          "T1 (RSI 60 Est.)": 354.62,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "08-11-2026",
+          "Stock": "JNJ",
+          "CMP": 276.22,
+          "Monthly RSI": 67.3,
+          "Weekly RSI": 62.2,
+          "Signal Date": "19-10-2026",
+          "Entry": 255.56,
+          "SL": 245.17,
+          "T1 (RSI 60 Est.)": 286.61,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
