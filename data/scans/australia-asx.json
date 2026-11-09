@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-11-08T13:43:03.519086+00:00",
+  "generated_at": "2026-11-09T16:42:43.712814+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "08-11-2026",
+          "Date": "09-11-2026",
+          "Stock": "CBA",
+          "CMP": 165.97,
+          "30 DMA": 157.66,
+          "50 DMA": 156.53,
+          "200 DMA": 163.95,
+          "200 DMA Dist %": 1.23,
+          "SL": 160.78,
+          "T1": 176.35,
+          "T2": 181.54,
+          "T3": 191.92,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "09-11-2026",
           "Stock": "ALL",
-          "CMP": 65.86,
-          "30 DMA": 62.27,
-          "50 DMA": 61.59,
-          "200 DMA": 55.24,
-          "200 DMA Dist %": 19.23,
+          "CMP": 65.54,
+          "30 DMA": 62.5,
+          "50 DMA": 61.68,
+          "200 DMA": 55.29,
+          "200 DMA Dist %": 18.53,
           "SL": 62.47,
-          "T1": 72.64,
-          "T2": 76.03,
-          "T3": 82.81,
+          "T1": 71.68,
+          "T2": 74.75,
+          "T3": 80.89,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -54,15 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "08-11-2026",
+          "Date": "09-11-2026",
           "Stock": "WOW",
-          "CMP": 42.45,
+          "CMP": 42.47,
           "Monthly RSI": 78.9,
-          "Weekly RSI": 66.0,
+          "Weekly RSI": 66.1,
           "Signal Date": "29-10-2026",
           "Entry": 40.45,
           "SL": 39.22,
-          "T1 (RSI 60 Est.)": 43.68,
+          "T1 (RSI 60 Est.)": 43.7,
           "Action": "RSI 5-Star Setup"
         }
       ]
