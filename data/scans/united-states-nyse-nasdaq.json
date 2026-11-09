@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-11-08T00:51:26.144700+00:00",
+  "generated_at": "2026-11-09T01:08:53.500736+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "08-11-2026",
+          "Date": "09-11-2026",
           "Stock": "WMT",
           "CMP": 125.52,
           "30 DMA": 116.07,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "08-11-2026",
+          "Date": "09-11-2026",
           "Stock": "COST",
           "CMP": 1053.56,
           "30 DMA": 978.09,
@@ -69,7 +69,7 @@
       ],
       "rows": [
         {
-          "Date": "08-11-2026",
+          "Date": "09-11-2026",
           "Stock": "MSFT",
           "CMP": 530.61,
           "Monthly RSI": 60.2,
@@ -81,7 +81,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "08-11-2026",
+          "Date": "09-11-2026",
           "Stock": "AAPL",
           "CMP": 342.37,
           "Monthly RSI": 76.5,
@@ -93,7 +93,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "08-11-2026",
+          "Date": "09-11-2026",
           "Stock": "JNJ",
           "CMP": 276.22,
           "Monthly RSI": 67.3,
