@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-11-09T21:00:39.943810+00:00",
+  "generated_at": "2026-11-10T18:07:47.625445+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "TCS",
           "CMP": 2475.4,
           "30 DMA": 2320.8,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "APOLLOHOSP",
           "CMP": 8549.5,
           "30 DMA": 8112.88,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "MPHASIS",
           "CMP": 2455.0,
           "30 DMA": 2422.47,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "APLAPOLLO",
           "CMP": 2181.3,
           "30 DMA": 2147.76,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "HCLTECH",
           "CMP": 1407.0,
           "30 DMA": 1330.86,
@@ -97,7 +97,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "BHARTIARTL",
           "CMP": 2072.1,
           "30 DMA": 1890.06,
@@ -112,7 +112,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "DRREDDY",
           "CMP": 1385.0,
           "30 DMA": 1268.64,
@@ -127,7 +127,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "HAL",
           "CMP": 4999.0,
           "30 DMA": 4829.81,
@@ -142,7 +142,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "UNIONBANK",
           "CMP": 197.0,
           "30 DMA": 178.11,
@@ -157,7 +157,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "PERSISTENT",
           "CMP": 6040.0,
           "30 DMA": 5748.32,
@@ -172,7 +172,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "DLF",
           "CMP": 755.0,
           "30 DMA": 678.85,
@@ -204,7 +204,7 @@
       ],
       "rows": [
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "DIVISLAB",
           "CMP": 11565.5,
           "Monthly RSI": 80.2,
@@ -216,7 +216,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "PETRONET",
           "CMP": 320.45,
           "Monthly RSI": 64.5,
@@ -228,7 +228,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "ETERNAL",
           "CMP": 363.45,
           "Monthly RSI": 67.2,
@@ -240,7 +240,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "AUROPHARMA",
           "CMP": 1855.3,
           "Monthly RSI": 82.8,
@@ -252,7 +252,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "GLENMARK",
           "CMP": 2671.1,
           "Monthly RSI": 73.3,
@@ -264,7 +264,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "ADANIPORTS",
           "CMP": 1942.7,
           "Monthly RSI": 70.4,
@@ -276,7 +276,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "MARICO",
           "CMP": 902.0,
           "Monthly RSI": 66.7,
@@ -288,7 +288,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "PAYTM",
           "CMP": 1788.0,
           "Monthly RSI": 77.9,
@@ -300,7 +300,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "MCX",
           "CMP": 3545.0,
           "Monthly RSI": 76.3,
@@ -312,7 +312,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "NYKAA",
           "CMP": 359.7,
           "Monthly RSI": 67.4,
@@ -324,7 +324,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "MOTILALOFS",
           "CMP": 1147.3,
           "Monthly RSI": 65.1,
@@ -336,7 +336,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "TVSMOTOR",
           "CMP": 4505.9,
           "Monthly RSI": 68.6,
@@ -348,7 +348,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "MANKIND",
           "CMP": 2668.3,
           "Monthly RSI": 73.3,
@@ -360,7 +360,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "UNOMINDA",
           "CMP": 1353.8,
           "Monthly RSI": 61.0,
@@ -372,7 +372,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "BOSCHLTD",
           "CMP": 49550.0,
           "Monthly RSI": 64.5,
@@ -384,7 +384,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "ULTRACEMCO",
           "CMP": 12275.0,
           "Monthly RSI": 60.2,
@@ -396,7 +396,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "ANGELONE",
           "CMP": 338.0,
           "Monthly RSI": 62.0,
@@ -408,7 +408,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "RADICO",
           "CMP": 4560.8,
           "Monthly RSI": 75.7,
@@ -420,7 +420,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "ZYDUSLIFE",
           "CMP": 1215.9,
           "Monthly RSI": 73.5,
@@ -432,7 +432,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "INDIGO",
           "CMP": 5430.0,
           "Monthly RSI": 60.8,
@@ -444,7 +444,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "TITAN",
           "CMP": 5005.0,
           "Monthly RSI": 64.3,
@@ -456,7 +456,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "09-11-2026",
+          "Date": "10-11-2026",
           "Stock": "NUVAMA",
           "CMP": 1871.0,
           "Monthly RSI": 69.1,
