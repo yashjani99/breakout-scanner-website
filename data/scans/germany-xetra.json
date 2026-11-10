@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-11-08T20:55:27.207434+00:00",
+  "generated_at": "2026-11-10T00:31:00.803018+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,23 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "08-11-2026",
-          "Stock": "EOAN",
-          "CMP": 19.08,
-          "30 DMA": 17.86,
-          "50 DMA": 17.71,
-          "200 DMA": 18.21,
-          "200 DMA Dist %": 4.8,
-          "SL": 18.3,
-          "T1": 20.65,
-          "T2": 21.44,
-          "T3": 23.01,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -52,20 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "08-11-2026",
-          "Stock": "BAYN",
-          "CMP": 55.58,
-          "Monthly RSI": 80.5,
-          "Weekly RSI": 67.2,
-          "Signal Date": "23-10-2026",
-          "Entry": 44.28,
-          "SL": 43.08,
-          "T1 (RSI 60 Est.)": 56.78,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
