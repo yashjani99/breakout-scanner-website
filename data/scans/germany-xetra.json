@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-11-10T00:31:00.803018+00:00",
+  "generated_at": "2026-11-10T22:06:07.867106+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,38 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "10-11-2026",
+          "Stock": "EOAN",
+          "CMP": 19.15,
+          "30 DMA": 18.0,
+          "50 DMA": 17.77,
+          "200 DMA": 18.23,
+          "200 DMA Dist %": 5.02,
+          "SL": 18.37,
+          "T1": 20.69,
+          "T2": 21.47,
+          "T3": 23.02,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "10-11-2026",
+          "Stock": "ADS",
+          "CMP": 178.35,
+          "30 DMA": 158.95,
+          "50 DMA": 153.5,
+          "200 DMA": 154.93,
+          "200 DMA Dist %": 15.12,
+          "SL": 156.3,
+          "T1": 222.45,
+          "T2": 244.5,
+          "T3": 288.6,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +67,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "10-11-2026",
+          "Stock": "BAYN",
+          "CMP": 57.08,
+          "Monthly RSI": 81.4,
+          "Weekly RSI": 68.8,
+          "Signal Date": "23-10-2026",
+          "Entry": 44.28,
+          "SL": 43.08,
+          "T1 (RSI 60 Est.)": 58.28,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
