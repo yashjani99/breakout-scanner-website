@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-11-10T03:44:18.381646+00:00",
+  "generated_at": "2026-11-11T01:23:54.579858+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,38 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "10-11-2026",
-          "Stock": "WMT",
-          "CMP": 125.66,
-          "30 DMA": 116.63,
-          "50 DMA": 112.93,
-          "200 DMA": 118.41,
-          "200 DMA Dist %": 6.13,
-          "SL": 118.11,
-          "T1": 140.76,
-          "T2": 148.31,
-          "T3": 163.41,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "10-11-2026",
-          "Stock": "COST",
-          "CMP": 1066.18,
-          "30 DMA": 982.91,
-          "50 DMA": 953.63,
-          "200 DMA": 970.37,
-          "200 DMA Dist %": 9.87,
-          "SL": 978.87,
-          "T1": 1240.79,
-          "T2": 1328.1,
-          "T3": 1502.71,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -67,32 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "10-11-2026",
-          "Stock": "MSFT",
-          "CMP": 545.18,
-          "Monthly RSI": 61.8,
-          "Weekly RSI": 67.8,
-          "Signal Date": "02-11-2026",
-          "Entry": 529.63,
-          "SL": 504.96,
-          "T1 (RSI 60 Est.)": 578.97,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "10-11-2026",
-          "Stock": "AAPL",
-          "CMP": 350.69,
-          "Monthly RSI": 78.1,
-          "Weekly RSI": 66.8,
-          "Signal Date": "03-11-2026",
-          "Entry": 334.5,
-          "SL": 325.33,
-          "T1 (RSI 60 Est.)": 359.86,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
