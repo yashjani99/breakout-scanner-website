@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-11-11T23:24:59.368518+00:00",
+  "generated_at": "2026-11-12T22:40:33.186747+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,38 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "12-11-2026",
+          "Stock": "KPN",
+          "CMP": 4.41,
+          "30 DMA": 4.14,
+          "50 DMA": 4.11,
+          "200 DMA": 4.29,
+          "200 DMA Dist %": 2.76,
+          "SL": 4.28,
+          "T1": 4.68,
+          "T2": 4.81,
+          "T3": 5.08,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "12-11-2026",
+          "Stock": "AKZA",
+          "CMP": 63.56,
+          "30 DMA": 59.69,
+          "50 DMA": 58.68,
+          "200 DMA": 56.28,
+          "200 DMA Dist %": 12.93,
+          "SL": 58.66,
+          "T1": 73.36,
+          "T2": 78.26,
+          "T3": 88.06,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +67,32 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "12-11-2026",
+          "Stock": "NN",
+          "CMP": 81.26,
+          "Monthly RSI": 75.4,
+          "Weekly RSI": 64.9,
+          "Signal Date": "23-10-2026",
+          "Entry": 76.24,
+          "SL": 75.2,
+          "T1 (RSI 60 Est.)": 82.3,
+          "Action": "RSI 5-Star Setup"
+        },
+        {
+          "Date": "12-11-2026",
+          "Stock": "ABN",
+          "CMP": 42.06,
+          "Monthly RSI": 77.9,
+          "Weekly RSI": 63.6,
+          "Signal Date": "03-11-2026",
+          "Entry": 40.3,
+          "SL": 37.9,
+          "T1 (RSI 60 Est.)": 45.1,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
