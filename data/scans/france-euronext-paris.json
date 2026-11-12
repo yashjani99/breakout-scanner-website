@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-11-11T23:14:36.223031+00:00",
+  "generated_at": "2026-11-12T22:30:37.495614+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "12-11-2026",
+          "Stock": "CAP",
+          "CMP": 126.55,
+          "30 DMA": 121.28,
+          "50 DMA": 114.91,
+          "200 DMA": 103.78,
+          "200 DMA Dist %": 21.94,
+          "SL": 121.65,
+          "T1": 136.35,
+          "T2": 141.25,
+          "T3": 151.05,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +52,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "12-11-2026",
+          "Stock": "CS",
+          "CMP": 46.58,
+          "Monthly RSI": 74.1,
+          "Weekly RSI": 64.0,
+          "Signal Date": "23-10-2026",
+          "Entry": 42.14,
+          "SL": 41.19,
+          "T1 (RSI 60 Est.)": 47.53,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
