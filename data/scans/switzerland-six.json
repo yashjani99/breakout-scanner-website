@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-11-11T23:25:20.477997+00:00",
+  "generated_at": "2026-11-12T22:40:46.874239+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "12-11-2026",
+          "Stock": "HOLN",
+          "CMP": 75.28,
+          "30 DMA": 67.88,
+          "50 DMA": 68.29,
+          "200 DMA": 70.65,
+          "200 DMA Dist %": 6.55,
+          "SL": 68.52,
+          "T1": 88.8,
+          "T2": 95.56,
+          "T3": 109.08,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
