@@ -1,7 +1,7 @@
 {
   "market": "China A-Shares (Shanghai/Shenzhen)",
   "currency": "CNY",
-  "generated_at": "2026-11-11T15:29:58.061076+00:00",
+  "generated_at": "2026-11-12T16:06:06.840106+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,38 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "11-11-2026",
-          "Stock": "600519",
-          "CMP": 1402.3,
-          "30 DMA": 1339.85,
-          "50 DMA": 1318.58,
-          "200 DMA": 1327.38,
-          "200 DMA Dist %": 5.64,
-          "SL": 1330.01,
-          "T1": 1546.88,
-          "T2": 1619.17,
-          "T3": 1763.75,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "11-11-2026",
-          "Stock": "601288",
-          "CMP": 7.26,
-          "30 DMA": 7.19,
-          "50 DMA": 7.02,
-          "200 DMA": 6.6,
-          "200 DMA Dist %": 10.0,
-          "SL": 7.12,
-          "T1": 7.54,
-          "T2": 7.68,
-          "T3": 7.96,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -67,20 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "11-11-2026",
-          "Stock": "601988",
-          "CMP": 6.94,
-          "Monthly RSI": 80.4,
-          "Weekly RSI": 67.7,
-          "Signal Date": "05-11-2026",
-          "Entry": 6.81,
-          "SL": 6.66,
-          "T1 (RSI 60 Est.)": 7.14,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
