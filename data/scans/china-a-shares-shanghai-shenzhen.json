@@ -1,7 +1,7 @@
 {
   "market": "China A-Shares (Shanghai/Shenzhen)",
   "currency": "CNY",
-  "generated_at": "2026-11-12T16:06:06.840106+00:00",
+  "generated_at": "2026-11-13T15:34:04.815997+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,53 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "13-11-2026",
+          "Stock": "000651",
+          "CMP": 39.96,
+          "30 DMA": 38.59,
+          "50 DMA": 38.57,
+          "200 DMA": 37.38,
+          "200 DMA Dist %": 6.9,
+          "SL": 38.13,
+          "T1": 43.62,
+          "T2": 45.45,
+          "T3": 49.11,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "13-11-2026",
+          "Stock": "600519",
+          "CMP": 1435.26,
+          "30 DMA": 1351.76,
+          "50 DMA": 1323.59,
+          "200 DMA": 1327.89,
+          "200 DMA Dist %": 8.09,
+          "SL": 1388.11,
+          "T1": 1529.56,
+          "T2": 1576.71,
+          "T3": 1671.01,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "13-11-2026",
+          "Stock": "601288",
+          "CMP": 7.37,
+          "30 DMA": 7.23,
+          "50 DMA": 7.05,
+          "200 DMA": 6.6,
+          "200 DMA Dist %": 11.66,
+          "SL": 7.12,
+          "T1": 7.87,
+          "T2": 8.12,
+          "T3": 8.62,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +82,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "13-11-2026",
+          "Stock": "601988",
+          "CMP": 7.18,
+          "Monthly RSI": 83.9,
+          "Weekly RSI": 71.4,
+          "Signal Date": "05-11-2026",
+          "Entry": 6.81,
+          "SL": 6.66,
+          "T1 (RSI 60 Est.)": 7.33,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
