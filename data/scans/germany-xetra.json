@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-11-12T22:30:42.328945+00:00",
+  "generated_at": "2026-11-13T22:18:59.123930+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "12-11-2026",
+          "Date": "13-11-2026",
           "Stock": "EOAN",
-          "CMP": 19.15,
-          "30 DMA": 18.15,
-          "50 DMA": 17.83,
-          "200 DMA": 18.25,
-          "200 DMA Dist %": 4.95,
+          "CMP": 19.47,
+          "30 DMA": 18.23,
+          "50 DMA": 17.87,
+          "200 DMA": 18.26,
+          "200 DMA Dist %": 6.65,
           "SL": 18.37,
-          "T1": 20.71,
-          "T2": 21.49,
-          "T3": 23.05,
+          "T1": 21.67,
+          "T2": 22.77,
+          "T3": 24.97,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "12-11-2026",
+          "Date": "13-11-2026",
           "Stock": "ADS",
-          "CMP": 176.95,
-          "30 DMA": 161.15,
-          "50 DMA": 154.62,
-          "200 DMA": 155.23,
-          "200 DMA Dist %": 13.99,
-          "SL": 166.5,
-          "T1": 197.85,
-          "T2": 208.3,
-          "T3": 229.2,
+          "CMP": 177.65,
+          "30 DMA": 162.27,
+          "50 DMA": 155.19,
+          "200 DMA": 155.38,
+          "200 DMA Dist %": 14.33,
+          "SL": 166.8,
+          "T1": 199.35,
+          "T2": 210.2,
+          "T3": 231.9,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,32 +67,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "12-11-2026",
-          "Stock": "BAYN",
-          "CMP": 56.56,
-          "Monthly RSI": 81.1,
-          "Weekly RSI": 68.3,
-          "Signal Date": "23-10-2026",
-          "Entry": 44.28,
-          "SL": 43.08,
-          "T1 (RSI 60 Est.)": 57.76,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "12-11-2026",
-          "Stock": "CON",
-          "CMP": 74.3,
-          "Monthly RSI": 69.9,
-          "Weekly RSI": 60.0,
-          "Signal Date": "03-11-2026",
-          "Entry": 69.12,
-          "SL": 65.66,
-          "T1 (RSI 60 Est.)": 77.76,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
