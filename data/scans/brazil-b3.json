@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-11-12T01:57:11.754748+00:00",
+  "generated_at": "2026-11-13T01:15:44.056167+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "12-11-2026",
+          "Date": "13-11-2026",
           "Stock": "WEGE3",
-          "CMP": 51.61,
-          "30 DMA": 48.95,
-          "50 DMA": 49.83,
-          "200 DMA": 47.76,
-          "200 DMA Dist %": 8.05,
-          "SL": 0.0,
-          "T1": 154.83,
-          "T2": 206.44,
-          "T3": 309.66,
+          "CMP": 51.65,
+          "30 DMA": 49.0,
+          "50 DMA": 49.86,
+          "200 DMA": 47.77,
+          "200 DMA Dist %": 8.11,
+          "SL": 46.97,
+          "T1": 61.01,
+          "T2": 65.69,
+          "T3": 75.05,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "12-11-2026",
+          "Date": "13-11-2026",
           "Stock": "SUZB3",
-          "CMP": 53.8,
-          "30 DMA": 46.25,
-          "50 DMA": 46.49,
-          "200 DMA": 46.41,
-          "200 DMA Dist %": 15.93,
-          "SL": 0.0,
-          "T1": 161.4,
-          "T2": 215.2,
-          "T3": 322.8,
+          "CMP": 56.04,
+          "30 DMA": 46.64,
+          "50 DMA": 46.71,
+          "200 DMA": 46.43,
+          "200 DMA Dist %": 20.7,
+          "SL": 48.0,
+          "T1": 72.12,
+          "T2": 80.16,
+          "T3": 96.24,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -67,7 +67,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "13-11-2026",
+          "Stock": "SUZB3",
+          "CMP": 56.04,
+          "Monthly RSI": 60.4,
+          "Weekly RSI": 71.1,
+          "Signal Date": "22-10-2026",
+          "Entry": 43.14,
+          "SL": 41.85,
+          "T1 (RSI 60 Est.)": 57.33,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
@@ -89,7 +102,26 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "13-11-2026",
+          "Stock": "SUZB3",
+          "CMP": 56.04,
+          "30 DMA": 46.64,
+          "50 DMA": 46.71,
+          "200 DMA": 46.43,
+          "200 DMA Dist %": 20.7,
+          "Monthly RSI": 60.4,
+          "Weekly RSI": 71.1,
+          "Signal Date": "22-10-2026",
+          "SL": 48.0,
+          "T1": 72.12,
+          "T2": 80.16,
+          "T3": 96.24,
+          "CAR Status": "Positive",
+          "Action": "Breakout + RSI 5-Star"
+        }
+      ]
     }
   }
 }
