@@ -1,7 +1,7 @@
 {
   "market": "Hong Kong (HKEX)",
   "currency": "HKD",
-  "generated_at": "2026-11-13T16:40:45.226669+00:00",
+  "generated_at": "2026-11-14T15:16:54.899290+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,53 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "14-11-2026",
+          "Stock": "0027",
+          "CMP": 33.42,
+          "30 DMA": 32.76,
+          "50 DMA": 32.68,
+          "200 DMA": 33.33,
+          "200 DMA Dist %": 0.27,
+          "SL": 32.1,
+          "T1": 36.06,
+          "T2": 37.38,
+          "T3": 40.02,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "14-11-2026",
+          "Stock": "0941",
+          "CMP": 80.4,
+          "30 DMA": 79.69,
+          "50 DMA": 79.45,
+          "200 DMA": 77.61,
+          "200 DMA Dist %": 3.59,
+          "SL": 79.8,
+          "T1": 81.6,
+          "T2": 82.2,
+          "T3": 83.4,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "14-11-2026",
+          "Stock": "9633",
+          "CMP": 45.36,
+          "30 DMA": 42.26,
+          "50 DMA": 41.28,
+          "200 DMA": 43.24,
+          "200 DMA Dist %": 4.91,
+          "SL": 42.2,
+          "T1": 51.68,
+          "T2": 54.84,
+          "T3": 61.16,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +82,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "14-11-2026",
+          "Stock": "0002",
+          "CMP": 81.05,
+          "Monthly RSI": 81.3,
+          "Weekly RSI": 67.5,
+          "Signal Date": "29-10-2026",
+          "Entry": 76.55,
+          "SL": 75.6,
+          "T1 (RSI 60 Est.)": 82.0,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
