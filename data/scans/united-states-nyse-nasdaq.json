@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-11-13T02:02:11.641161+00:00",
+  "generated_at": "2026-11-14T01:37:47.217260+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,38 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "14-11-2026",
+          "Stock": "HD",
+          "CMP": 348.69,
+          "30 DMA": 320.48,
+          "50 DMA": 312.15,
+          "200 DMA": 329.41,
+          "200 DMA Dist %": 5.85,
+          "SL": 330.71,
+          "T1": 384.65,
+          "T2": 402.63,
+          "T3": 438.59,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "14-11-2026",
+          "Stock": "WMT",
+          "CMP": 128.09,
+          "30 DMA": 119.51,
+          "50 DMA": 114.54,
+          "200 DMA": 118.61,
+          "200 DMA Dist %": 8.0,
+          "SL": 123.03,
+          "T1": 138.21,
+          "T2": 143.27,
+          "T3": 153.39,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -36,7 +67,20 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "14-11-2026",
+          "Stock": "AAPL",
+          "CMP": 356.27,
+          "Monthly RSI": 78.7,
+          "Weekly RSI": 68.7,
+          "Signal Date": "03-11-2026",
+          "Entry": 334.25,
+          "SL": 325.08,
+          "T1 (RSI 60 Est.)": 365.43,
+          "Action": "RSI 5-Star Setup"
+        }
+      ]
     },
     "confluence": {
       "label": "Confluence (Both)",
