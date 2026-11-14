@@ -1,7 +1,7 @@
 {
   "market": "France (Euronext Paris)",
   "currency": "EUR",
-  "generated_at": "2026-11-13T22:18:55.090907+00:00",
+  "generated_at": "2026-11-14T21:01:32.977726+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "CAP",
           "CMP": 127.4,
           "30 DMA": 121.89,
