@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-11-13T22:32:17.085820+00:00",
+  "generated_at": "2026-11-14T21:23:37.710520+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "ENEL",
           "CMP": 9.95,
           "30 DMA": 9.29,
@@ -54,7 +54,7 @@
       ],
       "rows": [
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "ENI",
           "CMP": 25.98,
           "Monthly RSI": 69.9,
