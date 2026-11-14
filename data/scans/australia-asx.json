@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-11-13T14:46:15.778881+00:00",
+  "generated_at": "2026-11-14T13:42:22.218643+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "TLS",
           "CMP": 5.12,
           "30 DMA": 4.9,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "CBA",
           "CMP": 170.87,
           "30 DMA": 160.2,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "WBC",
           "CMP": 37.83,
           "30 DMA": 35.43,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "TCL",
           "CMP": 15.0,
           "30 DMA": 13.91,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "ALL",
           "CMP": 66.34,
           "30 DMA": 63.37,
@@ -114,7 +114,7 @@
       ],
       "rows": [
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "WOW",
           "CMP": 41.94,
           "Monthly RSI": 78.3,
