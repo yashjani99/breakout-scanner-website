@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-11-13T22:29:45.989854+00:00",
+  "generated_at": "2026-11-14T21:20:30.267710+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "KPN",
           "CMP": 4.45,
           "30 DMA": 4.16,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "AKZA",
           "CMP": 62.9,
           "30 DMA": 59.91,
@@ -69,7 +69,7 @@
       ],
       "rows": [
         {
-          "Date": "13-11-2026",
+          "Date": "14-11-2026",
           "Stock": "ABN",
           "CMP": 42.12,
           "Monthly RSI": 77.9,
