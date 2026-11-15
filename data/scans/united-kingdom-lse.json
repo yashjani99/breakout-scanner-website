@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-11-14T20:59:54.496026+00:00",
+  "generated_at": "2026-11-15T21:24:00.348974+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "NG",
           "CMP": 1279.0,
           "30 DMA": 1217.33,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "AZN",
           "CMP": 13982.0,
           "30 DMA": 12980.67,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "IMB",
           "CMP": 2967.0,
           "30 DMA": 2823.27,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "BATS",
           "CMP": 4656.0,
           "30 DMA": 4418.63,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "ULVR",
           "CMP": 4987.5,
           "30 DMA": 4843.61,
@@ -97,7 +97,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "EXPN",
           "CMP": 2967.0,
           "30 DMA": 2877.53,
@@ -112,7 +112,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "LSEG",
           "CMP": 9756.0,
           "30 DMA": 9093.87,
@@ -127,7 +127,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "TSCO",
           "CMP": 560.2,
           "30 DMA": 531.01,
@@ -142,7 +142,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "REL",
           "CMP": 3069.0,
           "30 DMA": 2896.97,
