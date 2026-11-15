@@ -1,7 +1,7 @@
 {
   "market": "Japan (Tokyo)",
   "currency": "JPY",
-  "generated_at": "2026-11-14T14:01:56.255538+00:00",
+  "generated_at": "2026-11-15T14:38:46.344611+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "8058",
           "CMP": 5405.0,
           "30 DMA": 4877.37,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "9983",
           "CMP": 82120.0,
           "30 DMA": 76001.33,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "9020",
           "CMP": 4100.0,
           "30 DMA": 3605.33,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "6758",
           "CMP": 4353.0,
           "30 DMA": 3987.87,
@@ -99,7 +99,7 @@
       ],
       "rows": [
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "6367",
           "CMP": 23480.0,
           "Monthly RSI": 66.8,
@@ -111,7 +111,7 @@
           "Action": "RSI 5-Star Setup"
         },
         {
-          "Date": "14-11-2026",
+          "Date": "15-11-2026",
           "Stock": "6098",
           "CMP": 17560.0,
           "Monthly RSI": 72.1,
