@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-11-14T00:56:13.845341+00:00",
+  "generated_at": "2026-11-15T00:00:05.722487+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
