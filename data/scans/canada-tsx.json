@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-11-15T01:13:55.625417+00:00",
+  "generated_at": "2026-11-16T01:20:13.112619+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "15-11-2026",
+          "Date": "16-11-2026",
           "Stock": "TRP",
           "CMP": 92.31,
           "30 DMA": 87.68,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "15-11-2026",
+          "Date": "16-11-2026",
           "Stock": "CM",
           "CMP": 164.99,
           "30 DMA": 161.15,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "15-11-2026",
+          "Date": "16-11-2026",
           "Stock": "BMO",
           "CMP": 247.02,
           "30 DMA": 238.26,
@@ -67,7 +67,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "15-11-2026",
+          "Date": "16-11-2026",
           "Stock": "BAM",
           "CMP": 73.48,
           "30 DMA": 68.09,
@@ -82,7 +82,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "15-11-2026",
+          "Date": "16-11-2026",
           "Stock": "CNR",
           "CMP": 181.29,
           "30 DMA": 173.78,
@@ -114,7 +114,7 @@
       ],
       "rows": [
         {
-          "Date": "15-11-2026",
+          "Date": "16-11-2026",
           "Stock": "MFC",
           "CMP": 62.89,
           "Monthly RSI": 71.4,
