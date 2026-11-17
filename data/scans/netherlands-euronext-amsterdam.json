@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-11-15T21:39:44.933404+00:00",
+  "generated_at": "2026-11-17T00:44:26.657838+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,38 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "15-11-2026",
-          "Stock": "KPN",
-          "CMP": 4.45,
-          "30 DMA": 4.16,
-          "50 DMA": 4.12,
-          "200 DMA": 4.3,
-          "200 DMA Dist %": 3.51,
-          "SL": 4.28,
-          "T1": 4.78,
-          "T2": 4.95,
-          "T3": 5.28,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "15-11-2026",
-          "Stock": "AKZA",
-          "CMP": 62.9,
-          "30 DMA": 59.91,
-          "50 DMA": 58.73,
-          "200 DMA": 56.32,
-          "200 DMA Dist %": 11.68,
-          "SL": 59.12,
-          "T1": 70.46,
-          "T2": 74.24,
-          "T3": 81.8,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
@@ -67,20 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "15-11-2026",
-          "Stock": "ABN",
-          "CMP": 42.12,
-          "Monthly RSI": 77.9,
-          "Weekly RSI": 63.8,
-          "Signal Date": "03-11-2026",
-          "Entry": 40.3,
-          "SL": 37.9,
-          "T1 (RSI 60 Est.)": 45.1,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
