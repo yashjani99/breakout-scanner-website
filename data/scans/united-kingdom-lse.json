@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-11-17T00:32:38.097315+00:00",
+  "generated_at": "2026-11-17T23:41:27.151898+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,128 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "17-11-2026",
+          "Stock": "NG",
+          "CMP": 1256.0,
+          "30 DMA": 1225.22,
+          "50 DMA": 1189.56,
+          "200 DMA": 1240.45,
+          "200 DMA Dist %": 1.25,
+          "SL": 1234.0,
+          "T1": 1300.0,
+          "T2": 1322.0,
+          "T3": 1366.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-11-2026",
+          "Stock": "BATS",
+          "CMP": 4524.0,
+          "30 DMA": 4460.53,
+          "50 DMA": 4328.82,
+          "200 DMA": 4410.82,
+          "200 DMA Dist %": 2.57,
+          "SL": 4465.0,
+          "T1": 4642.0,
+          "T2": 4701.0,
+          "T3": 4819.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-11-2026",
+          "Stock": "AZN",
+          "CMP": 13802.0,
+          "30 DMA": 13117.8,
+          "50 DMA": 12748.44,
+          "200 DMA": 13438.71,
+          "200 DMA Dist %": 2.7,
+          "SL": 13458.0,
+          "T1": 14490.0,
+          "T2": 14834.0,
+          "T3": 15522.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-11-2026",
+          "Stock": "IMB",
+          "CMP": 2918.0,
+          "30 DMA": 2855.87,
+          "50 DMA": 2701.58,
+          "200 DMA": 2831.0,
+          "200 DMA Dist %": 3.07,
+          "SL": 2876.0,
+          "T1": 3002.0,
+          "T2": 3044.0,
+          "T3": 3128.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-11-2026",
+          "Stock": "ULVR",
+          "CMP": 4955.5,
+          "30 DMA": 4874.77,
+          "50 DMA": 4770.53,
+          "200 DMA": 4651.92,
+          "200 DMA Dist %": 6.53,
+          "SL": 4783.62,
+          "T1": 5299.26,
+          "T2": 5471.14,
+          "T3": 5814.9,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-11-2026",
+          "Stock": "LSEG",
+          "CMP": 9646.0,
+          "30 DMA": 9190.8,
+          "50 DMA": 8817.56,
+          "200 DMA": 8767.44,
+          "200 DMA Dist %": 10.02,
+          "SL": 9288.0,
+          "T1": 10362.0,
+          "T2": 10720.0,
+          "T3": 11436.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-11-2026",
+          "Stock": "REL",
+          "CMP": 2984.0,
+          "30 DMA": 2928.4,
+          "50 DMA": 2763.96,
+          "200 DMA": 2566.53,
+          "200 DMA Dist %": 16.27,
+          "SL": 2912.0,
+          "T1": 3128.0,
+          "T2": 3200.0,
+          "T3": 3344.0,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "17-11-2026",
+          "Stock": "TSCO",
+          "CMP": 558.4,
+          "30 DMA": 537.21,
+          "50 DMA": 511.99,
+          "200 DMA": 480.19,
+          "200 DMA Dist %": 16.29,
+          "SL": 535.6,
+          "T1": 604.0,
+          "T2": 626.8,
+          "T3": 672.4,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
