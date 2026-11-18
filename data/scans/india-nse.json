@@ -1,7 +1,7 @@
 {
   "market": "India (NSE)",
   "currency": "INR",
-  "generated_at": "2026-11-17T19:18:50.628128+00:00",
+  "generated_at": "2026-11-18T19:00:51.750595+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
