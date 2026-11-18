@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-11-17T04:06:15.065000+00:00",
+  "generated_at": "2026-11-18T03:03:57.888552+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "17-11-2026",
+          "Date": "18-11-2026",
           "Stock": "HD",
-          "CMP": 347.51,
-          "30 DMA": 322.69,
-          "50 DMA": 312.68,
-          "200 DMA": 329.31,
-          "200 DMA Dist %": 5.53,
-          "SL": 330.71,
-          "T1": 381.11,
-          "T2": 397.91,
-          "T3": 431.51,
+          "CMP": 339.01,
+          "30 DMA": 324.44,
+          "50 DMA": 313.19,
+          "200 DMA": 329.16,
+          "200 DMA Dist %": 2.99,
+          "SL": 334.44,
+          "T1": 348.15,
+          "T2": 352.72,
+          "T3": 361.86,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "17-11-2026",
+          "Date": "18-11-2026",
           "Stock": "WMT",
-          "CMP": 128.41,
-          "30 DMA": 120.28,
-          "50 DMA": 114.96,
-          "200 DMA": 118.66,
-          "200 DMA Dist %": 8.22,
+          "CMP": 127.52,
+          "30 DMA": 120.96,
+          "50 DMA": 115.39,
+          "200 DMA": 118.68,
+          "200 DMA Dist %": 7.45,
           "SL": 123.03,
-          "T1": 139.17,
-          "T2": 144.55,
-          "T3": 155.31,
+          "T1": 136.5,
+          "T2": 140.99,
+          "T3": 149.97,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,15 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "17-11-2026",
+          "Date": "18-11-2026",
           "Stock": "AAPL",
-          "CMP": 352.78,
-          "Monthly RSI": 78.4,
-          "Weekly RSI": 66.3,
+          "CMP": 351.91,
+          "Monthly RSI": 78.3,
+          "Weekly RSI": 65.7,
           "Signal Date": "03-11-2026",
           "Entry": 334.25,
           "SL": 325.08,
-          "T1 (RSI 60 Est.)": 361.94,
+          "T1 (RSI 60 Est.)": 361.07,
           "Action": "RSI 5-Star Setup"
         }
       ]
