@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-11-17T23:48:41.957848+00:00",
+  "generated_at": "2026-11-18T23:20:47.362284+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
