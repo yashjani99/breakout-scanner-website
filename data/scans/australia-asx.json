@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-11-18T15:52:45.745032+00:00",
+  "generated_at": "2026-11-19T15:56:55.307668+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,47 +22,47 @@
       ],
       "rows": [
         {
-          "Date": "18-11-2026",
+          "Date": "19-11-2026",
           "Stock": "WBC",
-          "CMP": 36.82,
-          "30 DMA": 35.78,
-          "50 DMA": 35.0,
-          "200 DMA": 36.25,
-          "200 DMA Dist %": 1.57,
-          "SL": 35.74,
-          "T1": 38.98,
-          "T2": 40.06,
-          "T3": 42.22,
+          "CMP": 36.76,
+          "30 DMA": 35.91,
+          "50 DMA": 35.07,
+          "200 DMA": 36.24,
+          "200 DMA Dist %": 1.43,
+          "SL": 36.38,
+          "T1": 37.52,
+          "T2": 37.9,
+          "T3": 38.66,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "18-11-2026",
+          "Date": "19-11-2026",
+          "Stock": "CBA",
+          "CMP": 171.63,
+          "30 DMA": 162.93,
+          "50 DMA": 158.42,
+          "200 DMA": 164.76,
+          "200 DMA Dist %": 4.17,
+          "SL": 164.77,
+          "T1": 185.35,
+          "T2": 192.21,
+          "T3": 205.93,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "19-11-2026",
           "Stock": "TLS",
-          "CMP": 5.15,
-          "30 DMA": 4.93,
+          "CMP": 5.23,
+          "30 DMA": 4.94,
           "50 DMA": 4.89,
           "200 DMA": 4.97,
-          "200 DMA Dist %": 3.66,
+          "200 DMA Dist %": 5.21,
           "SL": 5.01,
-          "T1": 5.43,
-          "T2": 5.57,
-          "T3": 5.85,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "18-11-2026",
-          "Stock": "CBA",
-          "CMP": 170.88,
-          "30 DMA": 162.15,
-          "50 DMA": 158.05,
-          "200 DMA": 164.67,
-          "200 DMA Dist %": 3.77,
-          "SL": 164.23,
-          "T1": 184.18,
-          "T2": 190.83,
-          "T3": 204.13,
+          "T1": 5.67,
+          "T2": 5.89,
+          "T3": 6.33,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -82,20 +82,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "18-11-2026",
-          "Stock": "WOW",
-          "CMP": 41.99,
-          "Monthly RSI": 78.3,
-          "Weekly RSI": 63.6,
-          "Signal Date": "29-10-2026",
-          "Entry": 40.45,
-          "SL": 39.22,
-          "T1 (RSI 60 Est.)": 43.22,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
