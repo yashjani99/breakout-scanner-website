@@ -1,7 +1,7 @@
 {
   "market": "Japan (Tokyo)",
   "currency": "JPY",
-  "generated_at": "2026-11-19T16:28:27.099091+00:00",
+  "generated_at": "2026-11-20T15:59:50.505448+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
