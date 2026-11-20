@@ -1,7 +1,7 @@
 {
   "market": "Germany (XETRA)",
   "currency": "EUR",
-  "generated_at": "2026-11-19T23:21:34.527390+00:00",
+  "generated_at": "2026-11-20T22:53:31.372858+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,38 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "20-11-2026",
+          "Stock": "EOAN",
+          "CMP": 18.61,
+          "30 DMA": 18.52,
+          "50 DMA": 17.99,
+          "200 DMA": 18.29,
+          "200 DMA Dist %": 1.72,
+          "SL": 18.43,
+          "T1": 18.97,
+          "T2": 19.15,
+          "T3": 19.51,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "20-11-2026",
+          "Stock": "HEI",
+          "CMP": 173.55,
+          "30 DMA": 160.01,
+          "50 DMA": 154.07,
+          "200 DMA": 169.89,
+          "200 DMA Dist %": 2.16,
+          "SL": 171.55,
+          "T1": 177.55,
+          "T2": 179.55,
+          "T3": 183.55,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
