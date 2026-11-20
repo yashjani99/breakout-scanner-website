@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-11-19T02:44:53.798131+00:00",
+  "generated_at": "2026-11-20T02:30:57.109046+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,62 +22,47 @@
       ],
       "rows": [
         {
-          "Date": "19-11-2026",
-          "Stock": "QSR",
-          "CMP": 105.87,
-          "30 DMA": 105.33,
-          "50 DMA": 104.09,
-          "200 DMA": 102.46,
-          "200 DMA Dist %": 3.33,
-          "SL": 104.63,
-          "T1": 108.35,
-          "T2": 109.59,
-          "T3": 112.07,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "19-11-2026",
+          "Date": "20-11-2026",
           "Stock": "TRP",
-          "CMP": 91.42,
-          "30 DMA": 88.36,
-          "50 DMA": 86.62,
-          "200 DMA": 88.01,
-          "200 DMA Dist %": 3.88,
+          "CMP": 90.11,
+          "30 DMA": 88.57,
+          "50 DMA": 86.69,
+          "200 DMA": 88.07,
+          "200 DMA Dist %": 2.32,
           "SL": 85.74,
-          "T1": 102.78,
-          "T2": 108.46,
-          "T3": 119.82,
+          "T1": 98.85,
+          "T2": 103.22,
+          "T3": 111.96,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-11-2026",
+          "Date": "20-11-2026",
           "Stock": "BAM",
-          "CMP": 72.16,
-          "30 DMA": 68.92,
-          "50 DMA": 66.99,
-          "200 DMA": 65.79,
-          "200 DMA Dist %": 9.68,
+          "CMP": 72.06,
+          "30 DMA": 69.2,
+          "50 DMA": 67.11,
+          "200 DMA": 65.84,
+          "200 DMA Dist %": 9.45,
           "SL": 70.88,
-          "T1": 74.72,
-          "T2": 76.0,
-          "T3": 78.56,
+          "T1": 74.42,
+          "T2": 75.6,
+          "T3": 77.96,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "19-11-2026",
+          "Date": "20-11-2026",
           "Stock": "CNR",
-          "CMP": 179.36,
-          "30 DMA": 174.88,
-          "50 DMA": 172.48,
-          "200 DMA": 161.98,
-          "200 DMA Dist %": 10.73,
+          "CMP": 178.66,
+          "30 DMA": 175.34,
+          "50 DMA": 172.68,
+          "200 DMA": 162.23,
+          "200 DMA Dist %": 10.13,
           "SL": 173.82,
-          "T1": 190.44,
-          "T2": 195.98,
-          "T3": 207.06,
+          "T1": 188.34,
+          "T2": 193.18,
+          "T3": 202.86,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -97,20 +82,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "19-11-2026",
-          "Stock": "POW",
-          "CMP": 94.22,
-          "Monthly RSI": 72.6,
-          "Weekly RSI": 60.2,
-          "Signal Date": "06-11-2026",
-          "Entry": 92.36,
-          "SL": 90.41,
-          "T1 (RSI 60 Est.)": 97.69,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
