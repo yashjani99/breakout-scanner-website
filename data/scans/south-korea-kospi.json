@@ -1,7 +1,7 @@
 {
   "market": "South Korea (KOSPI)",
   "currency": "KRW",
-  "generated_at": "2026-11-19T16:13:00.528897+00:00",
+  "generated_at": "2026-11-20T15:51:52.312585+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
