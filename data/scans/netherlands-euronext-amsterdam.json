@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-11-20T23:01:43.329197+00:00",
+  "generated_at": "2026-11-21T22:07:56.468729+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "21-11-2026",
+          "Stock": "KPN",
+          "CMP": 4.34,
+          "30 DMA": 4.24,
+          "50 DMA": 4.15,
+          "200 DMA": 4.3,
+          "200 DMA Dist %": 1.05,
+          "SL": 4.28,
+          "T1": 4.48,
+          "T2": 4.54,
+          "T3": 4.67,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
