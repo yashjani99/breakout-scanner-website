@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-11-20T23:02:46.181484+00:00",
+  "generated_at": "2026-11-21T22:09:15.383130+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,7 +20,23 @@
         "CAR Status",
         "Action"
       ],
-      "rows": []
+      "rows": [
+        {
+          "Date": "21-11-2026",
+          "Stock": "G",
+          "CMP": 43.34,
+          "30 DMA": 43.24,
+          "50 DMA": 43.34,
+          "200 DMA": 39.99,
+          "200 DMA Dist %": 8.38,
+          "SL": 42.72,
+          "T1": 44.58,
+          "T2": 45.2,
+          "T3": 46.44,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        }
+      ]
     },
     "rsi": {
       "label": "RSI 5-Star",
