@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-11-21T21:56:46.378865+00:00",
+  "generated_at": "2026-11-22T22:11:29.833539+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "21-11-2026",
+          "Date": "22-11-2026",
           "Stock": "LSEG",
           "CMP": 9662.0,
           "30 DMA": 9302.73,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-11-2026",
+          "Date": "22-11-2026",
           "Stock": "TSCO",
           "CMP": 553.0,
           "30 DMA": 543.15,
@@ -52,7 +52,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-11-2026",
+          "Date": "22-11-2026",
           "Stock": "REL",
           "CMP": 2976.0,
           "30 DMA": 2961.37,
