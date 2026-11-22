@@ -1,7 +1,7 @@
 {
   "market": "Canada (TSX)",
   "currency": "CAD",
-  "generated_at": "2026-11-21T02:43:27.043920+00:00",
+  "generated_at": "2026-11-22T01:30:30.484597+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "21-11-2026",
+          "Date": "22-11-2026",
           "Stock": "TRP",
           "CMP": 89.08,
           "30 DMA": 88.69,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "21-11-2026",
+          "Date": "22-11-2026",
           "Stock": "BAM",
           "CMP": 70.22,
           "30 DMA": 69.4,
