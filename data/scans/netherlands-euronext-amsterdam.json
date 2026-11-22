@@ -1,7 +1,7 @@
 {
   "market": "Netherlands (Euronext Amsterdam)",
   "currency": "EUR",
-  "generated_at": "2026-11-21T22:07:56.468729+00:00",
+  "generated_at": "2026-11-22T22:23:50.048551+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "21-11-2026",
+          "Date": "22-11-2026",
           "Stock": "KPN",
           "CMP": 4.34,
           "30 DMA": 4.24,
