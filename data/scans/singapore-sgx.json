@@ -1,7 +1,7 @@
 {
   "market": "Singapore (SGX)",
   "currency": "SGD",
-  "generated_at": "2026-11-21T16:53:57.300674+00:00",
+  "generated_at": "2026-11-22T17:17:33.356124+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "21-11-2026",
+          "Date": "22-11-2026",
           "Stock": "C6L",
           "CMP": 6.99,
           "30 DMA": 6.79,
