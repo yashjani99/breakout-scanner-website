@@ -1,7 +1,7 @@
 {
   "market": "Italy (Borsa Italiana)",
   "currency": "EUR",
-  "generated_at": "2026-11-21T22:09:15.383130+00:00",
+  "generated_at": "2026-11-22T22:25:45.150941+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "21-11-2026",
+          "Date": "22-11-2026",
           "Stock": "G",
           "CMP": 43.34,
           "30 DMA": 43.24,
