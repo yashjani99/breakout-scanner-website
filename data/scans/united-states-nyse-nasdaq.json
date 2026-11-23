@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-11-22T01:29:48.888092+00:00",
+  "generated_at": "2026-11-23T01:54:50.339222+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "22-11-2026",
+          "Date": "23-11-2026",
           "Stock": "HD",
           "CMP": 339.04,
           "30 DMA": 329.15,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "22-11-2026",
+          "Date": "23-11-2026",
           "Stock": "WMT",
           "CMP": 127.95,
           "30 DMA": 122.67,
@@ -69,7 +69,7 @@
       ],
       "rows": [
         {
-          "Date": "22-11-2026",
+          "Date": "23-11-2026",
           "Stock": "AAPL",
           "CMP": 342.56,
           "Monthly RSI": 76.7,
