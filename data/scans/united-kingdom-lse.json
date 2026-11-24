@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-11-22T22:11:29.833539+00:00",
+  "generated_at": "2026-11-24T03:05:45.281992+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -20,53 +20,7 @@
         "CAR Status",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "22-11-2026",
-          "Stock": "LSEG",
-          "CMP": 9662.0,
-          "30 DMA": 9302.73,
-          "50 DMA": 8889.08,
-          "200 DMA": 8800.36,
-          "200 DMA Dist %": 9.79,
-          "SL": 9288.0,
-          "T1": 10410.0,
-          "T2": 10784.0,
-          "T3": 11532.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "22-11-2026",
-          "Stock": "TSCO",
-          "CMP": 553.0,
-          "30 DMA": 543.15,
-          "50 DMA": 517.14,
-          "200 DMA": 481.73,
-          "200 DMA Dist %": 14.8,
-          "SL": 544.8,
-          "T1": 569.4,
-          "T2": 577.6,
-          "T3": 594.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        },
-        {
-          "Date": "22-11-2026",
-          "Stock": "REL",
-          "CMP": 2976.0,
-          "30 DMA": 2961.37,
-          "50 DMA": 2792.34,
-          "200 DMA": 2578.16,
-          "200 DMA Dist %": 15.43,
-          "SL": 2939.0,
-          "T1": 3050.0,
-          "T2": 3087.0,
-          "T3": 3161.0,
-          "CAR Status": "Positive",
-          "Action": "Positive Breakout"
-        }
-      ]
+      "rows": []
     },
     "rsi": {
       "label": "RSI 5-Star",
