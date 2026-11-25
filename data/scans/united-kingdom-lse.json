@@ -1,7 +1,7 @@
 {
   "market": "United Kingdom (LSE)",
   "currency": "GBP",
-  "generated_at": "2026-11-24T03:05:45.281992+00:00",
+  "generated_at": "2026-11-25T01:09:44.991294+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
