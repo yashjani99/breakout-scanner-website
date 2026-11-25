@@ -1,7 +1,7 @@
 {
   "market": "Switzerland (SIX)",
   "currency": "CHF",
-  "generated_at": "2026-11-24T03:16:17.947625+00:00",
+  "generated_at": "2026-11-25T01:21:14.735933+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -36,20 +36,7 @@
         "T1 (RSI 60 Est.)",
         "Action"
       ],
-      "rows": [
-        {
-          "Date": "24-11-2026",
-          "Stock": "SREN",
-          "CMP": 150.8,
-          "Monthly RSI": 66.1,
-          "Weekly RSI": 65.0,
-          "Signal Date": "19-11-2026",
-          "Entry": 149.5,
-          "SL": 147.3,
-          "T1 (RSI 60 Est.)": 155.24,
-          "Action": "RSI 5-Star Setup"
-        }
-      ]
+      "rows": []
     },
     "confluence": {
       "label": "Confluence (Both)",
