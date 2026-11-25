@@ -1,7 +1,7 @@
 {
   "market": "United States (NYSE/NASDAQ)",
   "currency": "USD",
-  "generated_at": "2026-11-24T05:27:12.574133+00:00",
+  "generated_at": "2026-11-25T04:30:02.793744+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,32 +22,32 @@
       ],
       "rows": [
         {
-          "Date": "24-11-2026",
+          "Date": "25-11-2026",
           "Stock": "HD",
-          "CMP": 346.06,
-          "30 DMA": 331.0,
-          "50 DMA": 315.66,
-          "200 DMA": 328.44,
-          "200 DMA Dist %": 5.36,
+          "CMP": 353.69,
+          "30 DMA": 332.99,
+          "50 DMA": 316.63,
+          "200 DMA": 328.34,
+          "200 DMA Dist %": 7.72,
           "SL": 330.31,
-          "T1": 377.56,
-          "T2": 393.31,
-          "T3": 424.81,
+          "T1": 400.45,
+          "T2": 423.83,
+          "T3": 470.59,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         },
         {
-          "Date": "24-11-2026",
+          "Date": "25-11-2026",
           "Stock": "WMT",
-          "CMP": 129.58,
-          "30 DMA": 123.22,
-          "50 DMA": 117.06,
-          "200 DMA": 118.68,
-          "200 DMA Dist %": 9.19,
+          "CMP": 132.31,
+          "30 DMA": 123.89,
+          "50 DMA": 117.54,
+          "200 DMA": 118.7,
+          "200 DMA Dist %": 11.47,
           "SL": 123.27,
-          "T1": 142.2,
-          "T2": 148.51,
-          "T3": 161.13,
+          "T1": 150.39,
+          "T2": 159.43,
+          "T3": 177.51,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
@@ -69,27 +69,15 @@
       ],
       "rows": [
         {
-          "Date": "24-11-2026",
+          "Date": "25-11-2026",
           "Stock": "V",
-          "CMP": 409.4,
-          "Monthly RSI": 68.1,
-          "Weekly RSI": 64.2,
+          "CMP": 416.78,
+          "Monthly RSI": 69.9,
+          "Weekly RSI": 66.2,
           "Signal Date": "20-11-2026",
           "Entry": 408.74,
           "SL": 400.74,
-          "T1 (RSI 60 Est.)": 426.48,
-          "Action": "RSI 5-Star Setup"
-        },
-        {
-          "Date": "24-11-2026",
-          "Stock": "AAPL",
-          "CMP": 349.08,
-          "Monthly RSI": 77.9,
-          "Weekly RSI": 62.5,
-          "Signal Date": "03-11-2026",
-          "Entry": 334.25,
-          "SL": 325.08,
-          "T1 (RSI 60 Est.)": 358.59,
+          "T1 (RSI 60 Est.)": 425.79,
           "Action": "RSI 5-Star Setup"
         }
       ]
