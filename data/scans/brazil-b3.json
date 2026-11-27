@@ -1,7 +1,7 @@
 {
   "market": "Brazil (B3)",
   "currency": "BRL",
-  "generated_at": "2026-11-26T02:57:24.938788+00:00",
+  "generated_at": "2026-11-27T02:59:35.790395+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,17 +22,47 @@
       ],
       "rows": [
         {
-          "Date": "26-11-2026",
-          "Stock": "SUZB3",
-          "CMP": 55.4,
-          "30 DMA": 49.98,
-          "50 DMA": 48.05,
-          "200 DMA": 46.64,
-          "200 DMA Dist %": 18.78,
+          "Date": "27-11-2026",
+          "Stock": "ABEV3",
+          "CMP": 16.43,
+          "30 DMA": 15.9,
+          "50 DMA": 15.8,
+          "200 DMA": 15.65,
+          "200 DMA Dist %": 5.01,
           "SL": 0.0,
-          "T1": 166.2,
-          "T2": 221.6,
-          "T3": 332.4,
+          "T1": 49.29,
+          "T2": 65.72,
+          "T3": 98.58,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "27-11-2026",
+          "Stock": "WEGE3",
+          "CMP": 51.36,
+          "30 DMA": 48.95,
+          "50 DMA": 49.75,
+          "200 DMA": 47.73,
+          "200 DMA Dist %": 7.62,
+          "SL": 0.0,
+          "T1": 154.08,
+          "T2": 205.44,
+          "T3": 308.16,
+          "CAR Status": "Positive",
+          "Action": "Positive Breakout"
+        },
+        {
+          "Date": "27-11-2026",
+          "Stock": "SUZB3",
+          "CMP": 54.87,
+          "30 DMA": 50.37,
+          "50 DMA": 48.2,
+          "200 DMA": 46.66,
+          "200 DMA Dist %": 17.59,
+          "SL": 0.0,
+          "T1": 164.61,
+          "T2": 219.48,
+          "T3": 329.22,
           "CAR Status": "Positive",
           "Action": "Positive Breakout"
         }
