@@ -1,7 +1,7 @@
 {
   "market": "Australia (ASX)",
   "currency": "AUD",
-  "generated_at": "2026-11-27T16:52:37.213972+00:00",
+  "generated_at": "2026-11-28T15:44:04.134723+00:00",
   "strategies": {
     "breakout": {
       "label": "Breakout (DMA + CAR)",
@@ -22,7 +22,7 @@
       ],
       "rows": [
         {
-          "Date": "27-11-2026",
+          "Date": "28-11-2026",
           "Stock": "CBA",
           "CMP": 169.29,
           "30 DMA": 166.19,
@@ -37,7 +37,7 @@
           "Action": "Positive Breakout"
         },
         {
-          "Date": "27-11-2026",
+          "Date": "28-11-2026",
           "Stock": "TLS",
           "CMP": 5.2,
           "30 DMA": 5.04,
